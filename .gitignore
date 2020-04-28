@@ -1,0 +1,24 @@
+# Workspace
+.vscode/
+*.code-workspace
+
+# Python
+*.pyc
+venv/
+__pycache__/
+
+# Debug
+bin/
+*.log
+build/*/
+dist/
+*.log.*
+releases/*
+obsolete/*
+
+# Project
+*.csv#
+processed_data/mortality_county/
+processed_data/mortality_projection/
+processed_data/slope_intercept/
+
