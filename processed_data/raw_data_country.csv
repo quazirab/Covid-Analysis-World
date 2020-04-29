@@ -16027,7 +16027,7 @@ date,province_state,country_region,cases,mortality
 2020-03-11,New Hampshire,US,5,0
 2020-03-11,New Jersey,US,23,1
 2020-03-11,New Mexico,US,3,0
-2020-03-11,New York,US,220,1
+2020-03-11,New York,US,220,0
 2020-03-11,North Carolina,US,7,0
 2020-03-11,North Dakota,US,0,0
 2020-03-11,Northern Mariana Islands,US,0,0
@@ -16348,7 +16348,7 @@ date,province_state,country_region,cases,mortality
 2020-03-12,New Hampshire,US,6,0
 2020-03-12,New Jersey,US,29,1
 2020-03-12,New Mexico,US,5,0
-2020-03-12,New York,US,327,2
+2020-03-12,New York,US,327,1
 2020-03-12,North Carolina,US,15,0
 2020-03-12,North Dakota,US,1,0
 2020-03-12,Northern Mariana Islands,US,0,0
@@ -16528,7 +16528,7 @@ date,province_state,country_region,cases,mortality
 2020-03-13,,Malta,12,0
 2020-03-13,,Mauritania,0,0
 2020-03-13,,Mauritius,0,0
-2020-03-13,,Mexico,12,0
+2020-03-13,,Mexico,26,0
 2020-03-13,,Moldova,6,0
 2020-03-13,,Monaco,2,0
 2020-03-13,,Mongolia,1,0
@@ -16669,7 +16669,7 @@ date,province_state,country_region,cases,mortality
 2020-03-13,New Hampshire,US,6,0
 2020-03-13,New Jersey,US,49,1
 2020-03-13,New Mexico,US,10,0
-2020-03-13,New York,US,421,5
+2020-03-13,New York,US,421,2
 2020-03-13,North Carolina,US,17,0
 2020-03-13,North Dakota,US,1,0
 2020-03-13,Northern Mariana Islands,US,0,0
@@ -16849,7 +16849,7 @@ date,province_state,country_region,cases,mortality
 2020-03-14,,Malta,18,0
 2020-03-14,,Mauritania,1,0
 2020-03-14,,Mauritius,0,0
-2020-03-14,,Mexico,26,0
+2020-03-14,,Mexico,41,0
 2020-03-14,,Moldova,12,0
 2020-03-14,,Monaco,2,0
 2020-03-14,,Mongolia,1,0
@@ -16990,7 +16990,7 @@ date,province_state,country_region,cases,mortality
 2020-03-14,New Hampshire,US,7,0
 2020-03-14,New Jersey,US,69,1
 2020-03-14,New Mexico,US,13,0
-2020-03-14,New York,US,613,12
+2020-03-14,New York,US,613,6
 2020-03-14,North Carolina,US,25,0
 2020-03-14,North Dakota,US,1,0
 2020-03-14,Northern Mariana Islands,US,0,0
@@ -17170,7 +17170,7 @@ date,province_state,country_region,cases,mortality
 2020-03-15,,Malta,21,0
 2020-03-15,,Mauritania,1,0
 2020-03-15,,Mauritius,0,0
-2020-03-15,,Mexico,41,0
+2020-03-15,,Mexico,53,0
 2020-03-15,,Moldova,23,0
 2020-03-15,,Monaco,2,0
 2020-03-15,,Mongolia,1,0
@@ -17311,7 +17311,7 @@ date,province_state,country_region,cases,mortality
 2020-03-15,New Hampshire,US,7,0
 2020-03-15,New Jersey,US,72,2
 2020-03-15,New Mexico,US,13,0
-2020-03-15,New York,US,615,22
+2020-03-15,New York,US,615,12
 2020-03-15,North Carolina,US,32,0
 2020-03-15,North Dakota,US,1,0
 2020-03-15,Northern Mariana Islands,US,0,0
@@ -17491,7 +17491,7 @@ date,province_state,country_region,cases,mortality
 2020-03-16,,Malta,30,0
 2020-03-16,,Mauritania,1,0
 2020-03-16,,Mauritius,0,0
-2020-03-16,,Mexico,53,0
+2020-03-16,,Mexico,82,0
 2020-03-16,,Moldova,23,0
 2020-03-16,,Monaco,7,0
 2020-03-16,,Mongolia,1,0
@@ -17632,7 +17632,7 @@ date,province_state,country_region,cases,mortality
 2020-03-16,New Hampshire,US,17,0
 2020-03-16,New Jersey,US,176,2
 2020-03-16,New Mexico,US,21,0
-2020-03-16,New York,US,967,35
+2020-03-16,New York,US,967,24
 2020-03-16,North Carolina,US,39,0
 2020-03-16,North Dakota,US,1,0
 2020-03-16,Northern Mariana Islands,US,0,0
@@ -17812,7 +17812,7 @@ date,province_state,country_region,cases,mortality
 2020-03-17,,Malta,38,0
 2020-03-17,,Mauritania,1,0
 2020-03-17,,Mauritius,0,0
-2020-03-17,,Mexico,82,0
+2020-03-17,,Mexico,93,0
 2020-03-17,,Moldova,30,0
 2020-03-17,,Monaco,7,0
 2020-03-17,,Mongolia,5,0
@@ -17953,7 +17953,7 @@ date,province_state,country_region,cases,mortality
 2020-03-17,New Hampshire,US,26,0
 2020-03-17,New Jersey,US,250,3
 2020-03-17,New Mexico,US,23,0
-2020-03-17,New York,US,1578,63
+2020-03-17,New York,US,1578,38
 2020-03-17,North Carolina,US,64,0
 2020-03-17,North Dakota,US,3,0
 2020-03-17,Northern Mariana Islands,US,0,0
@@ -18133,7 +18133,7 @@ date,province_state,country_region,cases,mortality
 2020-03-18,,Malta,38,0
 2020-03-18,,Mauritania,1,0
 2020-03-18,,Mauritius,3,0
-2020-03-18,,Mexico,93,0
+2020-03-18,,Mexico,118,0
 2020-03-18,,Moldova,30,1
 2020-03-18,,Monaco,7,0
 2020-03-18,,Mongolia,6,0
@@ -18274,7 +18274,7 @@ date,province_state,country_region,cases,mortality
 2020-03-18,New Hampshire,US,37,0
 2020-03-18,New Jersey,US,397,5
 2020-03-18,New Mexico,US,28,0
-2020-03-18,New York,US,3038,90
+2020-03-18,New York,US,3038,63
 2020-03-18,North Carolina,US,92,0
 2020-03-18,North Dakota,US,6,0
 2020-03-18,Northern Mariana Islands,US,0,0
@@ -18454,7 +18454,7 @@ date,province_state,country_region,cases,mortality
 2020-03-19,,Malta,53,0
 2020-03-19,,Mauritania,2,0
 2020-03-19,,Mauritius,3,0
-2020-03-19,,Mexico,118,1
+2020-03-19,,Mexico,164,1
 2020-03-19,,Moldova,49,1
 2020-03-19,,Monaco,7,0
 2020-03-19,,Mongolia,6,0
@@ -18595,7 +18595,7 @@ date,province_state,country_region,cases,mortality
 2020-03-19,New Hampshire,US,42,0
 2020-03-19,New Jersey,US,741,9
 2020-03-19,New Mexico,US,35,0
-2020-03-19,New York,US,5704,146
+2020-03-19,New York,US,5704,96
 2020-03-19,North Carolina,US,136,0
 2020-03-19,North Dakota,US,19,0
 2020-03-19,Northern Mariana Islands,US,0,0
@@ -18775,7 +18775,7 @@ date,province_state,country_region,cases,mortality
 2020-03-20,,Malta,64,0
 2020-03-20,,Mauritania,2,0
 2020-03-20,,Mauritius,12,0
-2020-03-20,,Mexico,164,1
+2020-03-20,,Mexico,203,2
 2020-03-20,,Moldova,66,1
 2020-03-20,,Monaco,11,0
 2020-03-20,,Mongolia,6,0
@@ -18916,7 +18916,7 @@ date,province_state,country_region,cases,mortality
 2020-03-20,New Hampshire,US,53,0
 2020-03-20,New Jersey,US,890,11
 2020-03-20,New Mexico,US,42,0
-2020-03-20,New York,US,8403,197
+2020-03-20,New York,US,8403,151
 2020-03-20,North Carolina,US,189,0
 2020-03-20,North Dakota,US,26,0
 2020-03-20,Northern Mariana Islands,US,0,0
@@ -19096,7 +19096,7 @@ date,province_state,country_region,cases,mortality
 2020-03-21,,Malta,73,0
 2020-03-21,,Mauritania,2,0
 2020-03-21,,Mauritius,14,1
-2020-03-21,,Mexico,203,2
+2020-03-21,,Mexico,251,2
 2020-03-21,,Moldova,80,1
 2020-03-21,,Monaco,11,0
 2020-03-21,,Mongolia,10,0
@@ -19237,7 +19237,7 @@ date,province_state,country_region,cases,mortality
 2020-03-21,New Hampshire,US,61,0
 2020-03-21,New Jersey,US,1327,16
 2020-03-21,New Mexico,US,55,0
-2020-03-21,New York,US,11727,247
+2020-03-21,New York,US,11727,195
 2020-03-21,North Carolina,US,256,0
 2020-03-21,North Dakota,US,28,0
 2020-03-21,Northern Mariana Islands,US,0,0
@@ -19417,7 +19417,7 @@ date,province_state,country_region,cases,mortality
 2020-03-22,,Malta,90,0
 2020-03-22,,Mauritania,2,0
 2020-03-22,,Mauritius,28,2
-2020-03-22,,Mexico,251,2
+2020-03-22,,Mexico,316,3
 2020-03-22,,Moldova,94,1
 2020-03-22,,Monaco,23,0
 2020-03-22,,Mongolia,10,0
@@ -19558,7 +19558,7 @@ date,province_state,country_region,cases,mortality
 2020-03-22,New Hampshire,US,73,0
 2020-03-22,New Jersey,US,1914,20
 2020-03-22,New Mexico,US,57,0
-2020-03-22,New York,US,15800,382
+2020-03-22,New York,US,15800,286
 2020-03-22,North Carolina,US,305,0
 2020-03-22,North Dakota,US,28,0
 2020-03-22,Northern Mariana Islands,US,0,0
@@ -19738,7 +19738,7 @@ date,province_state,country_region,cases,mortality
 2020-03-23,,Malta,107,0
 2020-03-23,,Mauritania,2,0
 2020-03-23,,Mauritius,36,2
-2020-03-23,,Mexico,316,3
+2020-03-23,,Mexico,367,4
 2020-03-23,,Moldova,109,1
 2020-03-23,,Monaco,23,0
 2020-03-23,,Mongolia,10,0
@@ -19879,7 +19879,7 @@ date,province_state,country_region,cases,mortality
 2020-03-23,New Hampshire,US,101,1
 2020-03-23,New Jersey,US,2844,27
 2020-03-23,New Mexico,US,83,0
-2020-03-23,New York,US,20884,492
+2020-03-23,New York,US,20884,387
 2020-03-23,North Carolina,US,353,0
 2020-03-23,North Dakota,US,30,0
 2020-03-23,Northern Mariana Islands,US,0,0
@@ -20059,7 +20059,7 @@ date,province_state,country_region,cases,mortality
 2020-03-24,,Malta,110,0
 2020-03-24,,Mauritania,2,0
 2020-03-24,,Mauritius,42,2
-2020-03-24,,Mexico,367,4
+2020-03-24,,Mexico,405,5
 2020-03-24,,Moldova,125,1
 2020-03-24,,Monaco,23,0
 2020-03-24,,Mongolia,10,0
@@ -20200,7 +20200,7 @@ date,province_state,country_region,cases,mortality
 2020-03-24,New Hampshire,US,101,1
 2020-03-24,New Jersey,US,3675,44
 2020-03-24,New Mexico,US,100,0
-2020-03-24,New York,US,25681,652
+2020-03-24,New York,US,25681,512
 2020-03-24,North Carolina,US,495,0
 2020-03-24,North Dakota,US,36,0
 2020-03-24,Northern Mariana Islands,US,0,0
@@ -20380,7 +20380,7 @@ date,province_state,country_region,cases,mortality
 2020-03-25,,Malta,129,0
 2020-03-25,,Mauritania,2,0
 2020-03-25,,Mauritius,48,2
-2020-03-25,,Mexico,405,5
+2020-03-25,,Mexico,475,6
 2020-03-25,,Moldova,149,1
 2020-03-25,,Monaco,31,0
 2020-03-25,,Mongolia,10,0
@@ -20521,7 +20521,7 @@ date,province_state,country_region,cases,mortality
 2020-03-25,New Hampshire,US,108,1
 2020-03-25,New Jersey,US,4402,62
 2020-03-25,New Mexico,US,113,1
-2020-03-25,New York,US,30841,884
+2020-03-25,New York,US,30841,659
 2020-03-25,North Carolina,US,590,2
 2020-03-25,North Dakota,US,45,0
 2020-03-25,Northern Mariana Islands,US,0,0
@@ -20701,7 +20701,7 @@ date,province_state,country_region,cases,mortality
 2020-03-26,,Malta,134,0
 2020-03-26,,Mauritania,3,0
 2020-03-26,,Mauritius,81,2
-2020-03-26,,Mexico,475,6
+2020-03-26,,Mexico,585,8
 2020-03-26,,Moldova,177,1
 2020-03-26,,Monaco,33,0
 2020-03-26,,Mongolia,11,0
@@ -20842,7 +20842,7 @@ date,province_state,country_region,cases,mortality
 2020-03-26,New Hampshire,US,137,1
 2020-03-26,New Jersey,US,6876,81
 2020-03-26,New Mexico,US,113,1
-2020-03-26,New York,US,37877,1154
+2020-03-26,New York,US,37877,902
 2020-03-26,North Carolina,US,738,3
 2020-03-26,North Dakota,US,51,0
 2020-03-26,Northern Mariana Islands,US,0,0
@@ -21022,7 +21022,7 @@ date,province_state,country_region,cases,mortality
 2020-03-27,,Malta,139,0
 2020-03-27,,Mauritania,3,0
 2020-03-27,,Mauritius,94,2
-2020-03-27,,Mexico,585,8
+2020-03-27,,Mexico,717,12
 2020-03-27,,Moldova,199,2
 2020-03-27,,Monaco,42,0
 2020-03-27,,Mongolia,11,0
@@ -21163,7 +21163,7 @@ date,province_state,country_region,cases,mortality
 2020-03-27,New Hampshire,US,158,1
 2020-03-27,New Jersey,US,8825,108
 2020-03-27,New Mexico,US,136,1
-2020-03-27,New York,US,44876,1538
+2020-03-27,New York,US,44876,1211
 2020-03-27,North Carolina,US,887,4
 2020-03-27,North Dakota,US,68,1
 2020-03-27,Northern Mariana Islands,US,0,0
@@ -21343,7 +21343,7 @@ date,province_state,country_region,cases,mortality
 2020-03-28,,Malta,149,0
 2020-03-28,,Mauritania,5,0
 2020-03-28,,Mauritius,102,2
-2020-03-28,,Mexico,717,12
+2020-03-28,,Mexico,848,16
 2020-03-28,,Moldova,231,2
 2020-03-28,,Monaco,42,0
 2020-03-28,,Mongolia,12,0
@@ -21484,7 +21484,7 @@ date,province_state,country_region,cases,mortality
 2020-03-28,New Hampshire,US,187,2
 2020-03-28,New Jersey,US,11124,140
 2020-03-28,New Mexico,US,208,1
-2020-03-28,New York,US,52410,1940
+2020-03-28,New York,US,52410,1588
 2020-03-28,North Carolina,US,1020,5
 2020-03-28,North Dakota,US,94,1
 2020-03-28,Northern Mariana Islands,US,0,0
@@ -21664,7 +21664,7 @@ date,province_state,country_region,cases,mortality
 2020-03-29,,Malta,151,0
 2020-03-29,,Mauritania,5,0
 2020-03-29,,Mauritius,107,3
-2020-03-29,,Mexico,848,16
+2020-03-29,,Mexico,993,20
 2020-03-29,,Moldova,263,2
 2020-03-29,,Monaco,46,1
 2020-03-29,,Mongolia,12,0
@@ -21805,7 +21805,7 @@ date,province_state,country_region,cases,mortality
 2020-03-29,New Hampshire,US,214,2
 2020-03-29,New Jersey,US,13386,161
 2020-03-29,New Mexico,US,237,2
-2020-03-29,New York,US,59648,2415
+2020-03-29,New York,US,59648,2016
 2020-03-29,North Carolina,US,1191,7
 2020-03-29,North Dakota,US,98,1
 2020-03-29,Northern Mariana Islands,US,0,0
@@ -21985,7 +21985,7 @@ date,province_state,country_region,cases,mortality
 2020-03-30,,Malta,156,0
 2020-03-30,,Mauritania,5,1
 2020-03-30,,Mauritius,128,3
-2020-03-30,,Mexico,993,20
+2020-03-30,,Mexico,1094,28
 2020-03-30,,Moldova,298,2
 2020-03-30,,Monaco,49,1
 2020-03-30,,Mongolia,12,0
@@ -22126,7 +22126,7 @@ date,province_state,country_region,cases,mortality
 2020-03-30,New Hampshire,US,314,3
 2020-03-30,New Jersey,US,16636,198
 2020-03-30,New Mexico,US,237,2
-2020-03-30,New York,US,66663,3017
+2020-03-30,New York,US,66663,2556
 2020-03-30,North Carolina,US,1313,7
 2020-03-30,North Dakota,US,109,2
 2020-03-30,Northern Mariana Islands,US,0,0
@@ -22306,7 +22306,7 @@ date,province_state,country_region,cases,mortality
 2020-03-31,,Malta,169,0
 2020-03-31,,Mauritania,6,1
 2020-03-31,,Mauritius,143,5
-2020-03-31,,Mexico,1094,28
+2020-03-31,,Mexico,1215,29
 2020-03-31,,Moldova,353,4
 2020-03-31,,Monaco,52,1
 2020-03-31,,Mongolia,12,0
@@ -22447,7 +22447,7 @@ date,province_state,country_region,cases,mortality
 2020-03-31,New Hampshire,US,357,3
 2020-03-31,New Jersey,US,18696,267
 2020-03-31,New Mexico,US,315,4
-2020-03-31,New York,US,75833,3733
+2020-03-31,New York,US,75833,3207
 2020-03-31,North Carolina,US,1535,12
 2020-03-31,North Dakota,US,122,3
 2020-03-31,Northern Mariana Islands,US,2,0
@@ -22627,7 +22627,7 @@ date,province_state,country_region,cases,mortality
 2020-04-01,,Malta,188,0
 2020-04-01,,Mauritania,6,1
 2020-04-01,,Mauritius,161,6
-2020-04-01,,Mexico,1215,29
+2020-04-01,,Mexico,1378,37
 2020-04-01,,Moldova,423,5
 2020-04-01,,Monaco,55,1
 2020-04-01,,Mongolia,14,0
@@ -22768,7 +22768,7 @@ date,province_state,country_region,cases,mortality
 2020-04-01,New Hampshire,US,367,3
 2020-04-01,New Jersey,US,22255,355
 2020-04-01,New Mexico,US,327,5
-2020-04-01,New York,US,83948,4556
+2020-04-01,New York,US,83948,3917
 2020-04-01,North Carolina,US,1675,14
 2020-04-01,North Dakota,US,142,3
 2020-04-01,Northern Mariana Islands,US,6,1
@@ -22948,7 +22948,7 @@ date,province_state,country_region,cases,mortality
 2020-04-02,,Malta,196,0
 2020-04-02,,Mauritania,6,1
 2020-04-02,,Mauritius,169,7
-2020-04-02,,Mexico,1378,37
+2020-04-02,,Mexico,1510,50
 2020-04-02,,Moldova,505,6
 2020-04-02,,Monaco,60,1
 2020-04-02,,Mongolia,14,0
@@ -23089,7 +23089,7 @@ date,province_state,country_region,cases,mortality
 2020-04-02,New Hampshire,US,479,3
 2020-04-02,New Jersey,US,25590,537
 2020-04-02,New Mexico,US,373,6
-2020-04-02,New York,US,92506,5375
+2020-04-02,New York,US,92506,4730
 2020-04-02,North Carolina,US,1977,21
 2020-04-02,North Dakota,US,159,3
 2020-04-02,Northern Mariana Islands,US,6,1
@@ -23269,7 +23269,7 @@ date,province_state,country_region,cases,mortality
 2020-04-03,,Malta,202,0
 2020-04-03,,Mauritania,6,1
 2020-04-03,,Mauritius,186,7
-2020-04-03,,Mexico,1510,50
+2020-04-03,,Mexico,1688,60
 2020-04-03,,Moldova,591,8
 2020-04-03,,Monaco,64,1
 2020-04-03,,Mongolia,14,0
@@ -23410,7 +23410,7 @@ date,province_state,country_region,cases,mortality
 2020-04-03,New Hampshire,US,479,5
 2020-04-03,New Jersey,US,29895,646
 2020-04-03,New Mexico,US,490,10
-2020-04-03,New York,US,102987,6096
+2020-04-03,New York,US,102987,5418
 2020-04-03,North Carolina,US,2251,27
 2020-04-03,North Dakota,US,173,3
 2020-04-03,Northern Mariana Islands,US,8,1
@@ -23590,7 +23590,7 @@ date,province_state,country_region,cases,mortality
 2020-04-04,,Malta,213,0
 2020-04-04,,Mauritania,6,1
 2020-04-04,,Mauritius,196,7
-2020-04-04,,Mexico,1688,60
+2020-04-04,,Mexico,1890,79
 2020-04-04,,Moldova,752,12
 2020-04-04,,Monaco,66,1
 2020-04-04,,Mongolia,14,0
@@ -23731,7 +23731,7 @@ date,province_state,country_region,cases,mortality
 2020-04-04,New Hampshire,US,540,7
 2020-04-04,New Jersey,US,34124,846
 2020-04-04,New Mexico,US,506,11
-2020-04-04,New York,US,113833,6718
+2020-04-04,New York,US,113833,5991
 2020-04-04,North Carolina,US,2486,34
 2020-04-04,North Dakota,US,186,3
 2020-04-04,Northern Mariana Islands,US,8,1
@@ -23911,7 +23911,7 @@ date,province_state,country_region,cases,mortality
 2020-04-05,,Malta,227,0
 2020-04-05,,Mauritania,6,1
 2020-04-05,,Mauritius,227,7
-2020-04-05,,Mexico,1890,79
+2020-04-05,,Mexico,2143,94
 2020-04-05,,Moldova,864,15
 2020-04-05,,Monaco,73,1
 2020-04-05,,Mongolia,14,0
@@ -24052,7 +24052,7 @@ date,province_state,country_region,cases,mortality
 2020-04-05,New Hampshire,US,621,9
 2020-04-05,New Jersey,US,37505,917
 2020-04-05,New Mexico,US,624,12
-2020-04-05,New York,US,123160,7577
+2020-04-05,New York,US,123160,6785
 2020-04-05,North Carolina,US,2649,38
 2020-04-05,North Dakota,US,207,3
 2020-04-05,Northern Mariana Islands,US,8,1
@@ -24232,7 +24232,7 @@ date,province_state,country_region,cases,mortality
 2020-04-06,,Malta,241,0
 2020-04-06,,Mauritania,6,1
 2020-04-06,,Mauritius,244,7
-2020-04-06,,Mexico,2143,94
+2020-04-06,,Mexico,2439,125
 2020-04-06,,Moldova,965,19
 2020-04-06,,Monaco,77,1
 2020-04-06,,Mongolia,15,0
@@ -24373,7 +24373,7 @@ date,province_state,country_region,cases,mortality
 2020-04-06,New Hampshire,US,715,9
 2020-04-06,New Jersey,US,41090,1003
 2020-04-06,New Mexico,US,686,12
-2020-04-06,New York,US,131815,8619
+2020-04-06,New York,US,131815,7809
 2020-04-06,North Carolina,US,2962,45
 2020-04-06,North Dakota,US,225,3
 2020-04-06,Northern Mariana Islands,US,8,1
@@ -24553,7 +24553,7 @@ date,province_state,country_region,cases,mortality
 2020-04-07,,Malta,293,0
 2020-04-07,,Mauritania,6,1
 2020-04-07,,Mauritius,268,7
-2020-04-07,,Mexico,2439,125
+2020-04-07,,Mexico,2785,141
 2020-04-07,,Moldova,1056,22
 2020-04-07,,Monaco,79,1
 2020-04-07,,Mongolia,15,0
@@ -24694,7 +24694,7 @@ date,province_state,country_region,cases,mortality
 2020-04-07,New Hampshire,US,715,9
 2020-04-07,New Jersey,US,44416,1232
 2020-04-07,New Mexico,US,794,13
-2020-04-07,New York,US,139875,9617
+2020-04-07,New York,US,139875,8886
 2020-04-07,North Carolina,US,3299,53
 2020-04-07,North Dakota,US,237,4
 2020-04-07,Northern Mariana Islands,US,8,2
@@ -24874,7 +24874,7 @@ date,province_state,country_region,cases,mortality
 2020-04-08,,Malta,299,1
 2020-04-08,,Mauritania,6,1
 2020-04-08,,Mauritius,273,7
-2020-04-08,,Mexico,2785,141
+2020-04-08,,Mexico,3181,174
 2020-04-08,,Moldova,1174,27
 2020-04-08,,Monaco,81,1
 2020-04-08,,Mongolia,16,0
@@ -25015,7 +25015,7 @@ date,province_state,country_region,cases,mortality
 2020-04-08,New Hampshire,US,747,13
 2020-04-08,New Jersey,US,47437,1504
 2020-04-08,New Mexico,US,821,13
-2020-04-08,New York,US,151061,10558
+2020-04-08,New York,US,151061,9834
 2020-04-08,North Carolina,US,3499,66
 2020-04-08,North Dakota,US,251,4
 2020-04-08,Northern Mariana Islands,US,11,2
@@ -25195,7 +25195,7 @@ date,province_state,country_region,cases,mortality
 2020-04-09,,Malta,337,2
 2020-04-09,,Mauritania,7,1
 2020-04-09,,Mauritius,314,7
-2020-04-09,,Mexico,3181,174
+2020-04-09,,Mexico,3441,194
 2020-04-09,,Moldova,1289,29
 2020-04-09,,Monaco,84,1
 2020-04-09,,Mongolia,16,0
@@ -25336,7 +25336,7 @@ date,province_state,country_region,cases,mortality
 2020-04-09,New Hampshire,US,819,21
 2020-04-09,New Jersey,US,51027,1709
 2020-04-09,New Mexico,US,865,16
-2020-04-09,New York,US,161779,11475
+2020-04-09,New York,US,161779,10778
 2020-04-09,North Carolina,US,3736,76
 2020-04-09,North Dakota,US,269,5
 2020-04-09,Northern Mariana Islands,US,11,2
@@ -25516,7 +25516,7 @@ date,province_state,country_region,cases,mortality
 2020-04-10,,Malta,350,2
 2020-04-10,,Mauritania,7,1
 2020-04-10,,Mauritius,318,9
-2020-04-10,,Mexico,3441,194
+2020-04-10,,Mexico,3844,233
 2020-04-10,,Moldova,1438,29
 2020-04-10,,Monaco,90,1
 2020-04-10,,Mongolia,16,0
@@ -25657,7 +25657,7 @@ date,province_state,country_region,cases,mortality
 2020-04-10,New Hampshire,US,819,21
 2020-04-10,New Jersey,US,54588,1932
 2020-04-10,New Mexico,US,1081,17
-2020-04-10,New York,US,172348,12285
+2020-04-10,New York,US,172348,11605
 2020-04-10,North Carolina,US,3965,83
 2020-04-10,North Dakota,US,278,6
 2020-04-10,Northern Mariana Islands,US,11,2
@@ -25837,7 +25837,7 @@ date,province_state,country_region,cases,mortality
 2020-04-11,,Malta,370,3
 2020-04-11,,Mauritania,7,1
 2020-04-11,,Mauritius,319,9
-2020-04-11,,Mexico,3844,233
+2020-04-11,,Mexico,4219,273
 2020-04-11,,Moldova,1560,30
 2020-04-11,,Monaco,92,1
 2020-04-11,,Mongolia,16,0
@@ -25978,7 +25978,7 @@ date,province_state,country_region,cases,mortality
 2020-04-11,New Hampshire,US,885,22
 2020-04-11,New Jersey,US,58151,2183
 2020-04-11,New Mexico,US,1091,19
-2020-04-11,New York,US,181026,13215
+2020-04-11,New York,US,181026,12498
 2020-04-11,North Carolina,US,4354,89
 2020-04-11,North Dakota,US,293,7
 2020-04-11,Northern Mariana Islands,US,11,2
@@ -26158,7 +26158,7 @@ date,province_state,country_region,cases,mortality
 2020-04-12,,Malta,378,3
 2020-04-12,,Mauritania,7,1
 2020-04-12,,Mauritius,324,9
-2020-04-12,,Mexico,4219,273
+2020-04-12,,Mexico,4661,296
 2020-04-12,,Moldova,1662,31
 2020-04-12,,Monaco,93,1
 2020-04-12,,Mongolia,16,0
@@ -26230,7 +26230,7 @@ date,province_state,country_region,cases,mortality
 2020-04-12,,Vietnam,262,0
 2020-04-12,,Zambia,43,2
 2020-04-12,,Zimbabwe,14,3
-2020-04-12,Diamond Princess,Canada,-1,1
+2020-04-12,Diamond Princess,Canada,0,1
 2020-04-12,,Dominica,16,0
 2020-04-12,,Grenada,14,0
 2020-04-12,,Mozambique,21,0
@@ -26299,7 +26299,7 @@ date,province_state,country_region,cases,mortality
 2020-04-12,New Hampshire,US,929,23
 2020-04-12,New Jersey,US,61850,2350
 2020-04-12,New Mexico,US,1245,26
-2020-04-12,New York,US,189033,14168
+2020-04-12,New York,US,189033,13442
 2020-04-12,North Carolina,US,4570,89
 2020-04-12,North Dakota,US,308,7
 2020-04-12,Northern Mariana Islands,US,11,2
@@ -26479,7 +26479,7 @@ date,province_state,country_region,cases,mortality
 2020-04-13,,Malta,384,3
 2020-04-13,,Mauritania,7,1
 2020-04-13,,Mauritius,324,9
-2020-04-13,,Mexico,4661,296
+2020-04-13,,Mexico,5014,332
 2020-04-13,,Moldova,1712,35
 2020-04-13,,Monaco,93,1
 2020-04-13,,Mongolia,17,0
@@ -26551,7 +26551,7 @@ date,province_state,country_region,cases,mortality
 2020-04-13,,Vietnam,265,0
 2020-04-13,,Zambia,45,2
 2020-04-13,,Zimbabwe,17,3
-2020-04-13,Diamond Princess,Canada,-1,-1
+2020-04-13,Diamond Princess,Canada,0,1
 2020-04-13,,Dominica,16,0
 2020-04-13,,Grenada,14,0
 2020-04-13,,Mozambique,21,0
@@ -26620,7 +26620,7 @@ date,province_state,country_region,cases,mortality
 2020-04-13,New Hampshire,US,985,23
 2020-04-13,New Jersey,US,64584,2443
 2020-04-13,New Mexico,US,1262,26
-2020-04-13,New York,US,195749,15033
+2020-04-13,New York,US,195749,14390
 2020-04-13,North Carolina,US,4886,94
 2020-04-13,North Dakota,US,331,8
 2020-04-13,Northern Mariana Islands,US,11,2
@@ -26800,7 +26800,7 @@ date,province_state,country_region,cases,mortality
 2020-04-14,,Malta,393,3
 2020-04-14,,Mauritania,7,1
 2020-04-14,,Mauritius,324,9
-2020-04-14,,Mexico,5014,332
+2020-04-14,,Mexico,5399,406
 2020-04-14,,Moldova,1934,40
 2020-04-14,,Monaco,93,1
 2020-04-14,,Mongolia,30,0
@@ -26872,7 +26872,7 @@ date,province_state,country_region,cases,mortality
 2020-04-14,,Vietnam,266,0
 2020-04-14,,Zambia,45,2
 2020-04-14,,Zimbabwe,17,3
-2020-04-14,Diamond Princess,Canada,-1,-1
+2020-04-14,Diamond Princess,Canada,0,1
 2020-04-14,,Dominica,16,0
 2020-04-14,,Grenada,14,0
 2020-04-14,,Mozambique,28,0
@@ -26941,7 +26941,7 @@ date,province_state,country_region,cases,mortality
 2020-04-14,New Hampshire,US,922,25
 2020-04-14,New Jersey,US,68824,2805
 2020-04-14,New Mexico,US,1345,31
-2020-04-14,New York,US,203020,15788
+2020-04-14,New York,US,203020,15261
 2020-04-14,North Carolina,US,5113,112
 2020-04-14,North Dakota,US,341,8
 2020-04-14,Northern Mariana Islands,US,11,2
@@ -27121,7 +27121,7 @@ date,province_state,country_region,cases,mortality
 2020-04-15,,Malta,399,3
 2020-04-15,,Mauritania,7,1
 2020-04-15,,Mauritius,324,9
-2020-04-15,,Mexico,5399,406
+2020-04-15,,Mexico,5847,449
 2020-04-15,,Moldova,2049,46
 2020-04-15,,Monaco,93,3
 2020-04-15,,Mongolia,30,0
@@ -27193,7 +27193,7 @@ date,province_state,country_region,cases,mortality
 2020-04-15,,Vietnam,267,0
 2020-04-15,,Zambia,48,2
 2020-04-15,,Zimbabwe,23,3
-2020-04-15,Diamond Princess,Canada,-1,-1
+2020-04-15,Diamond Princess,Canada,0,1
 2020-04-15,,Dominica,16,0
 2020-04-15,,Grenada,14,0
 2020-04-15,,Mozambique,29,0
@@ -27262,7 +27262,7 @@ date,province_state,country_region,cases,mortality
 2020-04-15,New Hampshire,US,1139,32
 2020-04-15,New Jersey,US,71030,3156
 2020-04-15,New Mexico,US,1484,36
-2020-04-15,New York,US,214454,16536
+2020-04-15,New York,US,214454,16013
 2020-04-15,North Carolina,US,5340,130
 2020-04-15,North Dakota,US,365,9
 2020-04-15,Northern Mariana Islands,US,13,2
@@ -27442,7 +27442,7 @@ date,province_state,country_region,cases,mortality
 2020-04-16,,Malta,412,3
 2020-04-16,,Mauritania,7,1
 2020-04-16,,Mauritius,324,9
-2020-04-16,,Mexico,5847,449
+2020-04-16,,Mexico,6297,486
 2020-04-16,,Moldova,2154,54
 2020-04-16,,Monaco,93,3
 2020-04-16,,Mongolia,31,0
@@ -27514,7 +27514,7 @@ date,province_state,country_region,cases,mortality
 2020-04-16,,Vietnam,268,0
 2020-04-16,,Zambia,48,2
 2020-04-16,,Zimbabwe,23,3
-2020-04-16,Diamond Princess,Canada,-1,-1
+2020-04-16,Diamond Princess,Canada,0,1
 2020-04-16,,Dominica,16,0
 2020-04-16,,Grenada,14,0
 2020-04-16,,Mozambique,31,0
@@ -27583,7 +27583,7 @@ date,province_state,country_region,cases,mortality
 2020-04-16,New Hampshire,US,1139,32
 2020-04-16,New Jersey,US,75317,3518
 2020-04-16,New Mexico,US,1484,36
-2020-04-16,New York,US,223691,17181
+2020-04-16,New York,US,223691,16729
 2020-04-16,North Carolina,US,5639,150
 2020-04-16,North Dakota,US,393,9
 2020-04-16,Northern Mariana Islands,US,13,2
@@ -27763,7 +27763,7 @@ date,province_state,country_region,cases,mortality
 2020-04-17,,Malta,422,3
 2020-04-17,,Mauritania,7,1
 2020-04-17,,Mauritius,324,9
-2020-04-17,,Mexico,6297,486
+2020-04-17,,Mexico,6875,546
 2020-04-17,,Moldova,2264,56
 2020-04-17,,Monaco,94,3
 2020-04-17,,Mongolia,31,0
@@ -27835,7 +27835,7 @@ date,province_state,country_region,cases,mortality
 2020-04-17,,Vietnam,268,0
 2020-04-17,,Zambia,52,2
 2020-04-17,,Zimbabwe,24,3
-2020-04-17,Diamond Princess,Canada,-1,-1
+2020-04-17,Diamond Princess,Canada,0,1
 2020-04-17,,Dominica,16,0
 2020-04-17,,Grenada,14,0
 2020-04-17,,Mozambique,34,0
@@ -27904,7 +27904,7 @@ date,province_state,country_region,cases,mortality
 2020-04-17,New Hampshire,US,1287,37
 2020-04-17,New Jersey,US,78467,3840
 2020-04-17,New Mexico,US,1597,44
-2020-04-17,New York,US,230597,18220
+2020-04-17,New York,US,230597,17755
 2020-04-17,North Carolina,US,6045,177
 2020-04-17,North Dakota,US,393,9
 2020-04-17,Northern Mariana Islands,US,13,2
@@ -28084,7 +28084,7 @@ date,province_state,country_region,cases,mortality
 2020-04-18,,Malta,426,3
 2020-04-18,,Mauritania,7,1
 2020-04-18,,Mauritius,325,9
-2020-04-18,,Mexico,6875,546
+2020-04-18,,Mexico,7497,650
 2020-04-18,,Moldova,2378,57
 2020-04-18,,Monaco,94,3
 2020-04-18,,Mongolia,31,0
@@ -28156,7 +28156,7 @@ date,province_state,country_region,cases,mortality
 2020-04-18,,Vietnam,268,0
 2020-04-18,,Zambia,57,2
 2020-04-18,,Zimbabwe,25,3
-2020-04-18,Diamond Princess,Canada,-1,-1
+2020-04-18,Diamond Princess,Canada,0,1
 2020-04-18,,Dominica,16,0
 2020-04-18,,Grenada,14,0
 2020-04-18,,Mozambique,35,0
@@ -28225,7 +28225,7 @@ date,province_state,country_region,cases,mortality
 2020-04-18,New Hampshire,US,1342,38
 2020-04-18,New Jersey,US,81420,4070
 2020-04-18,New Mexico,US,1798,53
-2020-04-18,New York,US,237474,19204
+2020-04-18,New York,US,237474,18760
 2020-04-18,North Carolina,US,6328,187
 2020-04-18,North Dakota,US,528,9
 2020-04-18,Northern Mariana Islands,US,14,2
@@ -28405,7 +28405,7 @@ date,province_state,country_region,cases,mortality
 2020-04-19,,Malta,427,3
 2020-04-19,,Mauritania,7,1
 2020-04-19,,Mauritius,328,9
-2020-04-19,,Mexico,7497,650
+2020-04-19,,Mexico,8261,686
 2020-04-19,,Moldova,2472,67
 2020-04-19,,Monaco,94,3
 2020-04-19,,Mongolia,32,0
@@ -28477,7 +28477,7 @@ date,province_state,country_region,cases,mortality
 2020-04-19,,Vietnam,268,0
 2020-04-19,,Zambia,61,3
 2020-04-19,,Zimbabwe,25,3
-2020-04-19,Diamond Princess,Canada,-1,-1
+2020-04-19,Diamond Princess,Canada,0,1
 2020-04-19,,Dominica,16,0
 2020-04-19,,Grenada,14,0
 2020-04-19,,Mozambique,39,0
@@ -28546,7 +28546,7 @@ date,province_state,country_region,cases,mortality
 2020-04-19,New Hampshire,US,1390,38
 2020-04-19,New Jersey,US,85301,4362
 2020-04-19,New Mexico,US,1845,55
-2020-04-19,New York,US,243382,19016
+2020-04-19,New York,US,243382,18582
 2020-04-19,North Carolina,US,6601,200
 2020-04-19,North Dakota,US,585,9
 2020-04-19,Northern Mariana Islands,US,14,2
@@ -28726,7 +28726,7 @@ date,province_state,country_region,cases,mortality
 2020-04-20,,Malta,431,3
 2020-04-20,,Mauritania,7,1
 2020-04-20,,Mauritius,328,9
-2020-04-20,,Mexico,8261,686
+2020-04-20,,Mexico,8772,712
 2020-04-20,,Moldova,2548,70
 2020-04-20,,Monaco,94,3
 2020-04-20,,Mongolia,33,0
@@ -28798,7 +28798,7 @@ date,province_state,country_region,cases,mortality
 2020-04-20,,Vietnam,268,0
 2020-04-20,,Zambia,65,3
 2020-04-20,,Zimbabwe,25,3
-2020-04-20,Diamond Princess,Canada,-1,-1
+2020-04-20,Diamond Princess,Canada,0,1
 2020-04-20,,Dominica,16,0
 2020-04-20,,Grenada,14,0
 2020-04-20,,Mozambique,39,0
@@ -28867,7 +28867,7 @@ date,province_state,country_region,cases,mortality
 2020-04-20,New Hampshire,US,1447,42
 2020-04-20,New Jersey,US,88722,4496
 2020-04-20,New Mexico,US,1971,58
-2020-04-20,New York,US,248416,19536
+2020-04-20,New York,US,248416,19176
 2020-04-20,North Carolina,US,6895,218
 2020-04-20,North Dakota,US,627,9
 2020-04-20,Northern Mariana Islands,US,14,2
@@ -29047,7 +29047,7 @@ date,province_state,country_region,cases,mortality
 2020-04-21,,Malta,443,3
 2020-04-21,,Mauritania,7,1
 2020-04-21,,Mauritius,328,9
-2020-04-21,,Mexico,8772,712
+2020-04-21,,Mexico,9501,857
 2020-04-21,,Moldova,2614,72
 2020-04-21,,Monaco,94,3
 2020-04-21,,Mongolia,34,0
@@ -29119,7 +29119,7 @@ date,province_state,country_region,cases,mortality
 2020-04-21,,Vietnam,268,0
 2020-04-21,,Zambia,70,3
 2020-04-21,,Zimbabwe,28,3
-2020-04-21,Diamond Princess,Canada,-1,-1
+2020-04-21,Diamond Princess,Canada,0,1
 2020-04-21,,Dominica,16,0
 2020-04-21,,Grenada,14,0
 2020-04-21,,Mozambique,39,0
@@ -29188,7 +29188,7 @@ date,province_state,country_region,cases,mortality
 2020-04-21,New Hampshire,US,1490,42
 2020-04-21,New Jersey,US,92387,4753
 2020-04-21,New Mexico,US,1971,58
-2020-04-21,New York,US,253519,20081
+2020-04-21,New York,US,253519,19746
 2020-04-21,North Carolina,US,7134,245
 2020-04-21,North Dakota,US,644,13
 2020-04-21,Northern Mariana Islands,US,14,2
@@ -29247,7 +29247,7 @@ date,province_state,country_region,cases,mortality
 2020-04-22,,Cameroon,1163,43
 2020-04-22,Alberta,Canada,3401,66
 2020-04-22,British Columbia,Canada,1795,90
-2020-04-22,Grand Princess,Canada,-1,-1
+2020-04-22,Grand Princess,Canada,13,0
 2020-04-22,Manitoba,Canada,257,6
 2020-04-22,New Brunswick,Canada,118,0
 2020-04-22,Newfoundland and Labrador,Canada,256,3
@@ -29368,7 +29368,7 @@ date,province_state,country_region,cases,mortality
 2020-04-22,,Malta,444,3
 2020-04-22,,Mauritania,7,1
 2020-04-22,,Mauritius,329,9
-2020-04-22,,Mexico,9501,857
+2020-04-22,,Mexico,10544,970
 2020-04-22,,Moldova,2778,75
 2020-04-22,,Monaco,94,3
 2020-04-22,,Mongolia,35,0
@@ -29440,7 +29440,7 @@ date,province_state,country_region,cases,mortality
 2020-04-22,,Vietnam,268,0
 2020-04-22,,Zambia,74,3
 2020-04-22,,Zimbabwe,28,4
-2020-04-22,Diamond Princess,Canada,-1,-1
+2020-04-22,Diamond Princess,Canada,0,1
 2020-04-22,,Dominica,16,0
 2020-04-22,,Grenada,15,0
 2020-04-22,,Mozambique,41,0
@@ -29509,7 +29509,7 @@ date,province_state,country_region,cases,mortality
 2020-04-22,New Hampshire,US,1588,48
 2020-04-22,New Jersey,US,95914,5150
 2020-04-22,New Mexico,US,2210,71
-2020-04-22,New York,US,258222,20497
+2020-04-22,New York,US,258222,20203
 2020-04-22,North Carolina,US,7495,265
 2020-04-22,North Dakota,US,679,14
 2020-04-22,Northern Mariana Islands,US,14,2
@@ -29568,7 +29568,7 @@ date,province_state,country_region,cases,mortality
 2020-04-23,,Cameroon,1334,43
 2020-04-23,Alberta,Canada,3720,68
 2020-04-23,British Columbia,Canada,1824,94
-2020-04-23,Grand Princess,Canada,-1,-1
+2020-04-23,Grand Princess,Canada,13,0
 2020-04-23,Manitoba,Canada,262,6
 2020-04-23,New Brunswick,Canada,118,0
 2020-04-23,Newfoundland and Labrador,Canada,256,3
@@ -29830,7 +29830,7 @@ date,province_state,country_region,cases,mortality
 2020-04-23,New Hampshire,US,1670,51
 2020-04-23,New Jersey,US,100025,5426
 2020-04-23,New Mexico,US,2379,78
-2020-04-23,New York,US,263460,20775
+2020-04-23,New York,US,263460,20743
 2020-04-23,North Carolina,US,7820,281
 2020-04-23,North Dakota,US,709,15
 2020-04-23,Northern Mariana Islands,US,14,2
@@ -29889,11 +29889,11 @@ date,province_state,country_region,cases,mortality
 2020-04-24,,Cameroon,1430,43
 2020-04-24,Alberta,Canada,4017,72
 2020-04-24,British Columbia,Canada,1853,98
-2020-04-24,Grand Princess,Canada,-1,-1
+2020-04-24,Grand Princess,Canada,13,0
 2020-04-24,Manitoba,Canada,263,6
 2020-04-24,New Brunswick,Canada,118,0
 2020-04-24,Newfoundland and Labrador,Canada,256,3
-2020-04-24,Nova Scotia,Canada,-1,-1
+2020-04-24,Nova Scotia,Canada,850,16
 2020-04-24,Ontario,Canada,14550,862
 2020-04-24,Prince Edward Island,Canada,26,0
 2020-04-24,Quebec,Canada,22616,1340
@@ -30010,7 +30010,7 @@ date,province_state,country_region,cases,mortality
 2020-04-24,,Malta,447,3
 2020-04-24,,Mauritania,7,1
 2020-04-24,,Mauritius,331,9
-2020-04-24,,Mexico,11633,1069
+2020-04-24,,Mexico,12872,1221
 2020-04-24,,Moldova,3110,84
 2020-04-24,,Monaco,94,4
 2020-04-24,,Mongolia,37,0
@@ -30151,7 +30151,7 @@ date,province_state,country_region,cases,mortality
 2020-04-24,New Hampshire,US,1720,53
 2020-04-24,New Jersey,US,102196,5683
 2020-04-24,New Mexico,US,2521,84
-2020-04-24,New York,US,271590,4765
+2020-04-24,New York,US,271590,20955
 2020-04-24,North Carolina,US,8290,294
 2020-04-24,North Dakota,US,748,15
 2020-04-24,Northern Mariana Islands,US,14,2
@@ -30210,11 +30210,11 @@ date,province_state,country_region,cases,mortality
 2020-04-25,,Cameroon,1518,53
 2020-04-25,Alberta,Canada,4233,73
 2020-04-25,British Columbia,Canada,1948,100
-2020-04-25,Grand Princess,Canada,-1,-1
+2020-04-25,Grand Princess,Canada,13,0
 2020-04-25,Manitoba,Canada,267,6
 2020-04-25,New Brunswick,Canada,118,0
 2020-04-25,Newfoundland and Labrador,Canada,257,3
-2020-04-25,Nova Scotia,Canada,-1,-1
+2020-04-25,Nova Scotia,Canada,865,22
 2020-04-25,Ontario,Canada,15012,916
 2020-04-25,Prince Edward Island,Canada,26,0
 2020-04-25,Quebec,Canada,23267,1446

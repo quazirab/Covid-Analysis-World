@@ -46,7 +46,7 @@ def check_if_data_already_added(date):
 
 def store_data(df):
     # SQLite and CSV
-    df.to_sql(f'raw_data',if_exists='append',con=engine)
+    df.to_sql(f'raw_data',if_exists='append',con=engine,index=True)
 
     if not os.path.isfile(f'{processed_dir}/{csv_filename}'):
         df.to_csv(f'{processed_dir}/{csv_filename}',index=True)
@@ -94,9 +94,6 @@ if __name__ == "__main__":
     # reports_combiner('2020-04-25')
 
     import numpy as np
-    # dates = np.arange('2020-01-22','2020-04-26',dtype='datetime64[D]')
-    # for date in dates:
-    #     reports_combiner(date)
-    reports_combiner('2020-04-26')
-    reports_combiner('2020-04-27')
-    reports_combiner('2020-04-28')
+    dates = np.arange('2020-01-22','2020-04-29',dtype='datetime64[D]')
+    for date in dates:
+        reports_combiner(date)

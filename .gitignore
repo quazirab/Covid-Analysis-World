@@ -18,7 +18,6 @@ obsolete/*
 
 # Project
 *.csv#
-processed_data/mortality_county/
-processed_data/mortality_projection/
-processed_data/slope_intercept/
+*.db
+
 
