@@ -1,91 +1,89 @@
 import pandas as pd
 import os
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine,exc
 
-directory = 'COVID-19\csse_covid_19_data\csse_covid_19_daily_reports'
+directory_cases_global = r'COVID-19\csse_covid_19_data\csse_covid_19_time_series\time_series_covid19_confirmed_global.csv'
+directory_deaths_global = r'COVID-19\csse_covid_19_data\csse_covid_19_time_series\time_series_covid19_deaths_global.csv'
+
+directory_cases_us = r'COVID-19\csse_covid_19_data\csse_covid_19_time_series\time_series_covid19_confirmed_US.csv'
+directory_deaths_us = r'COVID-19\csse_covid_19_data\csse_covid_19_time_series\time_series_covid19_deaths_US.csv'
+
+df_cases_global = pd.read_csv(directory_cases_global)
+df_deaths_global = pd.read_csv(directory_deaths_global)
+
+df_cases_global = df_cases_global.rename(columns={'Country/Region':'country_region','Province/State':'province_state'})
+df_deaths_global = df_deaths_global.rename(columns={'Country/Region':'country_region','Province/State':'province_state'})
+
+df_cases_us = pd.read_csv(directory_cases_us)
+df_deaths_us = pd.read_csv(directory_deaths_us)
+
+
+df_cases_us = df_cases_us.rename(columns={'Country_Region':'country_region','Province_State':'province_state'})
+df_deaths_us = df_deaths_us.rename(columns={'Country_Region':'country_region','Province_State':'province_state'})
+
+
+
 processed_dir = 'processed_data'
-csv_filename = 'all_country_data.csv'
-db_filename = 'all_country_data.db'
-
+csv_filename = 'raw_data_country.csv'
+db_filename = 'raw_data_country.db'
 engine = create_engine(f'sqlite:///{processed_dir}/{db_filename}')
 
-
-df_long_lat = df = pd.read_csv(r'COVID-19\\csse_covid_19_data\\UID_ISO_FIPS_LookUp_Table.csv')
-df_long_lat = df_long_lat[['Province_State','Country_Region','Lat','Long_']]
-df_long_lat = df_long_lat.rename(columns={'Lat':'Latitude','Long_':'Longitude'})
-df_long_lat = df_long_lat.drop_duplicates(subset=['Province_State', 'Country_Region'], keep=False)
-
-print(df_long_lat)
-
-def reports_combiner(date = None):
-    if not date:
-        # delete old database and csv
-        if os.path.exists(f'{processed_dir}/{csv_filename}'):
-            os.remove(f'{processed_dir}/{csv_filename}')
-        if os.path.exists(f'{processed_dir}/{db_filename}'):
-            os.remove(f'{processed_dir}/{db_filename}')
-
-        for filename in os.listdir(directory):
-            if filename.endswith(".csv"):
-                df = _process_data(filename)
-                print(df)
-                exit()
-                # _store_data(df)
-    else:
-        check_if_data_already_added()
-        filename = f'{date}.csv'
-        if os.path.exists(f'{directory}/{filename}'):
-            df = _process_data(filename)
-            _store_data(df)
-        else:
-            raise NameError('File Does Not Exist')
-
-def _process_data(filename):
-    df = pd.read_csv(f'{directory}/{filename}')
+def reports_combiner(date):
+    check_if_data_already_added(date)
+    date_1 = pd.to_datetime(date).strftime('%m/%d/%y').lstrip("0").replace("/0", "/")
+    store_data(_global(date_1))
+    store_data(_us(date_1))
     
-    # check _ in columns
-    checked_columns = _check_columns(df.columns.tolist())
-    if checked_columns:
-        df = df.rename(columns=checked_columns)
-    date = filename[:filename.find('.csv')]
-    date = pd.to_datetime(date).date()
-    df['Date'] = date
-    df = df[['Date','Province_State','Country_Region','Confirmed','Deaths','Recovered']]
-    df = df.replace({'Mainland China':'China'})
-
-
-    # print(df)
-    df = pd.merge(df,df_long_lat,how='left',left_on=['Country_Region','Province_State'],right_on=['Country_Region','Province_State'])
-    df.to_csv(f'test.csv',index=False)
-    return df
-
-def _store_data(df):
-    # SQLite and CSV
-    df.to_sql(f'all_country',if_exists='append',con=engine)
-
-    if not os.path.isfile(f'{processed_dir}/{csv_filename}'):
-        df.to_csv(f'{processed_dir}/{csv_filename}',index=False)
-    else: # else it exists so append without writing the header
-        df.to_csv(f'{processed_dir}/{csv_filename}',index=False, mode='a', header=False)
-    
-def _check_columns(columns):
-    rtnColumn = {}
-    for column in columns:
-        if "/" in column:
-            rtnColumn[column] = column.replace('/','_')
-    if rtnColumn:
-        return rtnColumn
-    else:
-        return 0
-
 def check_if_data_already_added(date):
-
-
-    df = pd.read_sql(f"SELECT * FROM all_country WHERE Date == '{date}'",con=engine)
+    try:
+        df = pd.read_sql(f"SELECT * FROM raw_data WHERE Date == '{date}'",con=engine)
+    except exc.OperationalError:
+        return 1
     if not df.empty:
-        raise ImportError('Data Already Exists in DB')
+        raise EOFError('Data Already Exists in DB')
     else:
         return 1
+
+def store_data(df):
+    # SQLite and CSV
+    df.to_sql(f'raw_data',if_exists='append',con=engine)
+
+    if not os.path.isfile(f'{processed_dir}/{csv_filename}'):
+        df.to_csv(f'{processed_dir}/{csv_filename}',index=True)
+    else: # else it exists so append without writing the header
+        df.to_csv(f'{processed_dir}/{csv_filename}',index=True, mode='a', header=False)
+
+def _global(date_1):
+    df_cases_global_for_date = df_cases_global[['province_state','country_region',date_1]]
+    df_cases_global_for_date = df_cases_global_for_date.rename(columns={date_1:'cases'})
+    df_deaths_global_for_date = df_deaths_global[['province_state','country_region',date_1]]
+    df_deaths_global_for_date = df_deaths_global_for_date.rename(columns={date_1:'mortality'})
+    
+    df = pd.merge(df_cases_global_for_date,df_deaths_global_for_date,how='left',left_on=['country_region','province_state'],right_on=['country_region','province_state'])
+    df = df[df.country_region != 'US']
+    df['date'] = pd.to_datetime(date_1).date()
+    df = df.set_index('date')
+    df.to_csv('test1.csv')
+
+    return df
+
+def _us(date_1):
+    df_cases_us_for_date = df_cases_us[['province_state',date_1]]
+    df_cases_us_for_date = df_cases_us_for_date.rename(columns={date_1:'cases'})
+    df_cases_us_for_date = df_cases_us_for_date.groupby('province_state').sum()
+    
+    df_deaths_us_for_date = df_deaths_us[['province_state',date_1]]
+    df_deaths_us_for_date = df_deaths_us_for_date.rename(columns={date_1:'mortality'})
+    df_deaths_us_for_date = df_deaths_us_for_date.groupby('province_state').sum()
+
+    df = pd.merge(df_cases_us_for_date,df_deaths_us_for_date,how='left',left_on='province_state',right_on='province_state')
+    
+    df['country_region'] = 'US'
+    
+    df['date'] = pd.to_datetime(date_1)
+    df = df.reset_index().set_index('date')
+    df = df[['province_state','country_region','cases','mortality']]
+    return df
 
 if __name__ == "__main__":
     # from datetime import date,timedelta
@@ -93,5 +91,12 @@ if __name__ == "__main__":
     # latest_date = latest_date.strftime('%m-%d-%Y')
     # reports_combiner('04-28-2020')
 
-    reports_combiner()    
-    # check_if_data_already_added('2020-04-20')
+    # reports_combiner('2020-04-25')
+
+    import numpy as np
+    # dates = np.arange('2020-01-22','2020-04-26',dtype='datetime64[D]')
+    # for date in dates:
+    #     reports_combiner(date)
+    reports_combiner('2020-04-26')
+    reports_combiner('2020-04-27')
+    reports_combiner('2020-04-28')
