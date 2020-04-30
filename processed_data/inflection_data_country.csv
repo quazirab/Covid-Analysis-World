@@ -1,0 +1,186 @@
+country_region,inflection_result,inflection_date
+Afghanistan,0,
+Albania,1,2020-03-28
+Algeria,1,2020-04-01
+Andorra,1,2020-03-26
+Angola,1,2020-03-29
+Antigua and Barbuda,1,2020-04-08
+Argentina,1,2020-04-21
+Armenia,1,2020-04-06
+Australia,1,2020-04-04
+Austria,1,2020-04-06
+Azerbaijan,1,2020-04-14
+Bahamas,1,2020-04-01
+Bahrain,1,2020-03-16
+Bangladesh,1,2020-04-15
+Barbados,1,2020-04-05
+Belarus,0,
+Belgium,1,2020-04-08
+Benin,1,2020-04-06
+Bhutan,0,
+Bolivia,1,2020-04-20
+Bosnia and Herzegovina,1,2020-04-03
+Brazil,1,2020-04-22
+Brunei,1,2020-03-28
+Bulgaria,1,2020-04-01
+Burkina Faso,1,2020-03-22
+Cabo Verde,1,2020-03-24
+Cambodia,0,
+Cameroon,1,2020-04-16
+Canada,1,2020-04-19
+Central African Republic,0,
+Chad,0,
+Chile,1,2020-04-15
+China,1,2020-04-13
+Colombia,1,2020-04-08
+Congo (Brazzaville),1,2020-04-02
+Congo (Kinshasa),1,2020-03-30
+Costa Rica,1,2020-04-15
+Cote d'Ivoire,1,2020-04-18
+Croatia,1,2020-04-16
+Diamond Princess,1,2020-02-23
+Cuba,1,2020-04-22
+Cyprus,1,2020-03-27
+Czechia,1,2020-04-05
+Denmark,1,2020-04-01
+Djibouti,1,2020-04-10
+Dominican Republic,1,2020-04-09
+Ecuador,0,
+Egypt,0,
+El Salvador,1,2020-04-04
+Equatorial Guinea,1,2020-04-22
+Eritrea,0,
+Estonia,1,2020-04-12
+Eswatini,1,2020-04-16
+Ethiopia,1,2020-04-05
+Fiji,0,
+Finland,1,2020-04-19
+France,1,2020-04-06
+Gabon,1,2020-03-20
+Gambia,1,2020-03-23
+Georgia,1,2020-04-04
+Germany,1,2020-04-13
+Ghana,0,
+Greece,1,2020-04-02
+Guatemala,1,2020-04-22
+Guinea,1,2020-04-15
+Guyana,1,2020-03-12
+Haiti,1,2020-04-12
+Holy See,0,
+Honduras,1,2020-04-14
+Hungary,1,2020-04-20
+Iceland,1,2020-03-24
+India,0,
+Indonesia,1,2020-04-10
+Iran,1,2020-03-24
+Iraq,1,2020-03-23
+Ireland,1,2020-04-21
+Israel,1,2020-04-15
+Italy,1,2020-03-26
+Jamaica,1,2020-03-19
+Japan,1,2020-04-19
+Jordan,1,2020-03-27
+Kazakhstan,1,2020-04-10
+Kenya,1,2020-03-26
+"Korea, South",1,2020-03-22
+Kuwait,1,2020-04-23
+Kyrgyzstan,1,2020-04-03
+Latvia,1,2020-04-12
+Lebanon,1,2020-03-30
+Liberia,0,
+Liechtenstein,1,2020-04-04
+Lithuania,1,2020-04-11
+Luxembourg,1,2020-04-08
+Madagascar,0,
+Malaysia,1,2020-03-27
+Maldives,0,
+Malta,1,2020-04-08
+Mauritania,1,2020-03-30
+Mauritius,1,2020-03-29
+Mexico,1,2020-04-20
+Moldova,1,2020-04-12
+Monaco,1,2020-03-29
+Mongolia,0,
+Montenegro,1,2020-03-31
+Morocco,1,2020-04-03
+Namibia,0,
+Nepal,0,
+Netherlands,1,2020-04-13
+New Zealand,1,2020-04-19
+Nicaragua,1,2020-03-27
+Niger,1,2020-04-14
+Nigeria,1,2020-04-20
+North Macedonia,0,
+Norway,1,2020-04-05
+Oman,1,2020-04-12
+Pakistan,1,2020-04-20
+Panama,1,2020-04-10
+Papua New Guinea,0,
+Paraguay,1,2020-03-21
+Peru,1,2020-04-21
+Philippines,1,2020-04-09
+Poland,1,2020-04-21
+Portugal,1,2020-04-10
+Qatar,1,2020-04-02
+Romania,1,2020-04-18
+Russia,0,
+Rwanda,0,
+Saint Lucia,0,
+Saint Vincent and the Grenadines,0,
+San Marino,1,2020-03-16
+Saudi Arabia,1,2020-04-11
+Senegal,1,2020-04-04
+Serbia,1,2020-03-30
+Seychelles,0,
+Singapore,1,2020-03-29
+Slovakia,1,2020-04-06
+Slovenia,1,2020-04-04
+Somalia,0,
+South Africa,1,2020-04-20
+Spain,1,2020-03-30
+Sri Lanka,1,2020-03-28
+Sudan,0,
+Suriname,1,2020-04-03
+Sweden,1,2020-04-20
+Switzerland,1,2020-03-29
+Taiwan*,1,2020-03-20
+Tanzania,1,2020-04-17
+Thailand,1,2020-03-31
+Togo,1,2020-04-03
+Trinidad and Tobago,1,2020-03-28
+Tunisia,1,2020-03-28
+Turkey,1,2020-04-15
+Uganda,0,
+Ukraine,1,2020-04-20
+United Arab Emirates,1,2020-04-23
+United Kingdom,1,2020-04-07
+Uruguay,1,2020-03-29
+Uzbekistan,1,2020-04-18
+Venezuela,1,2020-03-30
+Vietnam,0,
+Zambia,1,2020-04-02
+Zimbabwe,1,2020-03-23
+Dominica,0,
+Grenada,0,
+Mozambique,0,
+Syria,1,2020-03-30
+Timor-Leste,0,
+Belize,1,2020-04-06
+Laos,0,
+Libya,1,2020-04-02
+West Bank and Gaza,1,2020-04-10
+Guinea-Bissau,0,
+Mali,1,2020-04-19
+Saint Kitts and Nevis,0,
+Kosovo,1,2020-03-26
+Burma,1,2020-03-31
+MS Zaandam,1,2020-04-01
+Botswana,1,2020-03-31
+Burundi,1,2020-04-13
+Sierra Leone,1,2020-04-23
+Malawi,1,2020-04-07
+South Sudan,0,
+Western Sahara,0,
+Sao Tome and Principe,0,
+Yemen,0,
+US,1,2020-04-14

@@ -25,7 +25,7 @@ df_deaths_us = df_deaths_us.rename(columns={'Country_Region':'country_region','P
 
 processed_dir = 'processed_data'
 csv_filename = 'raw_data_country.csv'
-db_filename = 'raw_data_country.db'
+db_filename = 'data_country.db'
 engine = create_engine(f'sqlite:///{processed_dir}/{db_filename}')
 
 def reports_combiner(date):
@@ -63,8 +63,6 @@ def _global(date_1):
     df = df[df.country_region != 'US']
     df['date'] = pd.to_datetime(date_1).date()
     df = df.set_index('date')
-    df.to_csv('test1.csv')
-
     return df
 
 def _us(date_1):
