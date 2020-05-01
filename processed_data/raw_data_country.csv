@@ -14025,7 +14025,7 @@ date,province_state,country_region,cases,mortality
 2020-03-05,Gibraltar,United Kingdom,1,0
 2020-03-05,Isle of Man,United Kingdom,0,0
 2020-03-05,Montserrat,United Kingdom,0,0
-2020-03-05,,United Kingdom,115,1
+2020-03-05,,United Kingdom,115,0
 2020-03-05,,Uruguay,0,0
 2020-03-05,,Uzbekistan,0,0
 2020-03-05,,Venezuela,0,0
@@ -14346,7 +14346,7 @@ date,province_state,country_region,cases,mortality
 2020-03-06,Gibraltar,United Kingdom,1,0
 2020-03-06,Isle of Man,United Kingdom,0,0
 2020-03-06,Montserrat,United Kingdom,0,0
-2020-03-06,,United Kingdom,163,2
+2020-03-06,,United Kingdom,163,1
 2020-03-06,,Uruguay,0,0
 2020-03-06,,Uzbekistan,0,0
 2020-03-06,,Venezuela,0,0
@@ -14988,7 +14988,7 @@ date,province_state,country_region,cases,mortality
 2020-03-08,Gibraltar,United Kingdom,1,0
 2020-03-08,Isle of Man,United Kingdom,0,0
 2020-03-08,Montserrat,United Kingdom,0,0
-2020-03-08,,United Kingdom,273,3
+2020-03-08,,United Kingdom,273,2
 2020-03-08,,Uruguay,0,0
 2020-03-08,,Uzbekistan,0,0
 2020-03-08,,Venezuela,0,0
@@ -15309,7 +15309,7 @@ date,province_state,country_region,cases,mortality
 2020-03-09,Gibraltar,United Kingdom,1,0
 2020-03-09,Isle of Man,United Kingdom,0,0
 2020-03-09,Montserrat,United Kingdom,0,0
-2020-03-09,,United Kingdom,321,4
+2020-03-09,,United Kingdom,321,3
 2020-03-09,,Uruguay,0,0
 2020-03-09,,Uzbekistan,0,0
 2020-03-09,,Venezuela,0,0
@@ -15630,7 +15630,7 @@ date,province_state,country_region,cases,mortality
 2020-03-10,Gibraltar,United Kingdom,1,0
 2020-03-10,Isle of Man,United Kingdom,0,0
 2020-03-10,Montserrat,United Kingdom,0,0
-2020-03-10,,United Kingdom,382,6
+2020-03-10,,United Kingdom,382,7
 2020-03-10,,Uruguay,0,0
 2020-03-10,,Uzbekistan,0,0
 2020-03-10,,Venezuela,0,0
@@ -15951,7 +15951,7 @@ date,province_state,country_region,cases,mortality
 2020-03-11,Gibraltar,United Kingdom,1,0
 2020-03-11,Isle of Man,United Kingdom,0,0
 2020-03-11,Montserrat,United Kingdom,0,0
-2020-03-11,,United Kingdom,456,8
+2020-03-11,,United Kingdom,456,7
 2020-03-11,,Uruguay,0,0
 2020-03-11,,Uzbekistan,0,0
 2020-03-11,,Venezuela,0,0
@@ -16272,7 +16272,7 @@ date,province_state,country_region,cases,mortality
 2020-03-12,Gibraltar,United Kingdom,1,0
 2020-03-12,Isle of Man,United Kingdom,0,0
 2020-03-12,Montserrat,United Kingdom,0,0
-2020-03-12,,United Kingdom,456,8
+2020-03-12,,United Kingdom,456,9
 2020-03-12,,Uruguay,0,0
 2020-03-12,,Uzbekistan,0,0
 2020-03-12,,Venezuela,0,0
@@ -16593,7 +16593,7 @@ date,province_state,country_region,cases,mortality
 2020-03-13,Gibraltar,United Kingdom,1,0
 2020-03-13,Isle of Man,United Kingdom,0,0
 2020-03-13,Montserrat,United Kingdom,0,0
-2020-03-13,,United Kingdom,798,8
+2020-03-13,,United Kingdom,798,10
 2020-03-13,,Uruguay,0,0
 2020-03-13,,Uzbekistan,0,0
 2020-03-13,,Venezuela,0,0
@@ -16914,7 +16914,7 @@ date,province_state,country_region,cases,mortality
 2020-03-14,Gibraltar,United Kingdom,1,0
 2020-03-14,Isle of Man,United Kingdom,0,0
 2020-03-14,Montserrat,United Kingdom,0,0
-2020-03-14,,United Kingdom,1140,21
+2020-03-14,,United Kingdom,1140,28
 2020-03-14,,Uruguay,4,0
 2020-03-14,,Uzbekistan,0,0
 2020-03-14,,Venezuela,2,0
@@ -17235,7 +17235,7 @@ date,province_state,country_region,cases,mortality
 2020-03-15,Gibraltar,United Kingdom,1,0
 2020-03-15,Isle of Man,United Kingdom,0,0
 2020-03-15,Montserrat,United Kingdom,0,0
-2020-03-15,,United Kingdom,1140,21
+2020-03-15,,United Kingdom,1140,43
 2020-03-15,,Uruguay,4,0
 2020-03-15,,Uzbekistan,1,0
 2020-03-15,,Venezuela,10,0
@@ -17556,7 +17556,7 @@ date,province_state,country_region,cases,mortality
 2020-03-16,Gibraltar,United Kingdom,1,0
 2020-03-16,Isle of Man,United Kingdom,0,0
 2020-03-16,Montserrat,United Kingdom,0,0
-2020-03-16,,United Kingdom,1543,55
+2020-03-16,,United Kingdom,1543,65
 2020-03-16,,Uruguay,8,0
 2020-03-16,,Uzbekistan,6,0
 2020-03-16,,Venezuela,17,0
@@ -17877,7 +17877,7 @@ date,province_state,country_region,cases,mortality
 2020-03-17,Gibraltar,United Kingdom,3,0
 2020-03-17,Isle of Man,United Kingdom,0,0
 2020-03-17,Montserrat,United Kingdom,0,0
-2020-03-17,,United Kingdom,1950,55
+2020-03-17,,United Kingdom,1950,81
 2020-03-17,,Uruguay,29,0
 2020-03-17,,Uzbekistan,10,0
 2020-03-17,,Venezuela,33,0
@@ -18198,7 +18198,7 @@ date,province_state,country_region,cases,mortality
 2020-03-18,Gibraltar,United Kingdom,8,0
 2020-03-18,Isle of Man,United Kingdom,0,0
 2020-03-18,Montserrat,United Kingdom,1,0
-2020-03-18,,United Kingdom,2626,71
+2020-03-18,,United Kingdom,2626,115
 2020-03-18,,Uruguay,50,0
 2020-03-18,,Uzbekistan,15,0
 2020-03-18,,Venezuela,36,0
@@ -18519,7 +18519,7 @@ date,province_state,country_region,cases,mortality
 2020-03-19,Gibraltar,United Kingdom,10,0
 2020-03-19,Isle of Man,United Kingdom,0,0
 2020-03-19,Montserrat,United Kingdom,1,0
-2020-03-19,,United Kingdom,2689,137
+2020-03-19,,United Kingdom,2689,158
 2020-03-19,,Uruguay,79,0
 2020-03-19,,Uzbekistan,23,0
 2020-03-19,,Venezuela,42,0
@@ -18840,7 +18840,7 @@ date,province_state,country_region,cases,mortality
 2020-03-20,Gibraltar,United Kingdom,10,0
 2020-03-20,Isle of Man,United Kingdom,1,0
 2020-03-20,Montserrat,United Kingdom,1,0
-2020-03-20,,United Kingdom,3983,177
+2020-03-20,,United Kingdom,3983,194
 2020-03-20,,Uruguay,94,0
 2020-03-20,,Uzbekistan,33,0
 2020-03-20,,Venezuela,42,0
@@ -19161,7 +19161,7 @@ date,province_state,country_region,cases,mortality
 2020-03-21,Gibraltar,United Kingdom,10,0
 2020-03-21,Isle of Man,United Kingdom,1,0
 2020-03-21,Montserrat,United Kingdom,1,0
-2020-03-21,,United Kingdom,5018,233
+2020-03-21,,United Kingdom,5018,250
 2020-03-21,,Uruguay,110,0
 2020-03-21,,Uzbekistan,43,0
 2020-03-21,,Venezuela,70,0
@@ -19482,7 +19482,7 @@ date,province_state,country_region,cases,mortality
 2020-03-22,Gibraltar,United Kingdom,15,0
 2020-03-22,Isle of Man,United Kingdom,5,0
 2020-03-22,Montserrat,United Kingdom,1,0
-2020-03-22,,United Kingdom,5683,281
+2020-03-22,,United Kingdom,5683,285
 2020-03-22,,Uruguay,158,0
 2020-03-22,,Uzbekistan,43,0
 2020-03-22,,Venezuela,70,0
@@ -19803,7 +19803,7 @@ date,province_state,country_region,cases,mortality
 2020-03-23,Gibraltar,United Kingdom,15,0
 2020-03-23,Isle of Man,United Kingdom,13,0
 2020-03-23,Montserrat,United Kingdom,1,0
-2020-03-23,,United Kingdom,6650,335
+2020-03-23,,United Kingdom,6650,359
 2020-03-23,,Uruguay,162,0
 2020-03-23,,Uzbekistan,46,0
 2020-03-23,,Venezuela,77,0
@@ -20124,7 +20124,7 @@ date,province_state,country_region,cases,mortality
 2020-03-24,Gibraltar,United Kingdom,15,0
 2020-03-24,Isle of Man,United Kingdom,23,0
 2020-03-24,Montserrat,United Kingdom,1,0
-2020-03-24,,United Kingdom,8077,422
+2020-03-24,,United Kingdom,8077,508
 2020-03-24,,Uruguay,162,0
 2020-03-24,,Uzbekistan,50,0
 2020-03-24,,Venezuela,84,0
@@ -20445,7 +20445,7 @@ date,province_state,country_region,cases,mortality
 2020-03-25,Gibraltar,United Kingdom,26,0
 2020-03-25,Isle of Man,United Kingdom,23,0
 2020-03-25,Montserrat,United Kingdom,1,0
-2020-03-25,,United Kingdom,9529,465
+2020-03-25,,United Kingdom,9529,694
 2020-03-25,,Uruguay,189,0
 2020-03-25,,Uzbekistan,60,0
 2020-03-25,,Venezuela,91,0
@@ -20766,7 +20766,7 @@ date,province_state,country_region,cases,mortality
 2020-03-26,Gibraltar,United Kingdom,35,0
 2020-03-26,Isle of Man,United Kingdom,25,0
 2020-03-26,Montserrat,United Kingdom,5,0
-2020-03-26,,United Kingdom,11658,578
+2020-03-26,,United Kingdom,11658,877
 2020-03-26,,Uruguay,217,0
 2020-03-26,,Uzbekistan,75,0
 2020-03-26,,Venezuela,107,0
@@ -21087,7 +21087,7 @@ date,province_state,country_region,cases,mortality
 2020-03-27,Gibraltar,United Kingdom,55,0
 2020-03-27,Isle of Man,United Kingdom,29,0
 2020-03-27,Montserrat,United Kingdom,5,0
-2020-03-27,,United Kingdom,14543,759
+2020-03-27,,United Kingdom,14543,1161
 2020-03-27,,Uruguay,238,0
 2020-03-27,,Uzbekistan,88,1
 2020-03-27,,Venezuela,107,1
@@ -21408,7 +21408,7 @@ date,province_state,country_region,cases,mortality
 2020-03-28,Gibraltar,United Kingdom,56,0
 2020-03-28,Isle of Man,United Kingdom,32,0
 2020-03-28,Montserrat,United Kingdom,5,0
-2020-03-28,,United Kingdom,17089,1019
+2020-03-28,,United Kingdom,17089,1455
 2020-03-28,,Uruguay,274,0
 2020-03-28,,Uzbekistan,104,2
 2020-03-28,,Venezuela,119,2
@@ -21729,7 +21729,7 @@ date,province_state,country_region,cases,mortality
 2020-03-29,Gibraltar,United Kingdom,65,0
 2020-03-29,Isle of Man,United Kingdom,42,0
 2020-03-29,Montserrat,United Kingdom,5,0
-2020-03-29,,United Kingdom,19522,1228
+2020-03-29,,United Kingdom,19522,1669
 2020-03-29,,Uruguay,304,1
 2020-03-29,,Uzbekistan,144,2
 2020-03-29,,Venezuela,119,2
@@ -22050,7 +22050,7 @@ date,province_state,country_region,cases,mortality
 2020-03-30,Gibraltar,United Kingdom,69,0
 2020-03-30,Isle of Man,United Kingdom,49,0
 2020-03-30,Montserrat,United Kingdom,5,0
-2020-03-30,,United Kingdom,22141,1408
+2020-03-30,,United Kingdom,22141,2043
 2020-03-30,,Uruguay,310,1
 2020-03-30,,Uzbekistan,149,2
 2020-03-30,,Venezuela,135,3
@@ -22371,7 +22371,7 @@ date,province_state,country_region,cases,mortality
 2020-03-31,Gibraltar,United Kingdom,69,0
 2020-03-31,Isle of Man,United Kingdom,60,0
 2020-03-31,Montserrat,United Kingdom,5,0
-2020-03-31,,United Kingdom,25150,1789
+2020-03-31,,United Kingdom,25150,2425
 2020-03-31,,Uruguay,338,1
 2020-03-31,,Uzbekistan,172,2
 2020-03-31,,Venezuela,135,3
@@ -22692,7 +22692,7 @@ date,province_state,country_region,cases,mortality
 2020-04-01,Gibraltar,United Kingdom,81,0
 2020-04-01,Isle of Man,United Kingdom,68,1
 2020-04-01,Montserrat,United Kingdom,5,0
-2020-04-01,,United Kingdom,29474,2352
+2020-04-01,,United Kingdom,29474,3095
 2020-04-01,,Uruguay,338,2
 2020-04-01,,Uzbekistan,181,2
 2020-04-01,,Venezuela,143,3
@@ -23013,7 +23013,7 @@ date,province_state,country_region,cases,mortality
 2020-04-02,Gibraltar,United Kingdom,88,0
 2020-04-02,Isle of Man,United Kingdom,95,1
 2020-04-02,Montserrat,United Kingdom,5,0
-2020-04-02,,United Kingdom,33718,2921
+2020-04-02,,United Kingdom,33718,3747
 2020-04-02,,Uruguay,350,4
 2020-04-02,,Uzbekistan,205,2
 2020-04-02,,Venezuela,146,5
@@ -23334,7 +23334,7 @@ date,province_state,country_region,cases,mortality
 2020-04-03,Gibraltar,United Kingdom,95,0
 2020-04-03,Isle of Man,United Kingdom,114,1
 2020-04-03,Montserrat,United Kingdom,6,0
-2020-04-03,,United Kingdom,38168,3605
+2020-04-03,,United Kingdom,38168,4461
 2020-04-03,,Uruguay,369,4
 2020-04-03,,Uzbekistan,227,2
 2020-04-03,,Venezuela,153,7
@@ -23655,7 +23655,7 @@ date,province_state,country_region,cases,mortality
 2020-04-04,Gibraltar,United Kingdom,98,0
 2020-04-04,Isle of Man,United Kingdom,126,1
 2020-04-04,Montserrat,United Kingdom,6,0
-2020-04-04,,United Kingdom,41903,4313
+2020-04-04,,United Kingdom,41903,5221
 2020-04-04,,Uruguay,400,5
 2020-04-04,,Uzbekistan,266,2
 2020-04-04,,Venezuela,155,7
@@ -23976,7 +23976,7 @@ date,province_state,country_region,cases,mortality
 2020-04-05,Gibraltar,United Kingdom,103,0
 2020-04-05,Isle of Man,United Kingdom,127,1
 2020-04-05,Montserrat,United Kingdom,6,0
-2020-04-05,,United Kingdom,47806,4934
+2020-04-05,,United Kingdom,47806,5865
 2020-04-05,,Uruguay,400,5
 2020-04-05,,Uzbekistan,342,2
 2020-04-05,,Venezuela,159,7
@@ -24297,7 +24297,7 @@ date,province_state,country_region,cases,mortality
 2020-04-06,Gibraltar,United Kingdom,109,0
 2020-04-06,Isle of Man,United Kingdom,139,1
 2020-04-06,Montserrat,United Kingdom,6,0
-2020-04-06,,United Kingdom,51608,5373
+2020-04-06,,United Kingdom,51608,6433
 2020-04-06,,Uruguay,406,6
 2020-04-06,,Uzbekistan,457,2
 2020-04-06,,Venezuela,165,7
@@ -24618,7 +24618,7 @@ date,province_state,country_region,cases,mortality
 2020-04-07,Gibraltar,United Kingdom,113,0
 2020-04-07,Isle of Man,United Kingdom,150,1
 2020-04-07,Montserrat,United Kingdom,9,0
-2020-04-07,,United Kingdom,55242,6159
+2020-04-07,,United Kingdom,55242,7471
 2020-04-07,,Uruguay,424,7
 2020-04-07,,Uzbekistan,520,2
 2020-04-07,,Venezuela,165,7
@@ -24939,7 +24939,7 @@ date,province_state,country_region,cases,mortality
 2020-04-08,Gibraltar,United Kingdom,120,0
 2020-04-08,Isle of Man,United Kingdom,158,1
 2020-04-08,Montserrat,United Kingdom,9,0
-2020-04-08,,United Kingdom,60733,7097
+2020-04-08,,United Kingdom,60733,8505
 2020-04-08,,Uruguay,424,7
 2020-04-08,,Uzbekistan,545,3
 2020-04-08,,Venezuela,167,9
@@ -25260,7 +25260,7 @@ date,province_state,country_region,cases,mortality
 2020-04-09,Gibraltar,United Kingdom,123,0
 2020-04-09,Isle of Man,United Kingdom,190,1
 2020-04-09,Montserrat,United Kingdom,9,0
-2020-04-09,,United Kingdom,65077,7978
+2020-04-09,,United Kingdom,65077,9608
 2020-04-09,,Uruguay,456,7
 2020-04-09,,Uzbekistan,582,3
 2020-04-09,,Venezuela,171,9
@@ -25581,7 +25581,7 @@ date,province_state,country_region,cases,mortality
 2020-04-10,Gibraltar,United Kingdom,127,0
 2020-04-10,Isle of Man,United Kingdom,201,1
 2020-04-10,Montserrat,United Kingdom,9,0
-2020-04-10,,United Kingdom,73758,8958
+2020-04-10,,United Kingdom,73758,10760
 2020-04-10,,Uruguay,473,7
 2020-04-10,,Uzbekistan,624,3
 2020-04-10,,Venezuela,171,9
@@ -25902,7 +25902,7 @@ date,province_state,country_region,cases,mortality
 2020-04-11,Gibraltar,United Kingdom,129,0
 2020-04-11,Isle of Man,United Kingdom,226,2
 2020-04-11,Montserrat,United Kingdom,9,0
-2020-04-11,,United Kingdom,78991,9875
+2020-04-11,,United Kingdom,78991,11599
 2020-04-11,,Uruguay,494,7
 2020-04-11,,Uzbekistan,767,4
 2020-04-11,,Venezuela,175,9
@@ -26223,7 +26223,7 @@ date,province_state,country_region,cases,mortality
 2020-04-12,Gibraltar,United Kingdom,129,0
 2020-04-12,Isle of Man,United Kingdom,228,2
 2020-04-12,Montserrat,United Kingdom,9,0
-2020-04-12,,United Kingdom,84279,10612
+2020-04-12,,United Kingdom,84279,12285
 2020-04-12,,Uruguay,480,7
 2020-04-12,,Uzbekistan,865,4
 2020-04-12,,Venezuela,181,9
@@ -26544,7 +26544,7 @@ date,province_state,country_region,cases,mortality
 2020-04-13,Gibraltar,United Kingdom,129,0
 2020-04-13,Isle of Man,United Kingdom,242,2
 2020-04-13,Montserrat,United Kingdom,11,0
-2020-04-13,,United Kingdom,88621,11329
+2020-04-13,,United Kingdom,88621,13029
 2020-04-13,,Uruguay,480,8
 2020-04-13,,Uzbekistan,998,4
 2020-04-13,,Venezuela,189,9
@@ -26865,7 +26865,7 @@ date,province_state,country_region,cases,mortality
 2020-04-14,Gibraltar,United Kingdom,129,0
 2020-04-14,Isle of Man,United Kingdom,254,2
 2020-04-14,Montserrat,United Kingdom,11,0
-2020-04-14,,United Kingdom,93873,12107
+2020-04-14,,United Kingdom,93873,14073
 2020-04-14,,Uruguay,483,8
 2020-04-14,,Uzbekistan,1165,4
 2020-04-14,,Venezuela,189,9
@@ -27186,7 +27186,7 @@ date,province_state,country_region,cases,mortality
 2020-04-15,Gibraltar,United Kingdom,131,0
 2020-04-15,Isle of Man,United Kingdom,256,4
 2020-04-15,Montserrat,United Kingdom,11,0
-2020-04-15,,United Kingdom,98476,12868
+2020-04-15,,United Kingdom,98476,14915
 2020-04-15,,Uruguay,492,8
 2020-04-15,,Uzbekistan,1302,4
 2020-04-15,,Venezuela,197,9
@@ -27507,7 +27507,7 @@ date,province_state,country_region,cases,mortality
 2020-04-16,Gibraltar,United Kingdom,131,0
 2020-04-16,Isle of Man,United Kingdom,284,4
 2020-04-16,Montserrat,United Kingdom,11,0
-2020-04-16,,United Kingdom,103093,13729
+2020-04-16,,United Kingdom,103093,15944
 2020-04-16,,Uruguay,502,9
 2020-04-16,,Uzbekistan,1349,4
 2020-04-16,,Venezuela,204,9
@@ -27828,7 +27828,7 @@ date,province_state,country_region,cases,mortality
 2020-04-17,Gibraltar,United Kingdom,132,0
 2020-04-17,Isle of Man,United Kingdom,291,4
 2020-04-17,Montserrat,United Kingdom,11,0
-2020-04-17,,United Kingdom,108692,14576
+2020-04-17,,United Kingdom,108692,16879
 2020-04-17,,Uruguay,502,9
 2020-04-17,,Uzbekistan,1405,4
 2020-04-17,,Venezuela,204,9
@@ -28149,7 +28149,7 @@ date,province_state,country_region,cases,mortality
 2020-04-18,Gibraltar,United Kingdom,132,0
 2020-04-18,Isle of Man,United Kingdom,297,6
 2020-04-18,Montserrat,United Kingdom,11,0
-2020-04-18,,United Kingdom,114217,15464
+2020-04-18,,United Kingdom,114217,17994
 2020-04-18,,Uruguay,508,9
 2020-04-18,,Uzbekistan,1490,5
 2020-04-18,,Venezuela,227,9
@@ -28470,7 +28470,7 @@ date,province_state,country_region,cases,mortality
 2020-04-19,Gibraltar,United Kingdom,132,0
 2020-04-19,Isle of Man,United Kingdom,298,6
 2020-04-19,Montserrat,United Kingdom,11,0
-2020-04-19,,United Kingdom,120067,16060
+2020-04-19,,United Kingdom,120067,18492
 2020-04-19,,Uruguay,517,10
 2020-04-19,,Uzbekistan,1565,5
 2020-04-19,,Venezuela,256,9
@@ -28791,7 +28791,7 @@ date,province_state,country_region,cases,mortality
 2020-04-20,Gibraltar,United Kingdom,132,0
 2020-04-20,Isle of Man,United Kingdom,300,9
 2020-04-20,Montserrat,United Kingdom,11,0
-2020-04-20,,United Kingdom,124743,16509
+2020-04-20,,United Kingdom,124743,19051
 2020-04-20,,Uruguay,535,10
 2020-04-20,,Uzbekistan,1627,5
 2020-04-20,,Venezuela,256,9
@@ -29112,7 +29112,7 @@ date,province_state,country_region,cases,mortality
 2020-04-21,Gibraltar,United Kingdom,132,0
 2020-04-21,Isle of Man,United Kingdom,307,9
 2020-04-21,Montserrat,United Kingdom,11,0
-2020-04-21,,United Kingdom,129044,17337
+2020-04-21,,United Kingdom,129044,20223
 2020-04-21,,Uruguay,535,11
 2020-04-21,,Uzbekistan,1678,6
 2020-04-21,,Venezuela,285,10
@@ -29433,7 +29433,7 @@ date,province_state,country_region,cases,mortality
 2020-04-22,Gibraltar,United Kingdom,132,0
 2020-04-22,Isle of Man,United Kingdom,307,15
 2020-04-22,Montserrat,United Kingdom,11,0
-2020-04-22,,United Kingdom,133495,18100
+2020-04-22,,United Kingdom,133495,21060
 2020-04-22,,Uruguay,543,12
 2020-04-22,,Uzbekistan,1716,7
 2020-04-22,,Venezuela,288,10
@@ -29754,7 +29754,7 @@ date,province_state,country_region,cases,mortality
 2020-04-23,Gibraltar,United Kingdom,133,0
 2020-04-23,Isle of Man,United Kingdom,307,16
 2020-04-23,Montserrat,United Kingdom,11,0
-2020-04-23,,United Kingdom,138078,18738
+2020-04-23,,United Kingdom,138078,21787
 2020-04-23,,Uruguay,557,12
 2020-04-23,,Uzbekistan,1758,7
 2020-04-23,,Venezuela,311,10
@@ -30075,7 +30075,7 @@ date,province_state,country_region,cases,mortality
 2020-04-24,Gibraltar,United Kingdom,133,0
 2020-04-24,Isle of Man,United Kingdom,308,18
 2020-04-24,Montserrat,United Kingdom,11,1
-2020-04-24,,United Kingdom,143464,19506
+2020-04-24,,United Kingdom,143464,22792
 2020-04-24,,Uruguay,563,12
 2020-04-24,,Uzbekistan,1804,8
 2020-04-24,,Venezuela,318,10
@@ -30396,7 +30396,7 @@ date,province_state,country_region,cases,mortality
 2020-04-25,Gibraltar,United Kingdom,136,0
 2020-04-25,Isle of Man,United Kingdom,308,18
 2020-04-25,Montserrat,United Kingdom,11,1
-2020-04-25,,United Kingdom,148377,20319
+2020-04-25,,United Kingdom,148377,23635
 2020-04-25,,Uruguay,596,14
 2020-04-25,,Uzbekistan,1862,8
 2020-04-25,,Venezuela,323,10
@@ -30717,7 +30717,7 @@ date,province_state,country_region,cases,mortality
 2020-04-26,Gibraltar,United Kingdom,141,0
 2020-04-26,Isle of Man,United Kingdom,308,18
 2020-04-26,Montserrat,United Kingdom,11,1
-2020-04-26,,United Kingdom,152840,20732
+2020-04-26,,United Kingdom,152840,24055
 2020-04-26,,Uruguay,606,15
 2020-04-26,,Uzbekistan,1869,8
 2020-04-26,,Venezuela,325,10
@@ -31038,7 +31038,7 @@ date,province_state,country_region,cases,mortality
 2020-04-27,Gibraltar,United Kingdom,141,0
 2020-04-27,Isle of Man,United Kingdom,308,20
 2020-04-27,Montserrat,United Kingdom,11,1
-2020-04-27,,United Kingdom,157149,21092
+2020-04-27,,United Kingdom,157149,24393
 2020-04-27,,Uruguay,620,15
 2020-04-27,,Uzbekistan,1904,8
 2020-04-27,,Venezuela,329,10
@@ -31359,7 +31359,7 @@ date,province_state,country_region,cases,mortality
 2020-04-28,Gibraltar,United Kingdom,141,0
 2020-04-28,Isle of Man,United Kingdom,309,21
 2020-04-28,Montserrat,United Kingdom,11,1
-2020-04-28,,United Kingdom,161145,21678
+2020-04-28,,United Kingdom,161145,25302
 2020-04-28,,Uruguay,625,15
 2020-04-28,,Uzbekistan,1939,8
 2020-04-28,,Venezuela,329,10
@@ -31457,324 +31457,3 @@ date,province_state,country_region,cases,mortality
 2020-04-28,West Virginia,US,1095,38
 2020-04-28,Wisconsin,US,6289,300
 2020-04-28,Wyoming,US,536,7
-2020-04-29,,Afghanistan,1939,60
-2020-04-29,,Albania,766,30
-2020-04-29,,Algeria,3848,444
-2020-04-29,,Andorra,743,42
-2020-04-29,,Angola,27,2
-2020-04-29,,Antigua and Barbuda,24,3
-2020-04-29,,Argentina,4285,214
-2020-04-29,,Armenia,1932,30
-2020-04-29,Australian Capital Territory,Australia,106,3
-2020-04-29,New South Wales,Australia,3016,40
-2020-04-29,Northern Territory,Australia,28,0
-2020-04-29,Queensland,Australia,1033,6
-2020-04-29,South Australia,Australia,438,4
-2020-04-29,Tasmania,Australia,219,12
-2020-04-29,Victoria,Australia,1361,18
-2020-04-29,Western Australia,Australia,551,8
-2020-04-29,,Austria,15402,580
-2020-04-29,,Azerbaijan,1766,23
-2020-04-29,,Bahamas,80,11
-2020-04-29,,Bahrain,2921,8
-2020-04-29,,Bangladesh,7103,163
-2020-04-29,,Barbados,80,7
-2020-04-29,,Belarus,13181,84
-2020-04-29,,Belgium,47859,7501
-2020-04-29,,Benin,64,1
-2020-04-29,,Bhutan,7,0
-2020-04-29,,Bolivia,1110,59
-2020-04-29,,Bosnia and Herzegovina,1677,65
-2020-04-29,,Brazil,79685,5513
-2020-04-29,,Brunei,138,1
-2020-04-29,,Bulgaria,1447,64
-2020-04-29,,Burkina Faso,641,43
-2020-04-29,,Cabo Verde,114,1
-2020-04-29,,Cambodia,122,0
-2020-04-29,,Cameroon,1832,61
-2020-04-29,Alberta,Canada,5165,87
-2020-04-29,British Columbia,Canada,2087,109
-2020-04-29,Grand Princess,Canada,13,0
-2020-04-29,Manitoba,Canada,275,6
-2020-04-29,New Brunswick,Canada,118,0
-2020-04-29,Newfoundland and Labrador,Canada,258,3
-2020-04-29,Nova Scotia,Canada,935,28
-2020-04-29,Ontario,Canada,16978,1153
-2020-04-29,Prince Edward Island,Canada,27,0
-2020-04-29,Quebec,Canada,26610,1762
-2020-04-29,Saskatchewan,Canada,383,6
-2020-04-29,,Central African Republic,50,0
-2020-04-29,,Chad,52,2
-2020-04-29,,Chile,14885,216
-2020-04-29,Anhui,China,991,6
-2020-04-29,Beijing,China,593,9
-2020-04-29,Chongqing,China,579,6
-2020-04-29,Fujian,China,355,1
-2020-04-29,Gansu,China,139,2
-2020-04-29,Guangdong,China,1588,8
-2020-04-29,Guangxi,China,254,2
-2020-04-29,Guizhou,China,147,2
-2020-04-29,Hainan,China,168,6
-2020-04-29,Hebei,China,328,6
-2020-04-29,Heilongjiang,China,939,13
-2020-04-29,Henan,China,1276,22
-2020-04-29,Hong Kong,China,1037,4
-2020-04-29,Hubei,China,68128,4512
-2020-04-29,Hunan,China,1019,4
-2020-04-29,Inner Mongolia,China,200,1
-2020-04-29,Jiangsu,China,653,0
-2020-04-29,Jiangxi,China,937,1
-2020-04-29,Jilin,China,111,1
-2020-04-29,Liaoning,China,146,2
-2020-04-29,Macau,China,45,0
-2020-04-29,Ningxia,China,75,0
-2020-04-29,Qinghai,China,18,0
-2020-04-29,Shaanxi,China,306,3
-2020-04-29,Shandong,China,787,7
-2020-04-29,Shanghai,China,647,7
-2020-04-29,Shanxi,China,197,0
-2020-04-29,Sichuan,China,561,3
-2020-04-29,Tianjin,China,190,3
-2020-04-29,Tibet,China,1,0
-2020-04-29,Xinjiang,China,76,3
-2020-04-29,Yunnan,China,185,2
-2020-04-29,Zhejiang,China,1268,1
-2020-04-29,,Colombia,6207,278
-2020-04-29,,Congo (Brazzaville),207,8
-2020-04-29,,Congo (Kinshasa),491,30
-2020-04-29,,Costa Rica,713,6
-2020-04-29,,Cote d'Ivoire,1238,14
-2020-04-29,,Croatia,2062,67
-2020-04-29,,Diamond Princess,712,13
-2020-04-29,,Cuba,1467,58
-2020-04-29,,Cyprus,843,15
-2020-04-29,,Czechia,7579,227
-2020-04-29,Faroe Islands,Denmark,187,0
-2020-04-29,Greenland,Denmark,11,0
-2020-04-29,,Denmark,9008,443
-2020-04-29,,Djibouti,1077,2
-2020-04-29,,Dominican Republic,6652,293
-2020-04-29,,Ecuador,24675,883
-2020-04-29,,Egypt,5268,380
-2020-04-29,,El Salvador,377,9
-2020-04-29,,Equatorial Guinea,315,1
-2020-04-29,,Eritrea,39,0
-2020-04-29,,Estonia,1666,50
-2020-04-29,,Eswatini,91,1
-2020-04-29,,Ethiopia,130,3
-2020-04-29,,Fiji,18,0
-2020-04-29,,Finland,4906,206
-2020-04-29,French Guiana,France,125,1
-2020-04-29,French Polynesia,France,58,0
-2020-04-29,Guadeloupe,France,149,12
-2020-04-29,Mayotte,France,460,4
-2020-04-29,New Caledonia,France,18,0
-2020-04-29,Reunion,France,420,0
-2020-04-29,Saint Barthelemy,France,6,0
-2020-04-29,St Martin,France,38,3
-2020-04-29,Martinique,France,175,14
-2020-04-29,,France,165093,24087
-2020-04-29,,Gabon,276,3
-2020-04-29,,Gambia,10,1
-2020-04-29,,Georgia,517,6
-2020-04-29,,Germany,161539,6467
-2020-04-29,,Ghana,1671,16
-2020-04-29,,Greece,2576,139
-2020-04-29,,Guatemala,557,16
-2020-04-29,,Guinea,1351,7
-2020-04-29,,Guyana,78,8
-2020-04-29,,Haiti,76,6
-2020-04-29,,Holy See,10,0
-2020-04-29,,Honduras,738,66
-2020-04-29,,Hungary,2727,300
-2020-04-29,,Iceland,1797,10
-2020-04-29,,India,33062,1079
-2020-04-29,,Indonesia,9771,784
-2020-04-29,,Iran,93657,5957
-2020-04-29,,Iraq,2003,92
-2020-04-29,,Ireland,20253,1190
-2020-04-29,,Israel,15834,215
-2020-04-29,,Italy,203591,27682
-2020-04-29,,Jamaica,396,7
-2020-04-29,,Japan,13895,413
-2020-04-29,,Jordan,451,8
-2020-04-29,,Kazakhstan,3138,25
-2020-04-29,,Kenya,384,15
-2020-04-29,,"Korea, South",10765,247
-2020-04-29,,Kuwait,3740,24
-2020-04-29,,Kyrgyzstan,729,8
-2020-04-29,,Latvia,849,15
-2020-04-29,,Lebanon,721,24
-2020-04-29,,Liberia,141,16
-2020-04-29,,Liechtenstein,82,1
-2020-04-29,,Lithuania,1375,45
-2020-04-29,,Luxembourg,3769,89
-2020-04-29,,Madagascar,128,0
-2020-04-29,,Malaysia,5945,100
-2020-04-29,,Maldives,278,1
-2020-04-29,,Malta,463,4
-2020-04-29,,Mauritania,8,1
-2020-04-29,,Mauritius,332,10
-2020-04-29,,Mexico,17799,1732
-2020-04-29,,Moldova,3771,111
-2020-04-29,,Monaco,95,4
-2020-04-29,,Mongolia,38,0
-2020-04-29,,Montenegro,322,7
-2020-04-29,,Morocco,4321,168
-2020-04-29,,Namibia,16,0
-2020-04-29,,Nepal,57,0
-2020-04-29,Aruba,Netherlands,100,2
-2020-04-29,Curacao,Netherlands,16,1
-2020-04-29,Sint Maarten,Netherlands,75,13
-2020-04-29,,Netherlands,38802,4711
-2020-04-29,,New Zealand,1476,19
-2020-04-29,,Nicaragua,13,3
-2020-04-29,,Niger,713,32
-2020-04-29,,Nigeria,1728,51
-2020-04-29,,North Macedonia,1442,73
-2020-04-29,,Norway,7710,207
-2020-04-29,,Oman,2274,10
-2020-04-29,,Pakistan,15525,343
-2020-04-29,,Panama,6378,178
-2020-04-29,,Papua New Guinea,8,0
-2020-04-29,,Paraguay,239,9
-2020-04-29,,Peru,33931,943
-2020-04-29,,Philippines,8212,558
-2020-04-29,,Poland,12640,624
-2020-04-29,,Portugal,24505,973
-2020-04-29,,Qatar,12564,10
-2020-04-29,,Romania,11978,693
-2020-04-29,,Russia,99399,972
-2020-04-29,,Rwanda,225,0
-2020-04-29,,Saint Lucia,17,0
-2020-04-29,,Saint Vincent and the Grenadines,16,0
-2020-04-29,,San Marino,563,41
-2020-04-29,,Saudi Arabia,21402,157
-2020-04-29,,Senegal,882,9
-2020-04-29,,Serbia,6630,125
-2020-04-29,,Seychelles,11,0
-2020-04-29,,Singapore,15641,14
-2020-04-29,,Slovakia,1391,22
-2020-04-29,,Slovenia,1418,89
-2020-04-29,,Somalia,582,28
-2020-04-29,,South Africa,5350,103
-2020-04-29,,Spain,236899,24275
-2020-04-29,,Sri Lanka,649,7
-2020-04-29,,Sudan,375,28
-2020-04-29,,Suriname,10,1
-2020-04-29,,Sweden,20302,2462
-2020-04-29,,Switzerland,29407,1716
-2020-04-29,,Taiwan*,429,6
-2020-04-29,,Tanzania,480,16
-2020-04-29,,Thailand,2947,54
-2020-04-29,,Togo,109,7
-2020-04-29,,Trinidad and Tobago,116,8
-2020-04-29,,Tunisia,980,40
-2020-04-29,,Turkey,117589,3081
-2020-04-29,,Uganda,81,0
-2020-04-29,,Ukraine,9866,250
-2020-04-29,,United Arab Emirates,11929,98
-2020-04-29,Bermuda,United Kingdom,111,6
-2020-04-29,Cayman Islands,United Kingdom,73,1
-2020-04-29,Channel Islands,United Kingdom,537,38
-2020-04-29,Gibraltar,United Kingdom,141,0
-2020-04-29,Isle of Man,United Kingdom,313,21
-2020-04-29,Montserrat,United Kingdom,11,1
-2020-04-29,,United Kingdom,165221,26097
-2020-04-29,,Uruguay,630,15
-2020-04-29,,Uzbekistan,2002,9
-2020-04-29,,Venezuela,331,10
-2020-04-29,,Vietnam,270,0
-2020-04-29,,Zambia,97,3
-2020-04-29,,Zimbabwe,32,4
-2020-04-29,Diamond Princess,Canada,0,1
-2020-04-29,,Dominica,16,0
-2020-04-29,,Grenada,20,0
-2020-04-29,,Mozambique,76,0
-2020-04-29,,Syria,43,3
-2020-04-29,,Timor-Leste,24,0
-2020-04-29,,Belize,18,2
-2020-04-29,Recovered,Canada,0,0
-2020-04-29,,Laos,19,0
-2020-04-29,,Libya,61,2
-2020-04-29,,West Bank and Gaza,344,2
-2020-04-29,,Guinea-Bissau,205,1
-2020-04-29,,Mali,482,25
-2020-04-29,,Saint Kitts and Nevis,15,0
-2020-04-29,Northwest Territories,Canada,5,0
-2020-04-29,Yukon,Canada,11,0
-2020-04-29,,Kosovo,510,12
-2020-04-29,,Burma,150,6
-2020-04-29,Anguilla,United Kingdom,3,0
-2020-04-29,British Virgin Islands,United Kingdom,6,1
-2020-04-29,Turks and Caicos Islands,United Kingdom,12,1
-2020-04-29,,MS Zaandam,9,2
-2020-04-29,,Botswana,23,1
-2020-04-29,,Burundi,11,1
-2020-04-29,,Sierra Leone,104,4
-2020-04-29,"Bonaire, Sint Eustatius and Saba",Netherlands,5,0
-2020-04-29,,Malawi,36,3
-2020-04-29,Falkland Islands (Malvinas),United Kingdom,13,0
-2020-04-29,Saint Pierre and Miquelon,France,1,0
-2020-04-29,,South Sudan,34,0
-2020-04-29,,Western Sahara,6,0
-2020-04-29,,Sao Tome and Principe,8,0
-2020-04-29,,Yemen,6,0
-2020-04-29,Alabama,US,6912,256
-2020-04-29,Alaska,US,355,9
-2020-04-29,American Samoa,US,0,0
-2020-04-29,Arizona,US,7209,308
-2020-04-29,Arkansas,US,3193,57
-2020-04-29,California,US,48747,1946
-2020-04-29,Colorado,US,14758,766
-2020-04-29,Connecticut,US,26767,2169
-2020-04-29,Delaware,US,4655,144
-2020-04-29,Diamond Princess,US,49,0
-2020-04-29,District of Columbia,US,4106,205
-2020-04-29,Florida,US,33193,1218
-2020-04-29,Georgia,US,25775,1101
-2020-04-29,Grand Princess,US,103,3
-2020-04-29,Guam,US,141,5
-2020-04-29,Hawaii,US,613,16
-2020-04-29,Idaho,US,1952,60
-2020-04-29,Illinois,US,50358,2215
-2020-04-29,Indiana,US,17182,964
-2020-04-29,Iowa,US,6843,148
-2020-04-29,Kansas,US,3839,134
-2020-04-29,Kentucky,US,4537,234
-2020-04-29,Louisiana,US,27660,1845
-2020-04-29,Maine,US,1056,52
-2020-04-29,Maryland,US,20849,1078
-2020-04-29,Massachusetts,US,60265,3405
-2020-04-29,Michigan,US,40399,3670
-2020-04-29,Minnesota,US,4644,319
-2020-04-29,Mississippi,US,6569,250
-2020-04-29,Missouri,US,7660,338
-2020-04-29,Montana,US,451,16
-2020-04-29,Nebraska,US,3851,56
-2020-04-29,Nevada,US,4934,230
-2020-04-29,New Hampshire,US,2058,60
-2020-04-29,New Jersey,US,116365,6771
-2020-04-29,New Mexico,US,3213,112
-2020-04-29,New York,US,299691,23477
-2020-04-29,North Carolina,US,10180,382
-2020-04-29,North Dakota,US,1033,19
-2020-04-29,Northern Mariana Islands,US,14,2
-2020-04-29,Ohio,US,17303,937
-2020-04-29,Oklahoma,US,3473,214
-2020-04-29,Oregon,US,2446,101
-2020-04-29,Pennsylvania,US,46327,2373
-2020-04-29,Puerto Rico,US,1433,86
-2020-04-29,Rhode Island,US,8247,251
-2020-04-29,South Carolina,US,5882,231
-2020-04-29,South Dakota,US,2373,13
-2020-04-29,Tennessee,US,10366,195
-2020-04-29,Texas,US,27257,754
-2020-04-29,Utah,US,4497,45
-2020-04-29,Vermont,US,862,47
-2020-04-29,Virgin Islands,US,57,4
-2020-04-29,Virginia,US,14962,522
-2020-04-29,Washington,US,14070,801
-2020-04-29,West Virginia,US,1110,38
-2020-04-29,Wisconsin,US,6520,308
-2020-04-29,Wyoming,US,545,7
