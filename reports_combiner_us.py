@@ -55,7 +55,7 @@ def _us_county(date_1):
     
     df['country_region'] = 'US'
     
-    df['date'] = pd.to_datetime(date_1)
+    df['date'] = pd.to_datetime(date_1).date()
     df = df.reset_index().set_index('date')
     df = df[['FIPS','county','province_state','country_region','cases','mortality']]
     return df
@@ -69,6 +69,6 @@ if __name__ == "__main__":
     # reports_combiner('2020-04-25')
 
     import numpy as np
-    dates = np.arange('2020-01-22','2020-04-29',dtype='datetime64[D]')
+    dates = np.arange('2020-01-22','2020-05-03',dtype='datetime64[D]')
     for date in dates:
         reports_combiner(date)

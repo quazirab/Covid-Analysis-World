@@ -59,8 +59,18 @@ def _global(date_1):
     df_deaths_global_for_date = df_deaths_global[['province_state','country_region',date_1]]
     df_deaths_global_for_date = df_deaths_global_for_date.rename(columns={date_1:'mortality'})
     
+
+
     df = pd.merge(df_cases_global_for_date,df_deaths_global_for_date,how='left',left_on=['country_region','province_state'],right_on=['country_region','province_state'])
-    df = df[df.country_region != 'US']
+    
+    df_with_provinces = df[df.province_state.notnull()]
+
+    df_with_provinces = df_with_provinces.groupby('country_region').sum().reset_index()
+    df_with_provinces = df_with_provinces[df_with_provinces.country_region != 'France']
+    df_with_provinces = df_with_provinces[df_with_provinces.country_region != 'Netherlands']
+    df_with_provinces = df_with_provinces[df_with_provinces.country_region != 'United Kingdom']
+    df = df.append(df_with_provinces)
+ 
     df['date'] = pd.to_datetime(date_1).date()
     df = df.set_index('date')
     return df
@@ -90,8 +100,9 @@ if __name__ == "__main__":
     # reports_combiner('04-28-2020')
 
     # reports_combiner('2020-04-25')
-
+# 1/22/20
     import numpy as np
-    dates = np.arange('2020-01-22','2020-04-29',dtype='datetime64[D]')
+    dates = np.arange('2020-01-22','2020-05-03',dtype='datetime64[D]')
     for date in dates:
+        print(date)
         reports_combiner(date)
