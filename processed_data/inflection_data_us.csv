@@ -2,7 +2,7 @@ province_state,county,inflection_result,inflection_date,slope_max,trust_index
 American Samoa,,-1,,,
 Guam,,-1,,,
 Northern Mariana Islands,,-1,,,
-Puerto Rico,,1,2020-04-26,5.6000000000000005,0.6
+Puerto Rico,,1,2020-04-26,5.6000000000000005,1.0
 Virgin Islands,,-1,,,
 Alabama,Autauga,-1,,,
 Alabama,Baldwin,-1,,,
@@ -10,7 +10,7 @@ Alabama,Barbour,-1,,,
 Alabama,Bibb,-1,,,
 Alabama,Blount,-1,,,
 Alabama,Bullock,-1,,,
-Alabama,Butler,-1,,,
+Alabama,Butler,1,2020-05-10,1.2000000000000002,0.8
 Alabama,Calhoun,-1,,,
 Alabama,Chambers,1,2020-04-22,1.3,1.0
 Alabama,Cherokee,-1,,,
@@ -40,11 +40,11 @@ Alabama,Hale,-1,,,
 Alabama,Henry,-1,,,
 Alabama,Houston,-1,,,
 Alabama,Jackson,-1,,,
-Alabama,Jefferson,1,2020-04-30,3.3000000000000003,0.2
+Alabama,Jefferson,1,2020-04-30,3.3000000000000003,1.0
 Alabama,Lamar,-1,,,
 Alabama,Lauderdale,-1,,,
 Alabama,Lawrence,-1,,,
-Alabama,Lee,1,2020-04-23,1.9000000000000001,0.9
+Alabama,Lee,1,2020-04-23,1.9000000000000001,1.0
 Alabama,Limestone,-1,,,
 Alabama,Lowndes,-1,,,
 Alabama,Macon,-1,,,
@@ -52,9 +52,9 @@ Alabama,Madison,-1,,,
 Alabama,Marengo,-1,,,
 Alabama,Marion,-1,,,
 Alabama,Marshall,-1,,,
-Alabama,Mobile,1,2020-05-01,4.5,0.1
+Alabama,Mobile,1,2020-05-01,4.5,1.0
 Alabama,Monroe,-1,,,
-Alabama,Montgomery,-1,,,
+Alabama,Montgomery,1,2020-05-08,1.9000000000000001,1.0
 Alabama,Morgan,-1,,,
 Alabama,Perry,-1,,,
 Alabama,Pickens,-1,,,
@@ -62,10 +62,10 @@ Alabama,Pike,-1,,,
 Alabama,Randolph,-1,,,
 Alabama,Russell,-1,,,
 Alabama,St. Clair,-1,,,
-Alabama,Shelby,1,2020-05-01,1.0,0.1
+Alabama,Shelby,1,2020-05-08,1.1,1.0
 Alabama,Sumter,-1,,,
 Alabama,Talladega,-1,,,
-Alabama,Tallapoosa,1,2020-04-19,1.4000000000000001,1.0
+Alabama,Tallapoosa,1,2020-05-08,6.2,1.0
 Alabama,Tuscaloosa,-1,,,
 Alabama,Walker,-1,,,
 Alabama,Washington,-1,,,
@@ -102,18 +102,18 @@ Alaska,Wrangell,-1,,,
 Alaska,Yakutat,-1,,,
 Alaska,Yukon-Koyukuk,-1,,,
 Alaska,Out of AK,-1,,,
-Arizona,Apache,-1,,,
+Arizona,Apache,1,2020-05-17,2.4000000000000004,0.1
 Arizona,Cochise,-1,,,
 Arizona,Coconino,1,2020-04-15,2.5,1.0
 Arizona,Gila,-1,,,
 Arizona,Graham,-1,,,
 Arizona,Greenlee,-1,,,
 Arizona,La Paz,-1,,,
-Arizona,Maricopa,1,2020-04-24,12.200000000000001,0.8
-Arizona,Mohave,1,2020-05-01,2.4000000000000004,0.1
-Arizona,Navajo,1,2020-04-25,2.0,0.7
-Arizona,Pima,1,2020-04-20,8.5,1.0
-Arizona,Pinal,1,2020-05-01,1.0,0.1
+Arizona,Maricopa,1,2020-05-08,21.1,1.0
+Arizona,Mohave,1,2020-05-01,2.4000000000000004,1.0
+Arizona,Navajo,1,2020-05-08,3.4000000000000004,1.0
+Arizona,Pima,1,2020-05-08,11.3,1.0
+Arizona,Pinal,1,2020-05-16,3.0,0.2
 Arizona,Santa Cruz,-1,,,
 Arizona,Yavapai,-1,,,
 Arizona,Yuma,-1,,,
@@ -152,7 +152,7 @@ Arkansas,Howard,-1,,,
 Arkansas,Independence,-1,,,
 Arkansas,Izard,-1,,,
 Arkansas,Jackson,-1,,,
-Arkansas,Jefferson,1,2020-04-29,1.6,0.3
+Arkansas,Jefferson,1,2020-04-29,1.6,1.0
 Arkansas,Johnson,-1,,,
 Arkansas,Lafayette,-1,,,
 Arkansas,Lawrence,-1,,,
@@ -203,16 +203,16 @@ California,Colusa,-1,,,
 California,Contra Costa,1,2020-04-17,2.1,1.0
 California,Del Norte,-1,,,
 California,El Dorado,-1,,,
-California,Fresno,-1,,,
+California,Fresno,1,2020-05-16,1.5,0.2
 California,Glenn,-1,,,
 California,Humboldt,-1,,,
-California,Imperial,-1,,,
+California,Imperial,1,2020-04-24,1.4000000000000001,1.0
 California,Inyo,-1,,,
-California,Kern,-1,,,
+California,Kern,1,2020-05-16,2.3000000000000003,0.2
 California,Kings,-1,,,
 California,Lake,-1,,,
 California,Lassen,-1,,,
-California,Los Angeles,1,2020-04-24,59.6,0.8
+California,Los Angeles,1,2020-04-24,59.6,1.0
 California,Madera,-1,,,
 California,Marin,1,2020-04-02,1.3,1.0
 California,Mariposa,-1,,,
@@ -223,45 +223,45 @@ California,Mono,-1,,,
 California,Monterey,-1,,,
 California,Napa,-1,,,
 California,Nevada,-1,,,
-California,Orange,1,2020-04-18,3.2,1.0
+California,Orange,1,2020-05-05,4.3,1.0
 California,Placer,-1,,,
 California,Plumas,-1,,,
-California,Riverside,1,2020-04-27,8.8,0.5
+California,Riverside,1,2020-04-27,8.8,1.0
 California,Sacramento,1,2020-04-09,3.8000000000000003,1.0
 California,San Benito,-1,,,
-California,San Bernardino,1,2020-04-19,7.0,1.0
-California,San Diego,1,2020-04-24,9.0,0.8
-California,San Francisco,0,,,
-California,San Joaquin,1,2020-04-24,1.8,0.8
+California,San Bernardino,1,2020-05-15,8.9,0.3
+California,San Diego,1,2020-04-24,9.0,1.0
+California,San Francisco,1,2020-05-02,1.7000000000000002,1.0
+California,San Joaquin,1,2020-04-24,1.8,1.0
 California,San Luis Obispo,-1,,,
-California,San Mateo,1,2020-04-24,3.7,0.8
-California,Santa Barbara,-1,,,
-California,Santa Clara,1,2020-04-23,5.5,0.9
+California,San Mateo,1,2020-04-24,3.7,1.0
+California,Santa Barbara,1,2020-04-25,0.7000000000000001,1.0
+California,Santa Clara,1,2020-04-23,5.5,1.0
 California,Santa Cruz,-1,,,
 California,Shasta,-1,,,
 California,Sierra,-1,,,
 California,Siskiyou,-1,,,
-California,Solano,-1,,,
+California,Solano,1,2020-05-14,1.5,0.4
 California,Sonoma,-1,,,
-California,Stanislaus,1,2020-05-01,2.0,0.1
+California,Stanislaus,1,2020-05-01,2.0,1.0
 California,Sutter,-1,,,
 California,Tehama,-1,,,
 California,Trinity,-1,,,
-California,Tulare,1,2020-04-25,3.1,0.7
+California,Tulare,1,2020-05-16,4.0,0.2
 California,Tuolumne,-1,,,
-California,Ventura,1,2020-04-11,1.1,1.0
+California,Ventura,1,2020-05-15,1.8,0.3
 California,Yolo,1,2020-04-17,1.1,1.0
 California,Yuba,-1,,,
 California,Out of CA,-1,,,
-Colorado,Adams,1,2020-04-24,4.800000000000001,0.8
+Colorado,Adams,1,2020-05-16,4.9,0.2
 Colorado,Alamosa,-1,,,
-Colorado,Arapahoe,1,2020-04-24,14.100000000000001,0.8
+Colorado,Arapahoe,1,2020-05-16,14.9,0.2
 Colorado,Archuleta,-1,,,
 Colorado,Baca,-1,,,
 Colorado,Bent,-1,,,
-Colorado,Boulder,1,2020-04-25,3.0,0.7
-Colorado,Broomfield,1,2020-04-29,1.2000000000000002,0.3
-Colorado,Chaffee,1,2020-04-25,2.6,0.7
+Colorado,Boulder,1,2020-04-25,3.0,1.0
+Colorado,Broomfield,1,2020-04-29,1.2000000000000002,1.0
+Colorado,Chaffee,1,2020-04-25,2.6,1.0
 Colorado,Cheyenne,-1,,,
 Colorado,Clear Creek,-1,,,
 Colorado,Conejos,-1,,,
@@ -269,12 +269,12 @@ Colorado,Costilla,-1,,,
 Colorado,Crowley,-1,,,
 Colorado,Custer,-1,,,
 Colorado,Delta,-1,,,
-Colorado,Denver,1,2020-04-25,11.4,0.7
+Colorado,Denver,1,2020-04-25,11.4,1.0
 Colorado,Dolores,-1,,,
-Colorado,Douglas,1,2020-04-09,1.5,1.0
+Colorado,Douglas,1,2020-05-17,2.6,0.1
 Colorado,Eagle,-1,,,
 Colorado,Elbert,-1,,,
-Colorado,El Paso,1,2020-04-25,5.6000000000000005,0.7
+Colorado,El Paso,1,2020-04-25,5.6000000000000005,1.0
 Colorado,Fremont,-1,,,
 Colorado,Garfield,-1,,,
 Colorado,Gilpin,-1,,,
@@ -283,12 +283,12 @@ Colorado,Gunnison,-1,,,
 Colorado,Hinsdale,-1,,,
 Colorado,Huerfano,-1,,,
 Colorado,Jackson,-1,,,
-Colorado,Jefferson,1,2020-04-24,6.300000000000001,0.8
+Colorado,Jefferson,1,2020-04-24,6.300000000000001,1.0
 Colorado,Kiowa,-1,,,
 Colorado,Kit Carson,-1,,,
 Colorado,Lake,-1,,,
 Colorado,La Plata,-1,,,
-Colorado,Larimer,1,2020-04-24,1.4000000000000001,0.8
+Colorado,Larimer,1,2020-04-24,1.4000000000000001,1.0
 Colorado,Las Animas,-1,,,
 Colorado,Lincoln,-1,,,
 Colorado,Logan,-1,,,
@@ -297,7 +297,7 @@ Colorado,Mineral,-1,,,
 Colorado,Moffat,-1,,,
 Colorado,Montezuma,-1,,,
 Colorado,Montrose,1,2020-04-17,0.7000000000000001,1.0
-Colorado,Morgan,1,2020-04-26,2.1,0.6
+Colorado,Morgan,1,2020-04-26,2.1,1.0
 Colorado,Otero,-1,,,
 Colorado,Ouray,-1,,,
 Colorado,Park,-1,,,
@@ -319,31 +319,31 @@ Colorado,Weld,1,2020-04-13,6.4,1.0
 Colorado,Yuma,-1,,,
 Colorado,Out of CO,-1,,,
 Connecticut,Fairfield,1,2020-04-17,44.5,1.0
-Connecticut,Hartford,1,2020-04-23,42.1,0.9
+Connecticut,Hartford,1,2020-04-23,42.1,1.0
 Connecticut,Litchfield,1,2020-04-17,5.9,1.0
-Connecticut,Middlesex,0,,,
-Connecticut,New Haven,1,2020-04-23,27.400000000000002,0.9
-Connecticut,New London,1,2020-04-26,4.5,0.6
-Connecticut,Tolland,1,2020-04-23,2.3000000000000003,0.9
-Connecticut,Windham,-1,,,
+Connecticut,Middlesex,1,2020-05-02,4.800000000000001,1.0
+Connecticut,New Haven,1,2020-04-23,27.400000000000002,1.0
+Connecticut,New London,1,2020-04-26,4.5,1.0
+Connecticut,Tolland,1,2020-04-23,2.3000000000000003,1.0
+Connecticut,Windham,1,2020-05-15,1.4000000000000001,0.3
 Connecticut,Out of CT,-1,,,
-Delaware,Kent,1,2020-04-27,2.3000000000000003,0.5
-Delaware,New Castle,1,2020-04-26,4.6000000000000005,0.6
-Delaware,Sussex,1,2020-05-01,4.1000000000000005,0.1
+Delaware,Kent,1,2020-04-27,2.3000000000000003,1.0
+Delaware,New Castle,1,2020-05-17,5.7,0.1
+Delaware,Sussex,1,2020-05-09,4.7,0.9
 Delaware,Out of DE,-1,,,
-District of Columbia,District of Columbia,1,2020-04-25,13.200000000000001,0.7
+District of Columbia,District of Columbia,1,2020-04-25,13.200000000000001,1.0
 District of Columbia,Out of DC,-1,,,
 Florida,Alachua,-1,,,
 Florida,Baker,-1,,,
 Florida,Bay,-1,,,
 Florida,Bradford,-1,,,
-Florida,Brevard,-1,,,
-Florida,Broward,1,2020-04-24,11.100000000000001,0.8
+Florida,Brevard,1,2020-04-14,1.2000000000000002,1.0
+Florida,Broward,1,2020-05-09,11.3,0.9
 Florida,Calhoun,-1,,,
-Florida,Charlotte,0,,,
+Florida,Charlotte,1,2020-05-02,2.4000000000000004,1.0
 Florida,Citrus,1,2020-04-11,1.2000000000000002,1.0
-Florida,Clay,1,2020-04-25,0.9,0.7
-Florida,Collier,1,2020-04-24,1.6,0.8
+Florida,Clay,1,2020-04-25,0.9,1.0
+Florida,Collier,1,2020-05-14,2.2,0.4
 Florida,Columbia,-1,,,
 Florida,DeSoto,-1,,,
 Florida,Dixie,-1,,,
@@ -357,17 +357,17 @@ Florida,Glades,-1,,,
 Florida,Gulf,-1,,,
 Florida,Hamilton,-1,,,
 Florida,Hardee,-1,,,
-Florida,Hendry,-1,,,
+Florida,Hendry,1,2020-05-16,1.7000000000000002,0.2
 Florida,Hernando,-1,,,
 Florida,Highlands,-1,,,
-Florida,Hillsborough,1,2020-04-12,2.3000000000000003,1.0
+Florida,Hillsborough,1,2020-05-14,2.4000000000000004,0.4
 Florida,Holmes,-1,,,
 Florida,Indian River,-1,,,
 Florida,Jackson,-1,,,
 Florida,Jefferson,-1,,,
 Florida,Lafayette,-1,,,
-Florida,Lake,1,2020-04-25,0.9,0.7
-Florida,Lee,1,2020-04-25,2.1,0.7
+Florida,Lake,1,2020-04-25,0.9,1.0
+Florida,Lee,1,2020-05-09,4.0,0.9
 Florida,Leon,-1,,,
 Florida,Levy,-1,,,
 Florida,Liberty,-1,,,
@@ -381,61 +381,61 @@ Florida,Nassau,-1,,,
 Florida,Okaloosa,-1,,,
 Florida,Okeechobee,-1,,,
 Florida,Orange,1,2020-04-17,2.8000000000000003,1.0
-Florida,Osceola,-1,,,
-Florida,Palm Beach,1,2020-04-30,8.4,0.2
+Florida,Osceola,1,2020-05-13,1.1,0.5
+Florida,Palm Beach,1,2020-04-30,8.4,1.0
 Florida,Pasco,-1,,,
-Florida,Pinellas,1,2020-04-30,3.5,0.2
-Florida,Polk,1,2020-05-01,1.5,0.1
+Florida,Pinellas,1,2020-05-08,4.6000000000000005,1.0
+Florida,Polk,1,2020-05-15,1.6,0.3
 Florida,Putnam,-1,,,
 Florida,St. Johns,-1,,,
 Florida,St. Lucie,1,2020-04-19,1.8,1.0
 Florida,Santa Rosa,-1,,,
-Florida,Sarasota,1,2020-04-30,3.0,0.2
-Florida,Seminole,-1,,,
+Florida,Sarasota,1,2020-04-30,3.0,1.0
+Florida,Seminole,1,2020-05-10,0.9,0.8
 Florida,Sumter,1,2020-04-09,1.2000000000000002,1.0
 Florida,Suwannee,1,2020-04-17,1.0,1.0
 Florida,Taylor,-1,,,
 Florida,Union,-1,,,
-Florida,Volusia,0,,,
+Florida,Volusia,1,2020-05-03,1.6,1.0
 Florida,Wakulla,-1,,,
 Florida,Walton,-1,,,
 Florida,Washington,-1,,,
 Florida,Out of FL,-1,,,
-Georgia,Appling,-1,,,
+Georgia,Appling,1,2020-05-07,1.3,1.0
 Georgia,Atkinson,-1,,,
 Georgia,Bacon,-1,,,
 Georgia,Baker,-1,,,
-Georgia,Baldwin,-1,,,
+Georgia,Baldwin,1,2020-04-21,0.6000000000000001,1.0
 Georgia,Banks,-1,,,
 Georgia,Barrow,-1,,,
 Georgia,Bartow,1,2020-04-10,1.7000000000000002,1.0
 Georgia,Ben Hill,-1,,,
 Georgia,Berrien,-1,,,
-Georgia,Bibb,1,2020-04-23,1.1,0.9
+Georgia,Bibb,1,2020-04-23,1.1,1.0
 Georgia,Bleckley,-1,,,
 Georgia,Brantley,-1,,,
 Georgia,Brooks,-1,,,
 Georgia,Bryan,-1,,,
 Georgia,Bulloch,-1,,,
 Georgia,Burke,-1,,,
-Georgia,Butts,0,,,
+Georgia,Butts,1,2020-05-02,3.8000000000000003,1.0
 Georgia,Calhoun,-1,,,
 Georgia,Camden,-1,,,
 Georgia,Candler,-1,,,
 Georgia,Carroll,1,2020-04-20,1.0,1.0
 Georgia,Catoosa,-1,,,
 Georgia,Charlton,-1,,,
-Georgia,Chatham,-1,,,
+Georgia,Chatham,1,2020-05-06,0.9,1.0
 Georgia,Chattahoochee,-1,,,
 Georgia,Chattooga,-1,,,
-Georgia,Cherokee,1,2020-04-03,1.0,1.0
+Georgia,Cherokee,1,2020-05-13,1.2000000000000002,0.5
 Georgia,Clarke,1,2020-03-31,1.1,1.0
 Georgia,Clay,-1,,,
-Georgia,Clayton,0,,,
+Georgia,Clayton,1,2020-05-02,2.5,1.0
 Georgia,Clinch,-1,,,
-Georgia,Cobb,1,2020-04-30,4.5,0.2
-Georgia,Coffee,-1,,,
-Georgia,Colquitt,0,,,
+Georgia,Cobb,1,2020-04-30,4.5,1.0
+Georgia,Coffee,1,2020-05-01,0.9,1.0
+Georgia,Colquitt,1,2020-05-03,1.2000000000000002,1.0
 Georgia,Columbia,-1,,,
 Georgia,Cook,-1,,,
 Georgia,Coweta,-1,,,
@@ -444,12 +444,12 @@ Georgia,Crisp,-1,,,
 Georgia,Dade,-1,,,
 Georgia,Dawson,-1,,,
 Georgia,Decatur,-1,,,
-Georgia,DeKalb,1,2020-04-29,2.7,0.3
+Georgia,DeKalb,1,2020-05-09,2.8000000000000003,0.9
 Georgia,Dodge,-1,,,
-Georgia,Dooly,-1,,,
+Georgia,Dooly,1,2020-04-16,0.7000000000000001,1.0
 Georgia,Dougherty,1,2020-04-09,9.4,1.0
-Georgia,Douglas,1,2020-04-28,0.9,0.4
-Georgia,Early,1,2020-04-23,1.6,0.9
+Georgia,Douglas,1,2020-04-28,0.9,1.0
+Georgia,Early,1,2020-05-05,1.8,1.0
 Georgia,Echols,-1,,,
 Georgia,Effingham,-1,,,
 Georgia,Elbert,-1,,,
@@ -460,16 +460,16 @@ Georgia,Fayette,1,2020-04-21,0.9,1.0
 Georgia,Floyd,1,2020-04-20,0.8,1.0
 Georgia,Forsyth,1,2020-04-13,0.7999999999999999,1.0
 Georgia,Franklin,-1,,,
-Georgia,Fulton,1,2020-04-29,6.2,0.3
+Georgia,Fulton,1,2020-04-29,6.2,1.0
 Georgia,Gilmer,-1,,,
 Georgia,Glascock,-1,,,
 Georgia,Glynn,-1,,,
-Georgia,Gordon,1,2020-04-23,1.2000000000000002,0.9
+Georgia,Gordon,1,2020-04-23,1.2000000000000002,1.0
 Georgia,Grady,-1,,,
 Georgia,Greene,-1,,,
-Georgia,Gwinnett,1,2020-04-16,3.5,1.0
-Georgia,Habersham,-1,,,
-Georgia,Hall,1,2020-04-30,2.8000000000000003,0.2
+Georgia,Gwinnett,1,2020-05-07,6.800000000000001,1.0
+Georgia,Habersham,1,2020-05-08,1.8,1.0
+Georgia,Hall,1,2020-05-14,3.2,0.4
 Georgia,Hancock,-1,,,
 Georgia,Haralson,-1,,,
 Georgia,Harris,-1,,,
@@ -506,11 +506,11 @@ Georgia,Monroe,-1,,,
 Georgia,Montgomery,-1,,,
 Georgia,Morgan,-1,,,
 Georgia,Murray,-1,,,
-Georgia,Muscogee,-1,,,
-Georgia,Newton,-1,,,
+Georgia,Muscogee,1,2020-05-07,1.5,1.0
+Georgia,Newton,1,2020-04-24,0.7000000000000001,1.0
 Georgia,Oconee,-1,,,
 Georgia,Oglethorpe,-1,,,
-Georgia,Paulding,-1,,,
+Georgia,Paulding,1,2020-04-16,0.9,1.0
 Georgia,Peach,-1,,,
 Georgia,Pickens,-1,,,
 Georgia,Pierce,-1,,,
@@ -526,10 +526,10 @@ Georgia,Rockdale,-1,,,
 Georgia,Schley,-1,,,
 Georgia,Screven,-1,,,
 Georgia,Seminole,-1,,,
-Georgia,Spalding,1,2020-04-08,0.8,1.0
+Georgia,Spalding,1,2020-05-16,0.9,0.2
 Georgia,Stephens,-1,,,
 Georgia,Stewart,-1,,,
-Georgia,Sumter,1,2020-04-29,1.9000000000000001,0.3
+Georgia,Sumter,1,2020-04-29,1.9000000000000001,1.0
 Georgia,Talbot,-1,,,
 Georgia,Taliaferro,-1,,,
 Georgia,Tattnall,-1,,,
@@ -537,18 +537,18 @@ Georgia,Taylor,-1,,,
 Georgia,Telfair,-1,,,
 Georgia,Terrell,1,2020-04-08,2.1,1.0
 Georgia,Thomas,1,2020-04-17,2.7,1.0
-Georgia,Tift,-1,,,
+Georgia,Tift,1,2020-05-16,1.5,0.2
 Georgia,Toombs,-1,,,
 Georgia,Towns,-1,,,
 Georgia,Treutlen,-1,,,
 Georgia,Troup,-1,,,
-Georgia,Turner,-1,,,
+Georgia,Turner,1,2020-04-23,0.9,1.0
 Georgia,Twiggs,-1,,,
 Georgia,Union,-1,,,
-Georgia,Upson,1,2020-04-23,1.4000000000000001,0.9
+Georgia,Upson,1,2020-04-23,1.4000000000000001,1.0
 Georgia,Walker,-1,,,
 Georgia,Walton,-1,,,
-Georgia,Ware,1,2020-04-30,0.8,0.2
+Georgia,Ware,1,2020-04-30,0.8,1.0
 Georgia,Warren,-1,,,
 Georgia,Washington,-1,,,
 Georgia,Wayne,-1,,,
@@ -556,18 +556,18 @@ Georgia,Webster,-1,,,
 Georgia,Wheeler,-1,,,
 Georgia,White,-1,,,
 Georgia,Whitfield,-1,,,
-Georgia,Wilcox,-1,,,
+Georgia,Wilcox,1,2020-04-23,0.8,1.0
 Georgia,Wilkes,-1,,,
 Georgia,Wilkinson,-1,,,
-Georgia,Worth,1,2020-04-22,1.2000000000000002,1.0
-Georgia,Out of GA,1,2020-04-29,1.2000000000000002,0.3
+Georgia,Worth,1,2020-05-13,1.4000000000000001,0.5
+Georgia,Out of GA,1,2020-04-29,1.2000000000000002,1.0
 Hawaii,Hawaii,-1,,,
 Hawaii,Honolulu,1,2020-04-05,1.0,1.0
 Hawaii,Kalawao,-1,,,
 Hawaii,Kauai,-1,,,
 Hawaii,Maui,-1,,,
 Hawaii,Out of HI,-1,,,
-Idaho,Ada,1,2020-04-23,1.0,0.9
+Idaho,Ada,1,2020-04-23,1.0,1.0
 Idaho,Adams,-1,,,
 Idaho,Bannock,-1,,,
 Idaho,Bear Lake,-1,,,
@@ -615,7 +615,7 @@ Idaho,Out of ID,-1,,,
 Illinois,Adams,-1,,,
 Illinois,Alexander,-1,,,
 Illinois,Bond,-1,,,
-Illinois,Boone,1,2020-04-23,1.3,0.9
+Illinois,Boone,1,2020-04-23,1.3,1.0
 Illinois,Brown,-1,,,
 Illinois,Bureau,-1,,,
 Illinois,Calhoun,-1,,,
@@ -625,15 +625,15 @@ Illinois,Champaign,-1,,,
 Illinois,Christian,-1,,,
 Illinois,Clark,-1,,,
 Illinois,Clay,-1,,,
-Illinois,Clinton,-1,,,
+Illinois,Clinton,1,2020-05-02,1.1,1.0
 Illinois,Coles,-1,,,
-Illinois,Cook,1,2020-05-01,80.2,0.1
+Illinois,Cook,1,2020-05-15,102.80000000000001,0.3
 Illinois,Crawford,-1,,,
 Illinois,Cumberland,-1,,,
 Illinois,DeKalb,-1,,,
 Illinois,De Witt,-1,,,
 Illinois,Douglas,-1,,,
-Illinois,DuPage,0,,,
+Illinois,DuPage,1,2020-05-02,13.0,1.0
 Illinois,Edgar,-1,,,
 Illinois,Edwards,-1,,,
 Illinois,Effingham,-1,,,
@@ -650,24 +650,24 @@ Illinois,Hardin,-1,,,
 Illinois,Henderson,-1,,,
 Illinois,Henry,-1,,,
 Illinois,Iroquois,-1,,,
-Illinois,Jackson,-1,,,
+Illinois,Jackson,1,2020-04-13,0.7000000000000001,1.0
 Illinois,Jasper,-1,,,
-Illinois,Jefferson,1,2020-04-29,2.2,0.3
+Illinois,Jefferson,1,2020-04-29,2.2,1.0
 Illinois,Jersey,-1,,,
 Illinois,Jo Daviess,-1,,,
 Illinois,Johnson,-1,,,
-Illinois,Kane,1,2020-05-01,3.3000000000000003,0.1
-Illinois,Kankakee,1,2020-04-25,2.7,0.7
-Illinois,Kendall,-1,,,
+Illinois,Kane,1,2020-05-08,6.6000000000000005,1.0
+Illinois,Kankakee,1,2020-04-25,2.7,1.0
+Illinois,Kendall,1,2020-05-14,1.3,0.4
 Illinois,Knox,-1,,,
-Illinois,Lake,1,2020-04-16,7.300000000000001,1.0
+Illinois,Lake,1,2020-05-15,8.5,0.3
 Illinois,LaSalle,-1,,,
 Illinois,Lawrence,-1,,,
 Illinois,Lee,-1,,,
 Illinois,Livingston,-1,,,
 Illinois,Logan,-1,,,
 Illinois,McDonough,-1,,,
-Illinois,McHenry,1,2020-04-24,2.6,0.8
+Illinois,McHenry,1,2020-05-09,3.0,0.9
 Illinois,McLean,-1,,,
 Illinois,Macon,1,2020-04-16,1.2000000000000002,1.0
 Illinois,Macoupin,-1,,,
@@ -692,10 +692,10 @@ Illinois,Pulaski,-1,,,
 Illinois,Putnam,-1,,,
 Illinois,Randolph,-1,,,
 Illinois,Richland,-1,,,
-Illinois,Rock Island,-1,,,
-Illinois,St. Clair,1,2020-04-18,2.5,1.0
+Illinois,Rock Island,1,2020-05-07,1.7000000000000002,1.0
+Illinois,St. Clair,1,2020-05-07,3.0,1.0
 Illinois,Saline,-1,,,
-Illinois,Sangamon,1,2020-04-29,0.8,0.3
+Illinois,Sangamon,1,2020-05-08,1.7000000000000002,1.0
 Illinois,Schuyler,-1,,,
 Illinois,Scott,-1,,,
 Illinois,Shelby,-1,,,
@@ -710,84 +710,84 @@ Illinois,Washington,-1,,,
 Illinois,Wayne,-1,,,
 Illinois,White,-1,,,
 Illinois,Whiteside,-1,,,
-Illinois,Will,1,2020-04-09,8.4,1.0
+Illinois,Will,1,2020-05-15,9.1,0.3
 Illinois,Williamson,-1,,,
-Illinois,Winnebago,1,2020-04-24,0.8,0.8
+Illinois,Winnebago,1,2020-05-05,2.3000000000000003,1.0
 Illinois,Woodford,-1,,,
 Illinois,Out of IL,-1,,,
 Indiana,Adams,-1,,,
-Indiana,Allen,1,2020-04-30,5.6000000000000005,0.2
-Indiana,Bartholomew,1,2020-04-26,0.8,0.6
+Indiana,Allen,1,2020-04-30,5.6000000000000005,1.0
+Indiana,Bartholomew,1,2020-05-08,2.0,1.0
 Indiana,Benton,-1,,,
 Indiana,Blackford,-1,,,
-Indiana,Boone,1,2020-04-23,3.2,0.9
+Indiana,Boone,1,2020-04-23,3.2,1.0
 Indiana,Brown,-1,,,
 Indiana,Carroll,-1,,,
 Indiana,Cass,-1,,,
-Indiana,Clark,1,2020-04-07,1.1,1.0
+Indiana,Clark,1,2020-05-07,2.1,1.0
 Indiana,Clay,-1,,,
 Indiana,Clinton,-1,,,
 Indiana,Crawford,-1,,,
-Indiana,Daviess,1,2020-04-24,1.2000000000000002,0.8
-Indiana,Dearborn,-1,,,
+Indiana,Daviess,1,2020-04-24,1.2000000000000002,1.0
+Indiana,Dearborn,1,2020-05-05,1.2000000000000002,1.0
 Indiana,Decatur,1,2020-04-17,1.8,1.0
 Indiana,DeKalb,-1,,,
-Indiana,Delaware,1,2020-04-22,1.1,1.0
+Indiana,Delaware,1,2020-05-12,1.2000000000000002,0.6
 Indiana,Dubois,-1,,,
-Indiana,Elkhart,-1,,,
+Indiana,Elkhart,1,2020-05-04,1.5,1.0
 Indiana,Fayette,-1,,,
-Indiana,Floyd,1,2020-04-30,1.2000000000000002,0.2
+Indiana,Floyd,1,2020-05-07,3.1,1.0
 Indiana,Fountain,-1,,,
 Indiana,Franklin,-1,,,
 Indiana,Fulton,-1,,,
 Indiana,Gibson,-1,,,
-Indiana,Grant,1,2020-04-30,1.0,0.2
-Indiana,Greene,-1,,,
+Indiana,Grant,1,2020-04-30,1.0,1.0
+Indiana,Greene,1,2020-05-13,2.2,0.5
 Indiana,Hamilton,1,2020-04-10,3.4000000000000004,1.0
-Indiana,Hancock,1,2020-04-12,1.2000000000000002,1.0
-Indiana,Harrison,-1,,,
-Indiana,Hendricks,0,,,
+Indiana,Hancock,1,2020-05-08,1.6,1.0
+Indiana,Harrison,1,2020-05-01,0.9,1.0
+Indiana,Hendricks,1,2020-05-02,2.7,1.0
 Indiana,Henry,-1,,,
-Indiana,Howard,-1,,,
+Indiana,Howard,1,2020-05-03,1.2000000000000002,1.0
 Indiana,Huntington,-1,,,
 Indiana,Jackson,-1,,,
 Indiana,Jasper,-1,,,
 Indiana,Jay,-1,,,
 Indiana,Jefferson,-1,,,
 Indiana,Jennings,-1,,,
-Indiana,Johnson,1,2020-05-01,3.6,0.1
+Indiana,Johnson,1,2020-05-01,3.6,1.0
 Indiana,Knox,-1,,,
 Indiana,Kosciusko,-1,,,
 Indiana,LaGrange,-1,,,
-Indiana,Lake,1,2020-05-01,5.0,0.1
-Indiana,LaPorte,-1,,,
-Indiana,Lawrence,1,2020-04-05,1.2000000000000002,1.0
+Indiana,Lake,1,2020-05-01,5.0,1.0
+Indiana,LaPorte,1,2020-05-03,0.8,1.0
+Indiana,Lawrence,1,2020-05-17,1.5,0.1
 Indiana,Madison,1,2020-04-17,3.4000000000000004,1.0
-Indiana,Marion,1,2020-05-01,19.0,0.1
+Indiana,Marion,1,2020-05-01,19.0,1.0
 Indiana,Marshall,-1,,,
 Indiana,Martin,-1,,,
 Indiana,Miami,-1,,,
-Indiana,Monroe,-1,,,
-Indiana,Montgomery,-1,,,
-Indiana,Morgan,-1,,,
+Indiana,Monroe,1,2020-04-18,0.7000000000000001,1.0
+Indiana,Montgomery,1,2020-05-13,1.3,0.5
+Indiana,Morgan,1,2020-05-17,1.9000000000000001,0.1
 Indiana,Newton,-1,,,
-Indiana,Noble,1,2020-04-29,1.4000000000000001,0.3
+Indiana,Noble,1,2020-04-29,1.4000000000000001,1.0
 Indiana,Ohio,-1,,,
-Indiana,Orange,1,2020-04-27,0.9,0.5
+Indiana,Orange,1,2020-05-09,1.3,0.9
 Indiana,Owen,-1,,,
 Indiana,Parke,-1,,,
 Indiana,Perry,-1,,,
 Indiana,Pike,-1,,,
-Indiana,Porter,-1,,,
+Indiana,Porter,1,2020-04-21,0.6000000000000001,1.0
 Indiana,Posey,-1,,,
 Indiana,Pulaski,-1,,,
 Indiana,Putnam,-1,,,
 Indiana,Randolph,-1,,,
 Indiana,Ripley,-1,,,
 Indiana,Rush,-1,,,
-Indiana,St. Joseph,1,2020-04-28,1.4000000000000001,0.4
+Indiana,St. Joseph,1,2020-04-28,1.4000000000000001,1.0
 Indiana,Scott,-1,,,
-Indiana,Shelby,1,2020-04-29,1.6,0.3
+Indiana,Shelby,1,2020-04-29,1.6,1.0
 Indiana,Spencer,-1,,,
 Indiana,Starke,-1,,,
 Indiana,Steuben,-1,,,
@@ -801,7 +801,7 @@ Indiana,Vermillion,-1,,,
 Indiana,Vigo,-1,,,
 Indiana,Wabash,-1,,,
 Indiana,Warren,-1,,,
-Indiana,Warrick,1,2020-04-24,1.8,0.8
+Indiana,Warrick,1,2020-04-24,1.8,1.0
 Indiana,Washington,-1,,,
 Indiana,Wayne,-1,,,
 Indiana,Wells,-1,,,
@@ -814,7 +814,7 @@ Iowa,Allamakee,-1,,,
 Iowa,Appanoose,-1,,,
 Iowa,Audubon,-1,,,
 Iowa,Benton,-1,,,
-Iowa,Black Hawk,1,2020-04-27,1.5999999999999999,0.5
+Iowa,Black Hawk,1,2020-05-12,2.1,0.6
 Iowa,Boone,-1,,,
 Iowa,Bremer,-1,,,
 Iowa,Buchanan,-1,,,
@@ -832,13 +832,13 @@ Iowa,Clay,-1,,,
 Iowa,Clayton,-1,,,
 Iowa,Clinton,-1,,,
 Iowa,Crawford,-1,,,
-Iowa,Dallas,-1,,,
+Iowa,Dallas,1,2020-05-15,1.0,0.3
 Iowa,Davis,-1,,,
 Iowa,Decatur,-1,,,
 Iowa,Delaware,-1,,,
 Iowa,Des Moines,-1,,,
 Iowa,Dickinson,-1,,,
-Iowa,Dubuque,-1,,,
+Iowa,Dubuque,1,2020-05-15,0.9,0.3
 Iowa,Emmet,-1,,,
 Iowa,Fayette,-1,,,
 Iowa,Floyd,-1,,,
@@ -857,14 +857,14 @@ Iowa,Humboldt,-1,,,
 Iowa,Ida,-1,,,
 Iowa,Iowa,-1,,,
 Iowa,Jackson,-1,,,
-Iowa,Jasper,-1,,,
+Iowa,Jasper,1,2020-05-07,1.1,1.0
 Iowa,Jefferson,-1,,,
 Iowa,Johnson,-1,,,
 Iowa,Jones,-1,,,
 Iowa,Keokuk,-1,,,
 Iowa,Kossuth,-1,,,
 Iowa,Lee,-1,,,
-Iowa,Linn,1,2020-05-01,2.9000000000000004,0.1
+Iowa,Linn,1,2020-05-01,2.9000000000000004,1.0
 Iowa,Louisa,-1,,,
 Iowa,Lucas,-1,,,
 Iowa,Lyon,-1,,,
@@ -877,14 +877,14 @@ Iowa,Mitchell,-1,,,
 Iowa,Monona,-1,,,
 Iowa,Monroe,-1,,,
 Iowa,Montgomery,-1,,,
-Iowa,Muscatine,1,2020-05-01,2.4000000000000004,0.1
+Iowa,Muscatine,1,2020-05-01,2.4000000000000004,1.0
 Iowa,O'Brien,-1,,,
 Iowa,Osceola,-1,,,
 Iowa,Page,-1,,,
 Iowa,Palo Alto,-1,,,
 Iowa,Plymouth,-1,,,
 Iowa,Pocahontas,-1,,,
-Iowa,Polk,1,2020-04-30,2.7,0.2
+Iowa,Polk,1,2020-05-09,4.1000000000000005,0.9
 Iowa,Pottawattamie,-1,,,
 Iowa,Poweshiek,-1,,,
 Iowa,Ringgold,-1,,,
@@ -893,7 +893,7 @@ Iowa,Scott,-1,,,
 Iowa,Shelby,-1,,,
 Iowa,Sioux,-1,,,
 Iowa,Story,-1,,,
-Iowa,Tama,-1,,,
+Iowa,Tama,1,2020-05-17,1.1,0.1
 Iowa,Taylor,-1,,,
 Iowa,Union,-1,,,
 Iowa,Van Buren,-1,,,
@@ -904,7 +904,7 @@ Iowa,Wayne,-1,,,
 Iowa,Webster,-1,,,
 Iowa,Winnebago,-1,,,
 Iowa,Winneshiek,-1,,,
-Iowa,Woodbury,-1,,,
+Iowa,Woodbury,1,2020-05-13,1.7000000000000002,0.5
 Iowa,Worth,-1,,,
 Iowa,Wright,-1,,,
 Iowa,Out of IA,-1,,,
@@ -994,7 +994,7 @@ Kansas,Rush,-1,,,
 Kansas,Russell,-1,,,
 Kansas,Saline,-1,,,
 Kansas,Scott,-1,,,
-Kansas,Sedgwick,0,,,
+Kansas,Sedgwick,1,2020-05-02,1.4000000000000001,1.0
 Kansas,Seward,-1,,,
 Kansas,Shawnee,-1,,,
 Kansas,Sheridan,-1,,,
@@ -1014,7 +1014,7 @@ Kansas,Wilson,-1,,,
 Kansas,Woodson,-1,,,
 Kansas,Wyandotte,1,2020-04-14,4.2,1.0
 Kansas,Out of KS,-1,,,
-Kentucky,Adair,1,2020-04-26,1.2000000000000002,0.6
+Kentucky,Adair,1,2020-04-26,1.2000000000000002,1.0
 Kentucky,Allen,-1,,,
 Kentucky,Anderson,-1,,,
 Kentucky,Ballard,-1,,,
@@ -1032,7 +1032,7 @@ Kentucky,Bullitt,-1,,,
 Kentucky,Butler,-1,,,
 Kentucky,Caldwell,-1,,,
 Kentucky,Calloway,-1,,,
-Kentucky,Campbell,-1,,,
+Kentucky,Campbell,1,2020-04-18,0.8,1.0
 Kentucky,Carlisle,-1,,,
 Kentucky,Carroll,-1,,,
 Kentucky,Carter,-1,,,
@@ -1047,7 +1047,7 @@ Kentucky,Daviess,-1,,,
 Kentucky,Edmonson,-1,,,
 Kentucky,Elliott,-1,,,
 Kentucky,Estill,-1,,,
-Kentucky,Fayette,-1,,,
+Kentucky,Fayette,1,2020-04-04,1.3,1.0
 Kentucky,Fleming,-1,,,
 Kentucky,Floyd,-1,,,
 Kentucky,Franklin,-1,,,
@@ -1055,7 +1055,7 @@ Kentucky,Fulton,-1,,,
 Kentucky,Gallatin,-1,,,
 Kentucky,Garrard,-1,,,
 Kentucky,Grant,-1,,,
-Kentucky,Graves,1,2020-04-24,1.5,0.8
+Kentucky,Graves,1,2020-04-24,1.5,1.0
 Kentucky,Grayson,-1,,,
 Kentucky,Green,-1,,,
 Kentucky,Greenup,-1,,,
@@ -1068,11 +1068,11 @@ Kentucky,Henderson,-1,,,
 Kentucky,Henry,-1,,,
 Kentucky,Hickman,-1,,,
 Kentucky,Hopkins,1,2020-04-22,2.2,1.0
-Kentucky,Jackson,-1,,,
+Kentucky,Jackson,1,2020-05-07,1.2000000000000002,1.0
 Kentucky,Jefferson,1,2020-04-16,6.4,1.0
 Kentucky,Jessamine,-1,,,
 Kentucky,Johnson,-1,,,
-Kentucky,Kenton,1,2020-04-23,1.6,0.9
+Kentucky,Kenton,1,2020-05-07,1.8,1.0
 Kentucky,Knott,-1,,,
 Kentucky,Knox,-1,,,
 Kentucky,Larue,-1,,,
@@ -1136,9 +1136,9 @@ Kentucky,Wolfe,-1,,,
 Kentucky,Woodford,-1,,,
 Kentucky,Out of KY,-1,,,
 Louisiana,Acadia,1,2020-04-12,0.7000000000000001,1.0
-Louisiana,Allen,-1,,,
+Louisiana,Allen,1,2020-04-06,0.6000000000000001,1.0
 Louisiana,Ascension,1,2020-04-10,2.2,1.0
-Louisiana,Assumption,-1,,,
+Louisiana,Assumption,1,2020-05-09,1.2000000000000002,0.9
 Louisiana,Avoyelles,-1,,,
 Louisiana,Beauregard,-1,,,
 Louisiana,Bienville,1,2020-04-16,1.9000000000000001,1.0
@@ -1148,31 +1148,31 @@ Louisiana,Calcasieu,1,2020-04-13,2.5,1.0
 Louisiana,Caldwell,-1,,,
 Louisiana,Cameron,-1,,,
 Louisiana,Catahoula,-1,,,
-Louisiana,Claiborne,-1,,,
+Louisiana,Claiborne,1,2020-05-08,0.6000000000000001,1.0
 Louisiana,Concordia,-1,,,
 Louisiana,De Soto,1,2020-04-08,1.1,1.0
-Louisiana,East Baton Rouge,1,2020-04-24,8.0,0.8
+Louisiana,East Baton Rouge,1,2020-04-24,8.0,1.0
 Louisiana,East Carroll,-1,,,
 Louisiana,East Feliciana,1,2020-04-16,1.5,1.0
 Louisiana,Evangeline,-1,,,
 Louisiana,Franklin,-1,,,
 Louisiana,Grant,-1,,,
-Louisiana,Iberia,1,2020-04-26,1.3,0.6
+Louisiana,Iberia,1,2020-05-15,1.7000000000000002,0.3
 Louisiana,Iberville,1,2020-04-13,1.8,1.0
-Louisiana,Jackson,-1,,,
+Louisiana,Jackson,1,2020-05-14,1.1,0.4
 Louisiana,Jefferson,1,2020-04-16,23.700000000000003,1.0
 Louisiana,Jefferson Davis,-1,,,
 Louisiana,Lafayette,1,2020-04-09,1.6,1.0
-Louisiana,Lafourche,0,,,
+Louisiana,Lafourche,1,2020-05-02,3.2,1.0
 Louisiana,LaSalle,-1,,,
-Louisiana,Lincoln,-1,,,
-Louisiana,Livingston,1,2020-04-15,1.1,1.0
+Louisiana,Lincoln,1,2020-04-30,1.1,1.0
+Louisiana,Livingston,1,2020-05-10,1.5,0.8
 Louisiana,Madison,-1,,,
 Louisiana,Morehouse,-1,,,
-Louisiana,Natchitoches,-1,,,
+Louisiana,Natchitoches,1,2020-05-07,1.1,1.0
 Louisiana,Orleans,1,2020-04-16,17.7,1.0
-Louisiana,Ouachita,0,,,
-Louisiana,Plaquemines,1,2020-04-23,1.3,0.9
+Louisiana,Ouachita,1,2020-05-03,1.8,1.0
+Louisiana,Plaquemines,1,2020-04-23,1.3,1.0
 Louisiana,Pointe Coupee,1,2020-04-22,1.4000000000000001,1.0
 Louisiana,Rapides,1,2020-04-01,0.8,1.0
 Louisiana,Red River,-1,,,
@@ -1183,14 +1183,14 @@ Louisiana,St. Charles,1,2020-04-09,2.2,1.0
 Louisiana,St. Helena,-1,,,
 Louisiana,St. James,1,2020-04-15,1.1,1.0
 Louisiana,St. John the Baptist,1,2020-04-07,3.5,1.0
-Louisiana,St. Landry,1,2020-04-24,3.3000000000000003,0.8
+Louisiana,St. Landry,1,2020-04-24,3.3000000000000003,1.0
 Louisiana,St. Martin,1,2020-04-12,0.9,1.0
 Louisiana,St. Mary,1,2020-04-18,2.3000000000000003,1.0
 Louisiana,St. Tammany,1,2020-04-14,7.2,1.0
 Louisiana,Tangipahoa,1,2020-04-16,2.0,1.0
 Louisiana,Tensas,-1,,,
 Louisiana,Terrebonne,1,2020-04-08,2.1,1.0
-Louisiana,Union,-1,,,
+Louisiana,Union,1,2020-05-17,0.9,0.1
 Louisiana,Vermilion,-1,,,
 Louisiana,Vernon,-1,,,
 Louisiana,Washington,1,2020-04-10,1.5999999999999999,1.0
@@ -1202,7 +1202,7 @@ Louisiana,Winn,-1,,,
 Louisiana,Out of LA,-1,,,
 Maine,Androscoggin,-1,,,
 Maine,Aroostook,-1,,,
-Maine,Cumberland,1,2020-04-24,2.2,0.8
+Maine,Cumberland,1,2020-04-24,2.2,1.0
 Maine,Franklin,-1,,,
 Maine,Hancock,-1,,,
 Maine,Kennebec,-1,,,
@@ -1217,45 +1217,45 @@ Maine,Waldo,1,2020-04-19,1.4000000000000001,1.0
 Maine,Washington,-1,,,
 Maine,York,-1,,,
 Maine,Out of ME,-1,,,
-Maryland,Allegany,-1,,,
-Maryland,Anne Arundel,1,2020-04-30,4.9,0.2
-Maryland,Baltimore,1,2020-04-29,10.4,0.3
-Maryland,Calvert,1,2020-04-23,0.8,0.9
+Maryland,Allegany,1,2020-05-04,1.5,1.0
+Maryland,Anne Arundel,1,2020-04-30,4.9,1.0
+Maryland,Baltimore,1,2020-04-29,10.4,1.0
+Maryland,Calvert,1,2020-05-03,0.9,1.0
 Maryland,Caroline,-1,,,
 Maryland,Carroll,1,2020-04-08,3.2,1.0
-Maryland,Cecil,-1,,,
-Maryland,Charles,1,2020-04-23,4.0,0.9
+Maryland,Cecil,1,2020-05-06,1.4000000000000001,1.0
+Maryland,Charles,1,2020-04-23,4.0,1.0
 Maryland,Dorchester,-1,,,
 Maryland,Frederick,1,2020-04-18,3.7,1.0
 Maryland,Garrett,-1,,,
-Maryland,Harford,1,2020-04-20,1.8,1.0
-Maryland,Howard,1,2020-04-14,1.0,1.0
-Maryland,Kent,-1,,,
-Maryland,Montgomery,1,2020-04-29,18.3,0.3
-Maryland,Prince George's,1,2020-04-30,15.8,0.2
-Maryland,Queen Anne's,-1,,,
-Maryland,St. Mary's,-1,,,
+Maryland,Harford,1,2020-05-08,1.9000000000000001,1.0
+Maryland,Howard,1,2020-05-14,2.9000000000000004,0.4
+Maryland,Kent,1,2020-05-11,1.5,0.7
+Maryland,Montgomery,1,2020-04-29,18.3,1.0
+Maryland,Prince George's,1,2020-04-30,15.8,1.0
+Maryland,Queen Anne's,1,2020-05-02,1.1,1.0
+Maryland,St. Mary's,1,2020-04-24,0.9,1.0
 Maryland,Somerset,-1,,,
 Maryland,Talbot,-1,,,
 Maryland,Washington,-1,,,
-Maryland,Wicomico,0,,,
+Maryland,Wicomico,1,2020-05-08,1.2000000000000002,1.0
 Maryland,Worcester,-1,,,
-Maryland,Baltimore City,0,,,
+Maryland,Baltimore City,1,2020-05-02,8.6,1.0
 Maryland,Out of MD,-1,,,
-Massachusetts,Barnstable,1,2020-04-27,4.9,0.5
+Massachusetts,Barnstable,1,2020-04-27,4.9,1.0
 Massachusetts,Berkshire,1,2020-04-07,2.5,1.0
-Massachusetts,Bristol,1,2020-04-28,12.5,0.4
+Massachusetts,Bristol,1,2020-05-09,12.9,0.9
 Massachusetts,Dukes,-1,,,
-Massachusetts,Essex,1,2020-04-27,31.900000000000002,0.5
+Massachusetts,Essex,1,2020-04-27,31.900000000000002,1.0
 Massachusetts,Franklin,1,2020-04-09,2.6,1.0
-Massachusetts,Hampden,1,2020-04-27,25.700000000000003,0.5
-Massachusetts,Hampshire,1,2020-04-27,4.2,0.5
-Massachusetts,Middlesex,1,2020-04-27,78.60000000000001,0.5
+Massachusetts,Hampden,1,2020-04-27,25.700000000000003,1.0
+Massachusetts,Hampshire,1,2020-04-27,4.2,1.0
+Massachusetts,Middlesex,1,2020-04-27,78.60000000000001,1.0
 Massachusetts,Nantucket,-1,,,
-Massachusetts,Norfolk,1,2020-04-27,38.800000000000004,0.5
-Massachusetts,Plymouth,1,2020-04-27,26.900000000000002,0.5
-Massachusetts,Suffolk,1,2020-04-27,43.2,0.5
-Massachusetts,Worcester,1,2020-04-28,22.400000000000002,0.4
+Massachusetts,Norfolk,1,2020-04-27,38.800000000000004,1.0
+Massachusetts,Plymouth,1,2020-04-27,26.900000000000002,1.0
+Massachusetts,Suffolk,1,2020-04-27,43.2,1.0
+Massachusetts,Worcester,1,2020-05-16,23.900000000000002,0.2
 Massachusetts,Dukes and Nantucket,-1,,,
 Massachusetts,Out of MA,-1,,,
 Michigan,Alcona,-1,,,
@@ -1266,11 +1266,11 @@ Michigan,Antrim,-1,,,
 Michigan,Arenac,-1,,,
 Michigan,Baraga,-1,,,
 Michigan,Barry,-1,,,
-Michigan,Bay,-1,,,
+Michigan,Bay,1,2020-05-16,1.4000000000000001,0.2
 Michigan,Benzie,-1,,,
-Michigan,Berrien,1,2020-04-17,1.0,1.0
+Michigan,Berrien,1,2020-05-04,1.3,1.0
 Michigan,Branch,-1,,,
-Michigan,Calhoun,1,2020-04-25,1.5,0.7
+Michigan,Calhoun,1,2020-04-25,1.5,1.0
 Michigan,Cass,-1,,,
 Michigan,Charlevoix,-1,,,
 Michigan,Cheboygan,-1,,,
@@ -1287,16 +1287,16 @@ Michigan,Gladwin,-1,,,
 Michigan,Gogebic,-1,,,
 Michigan,Grand Traverse,-1,,,
 Michigan,Gratiot,-1,,,
-Michigan,Hillsdale,1,2020-04-27,1.0,0.5
+Michigan,Hillsdale,1,2020-05-05,1.1,1.0
 Michigan,Houghton,-1,,,
 Michigan,Huron,-1,,,
-Michigan,Ingham,1,2020-04-24,0.9,0.8
+Michigan,Ingham,1,2020-05-16,1.0,0.2
 Michigan,Ionia,-1,,,
 Michigan,Iosco,-1,,,
 Michigan,Iron,-1,,,
 Michigan,Isabella,-1,,,
-Michigan,Jackson,0,,,
-Michigan,Kalamazoo,0,,,
+Michigan,Jackson,1,2020-05-02,1.5,1.0
+Michigan,Kalamazoo,1,2020-05-12,2.7,0.6
 Michigan,Kalkaska,-1,,,
 Michigan,Kent,1,2020-04-19,2.5,1.0
 Michigan,Keweenaw,-1,,,
@@ -1304,12 +1304,12 @@ Michigan,Lake,-1,,,
 Michigan,Lapeer,1,2020-04-18,2.1,1.0
 Michigan,Leelanau,-1,,,
 Michigan,Lenawee,-1,,,
-Michigan,Livingston,1,2020-04-28,1.4000000000000001,0.4
+Michigan,Livingston,1,2020-04-28,1.4000000000000001,1.0
 Michigan,Luce,-1,,,
 Michigan,Mackinac,-1,,,
 Michigan,Macomb,1,2020-04-16,36.4,1.0
 Michigan,Manistee,-1,,,
-Michigan,Marquette,-1,,,
+Michigan,Marquette,1,2020-04-14,0.7999999999999999,1.0
 Michigan,Mason,-1,,,
 Michigan,Mecosta,-1,,,
 Michigan,Menominee,-1,,,
@@ -1320,32 +1320,32 @@ Michigan,Montcalm,-1,,,
 Michigan,Montmorency,-1,,,
 Michigan,Muskegon,1,2020-04-22,1.6,1.0
 Michigan,Newaygo,-1,,,
-Michigan,Oakland,1,2020-04-24,27.3,0.8
+Michigan,Oakland,1,2020-04-24,27.3,1.0
 Michigan,Oceana,-1,,,
 Michigan,Ogemaw,-1,,,
 Michigan,Ontonagon,-1,,,
 Michigan,Osceola,-1,,,
 Michigan,Oscoda,-1,,,
-Michigan,Otsego,-1,,,
-Michigan,Ottawa,1,2020-04-20,1.0,1.0
+Michigan,Otsego,1,2020-04-19,0.9,1.0
+Michigan,Ottawa,1,2020-05-04,1.9000000000000001,1.0
 Michigan,Presque Isle,-1,,,
 Michigan,Roscommon,-1,,,
-Michigan,Saginaw,1,2020-04-30,4.1000000000000005,0.2
+Michigan,Saginaw,1,2020-04-30,4.1000000000000005,1.0
 Michigan,St. Clair,1,2020-04-22,2.0,1.0
 Michigan,St. Joseph,-1,,,
 Michigan,Sanilac,-1,,,
 Michigan,Schoolcraft,-1,,,
-Michigan,Shiawassee,0,,,
+Michigan,Shiawassee,1,2020-05-09,1.3,0.9
 Michigan,Tuscola,1,2020-04-12,1.3,1.0
 Michigan,Van Buren,-1,,,
-Michigan,Washtenaw,1,2020-04-24,3.6,0.8
-Michigan,Wayne,1,2020-04-24,83.80000000000001,0.8
+Michigan,Washtenaw,1,2020-04-24,3.6,1.0
+Michigan,Wayne,1,2020-04-24,83.80000000000001,1.0
 Michigan,Wexford,-1,,,
 Michigan,Out of MI,-1,,,
-Michigan,Michigan Department of Corrections (MDOC),1,2020-04-23,2.8000000000000003,0.9
+Michigan,Michigan Department of Corrections (MDOC),1,2020-04-23,2.8000000000000003,1.0
 Michigan,Federal Correctional Institution (FCI),-1,,,
 Minnesota,Aitkin,-1,,,
-Minnesota,Anoka,0,,,
+Minnesota,Anoka,1,2020-05-07,2.7,1.0
 Minnesota,Becker,-1,,,
 Minnesota,Beltrami,-1,,,
 Minnesota,Benton,-1,,,
@@ -1357,12 +1357,12 @@ Minnesota,Carver,-1,,,
 Minnesota,Cass,-1,,,
 Minnesota,Chippewa,-1,,,
 Minnesota,Chisago,-1,,,
-Minnesota,Clay,1,2020-04-26,1.5,0.6
+Minnesota,Clay,1,2020-04-26,1.5,1.0
 Minnesota,Clearwater,-1,,,
 Minnesota,Cook,-1,,,
 Minnesota,Cottonwood,-1,,,
 Minnesota,Crow Wing,-1,,,
-Minnesota,Dakota,1,2020-05-01,0.9,0.1
+Minnesota,Dakota,0,,,
 Minnesota,Dodge,-1,,,
 Minnesota,Douglas,-1,,,
 Minnesota,Faribault,-1,,,
@@ -1370,7 +1370,7 @@ Minnesota,Fillmore,-1,,,
 Minnesota,Freeborn,-1,,,
 Minnesota,Goodhue,-1,,,
 Minnesota,Grant,-1,,,
-Minnesota,Hennepin,1,2020-04-27,16.900000000000002,0.5
+Minnesota,Hennepin,1,2020-05-08,19.5,1.0
 Minnesota,Houston,-1,,,
 Minnesota,Hubbard,-1,,,
 Minnesota,Isanti,-1,,,
@@ -1405,7 +1405,7 @@ Minnesota,Pine,-1,,,
 Minnesota,Pipestone,-1,,,
 Minnesota,Polk,-1,,,
 Minnesota,Pope,-1,,,
-Minnesota,Ramsey,1,2020-04-25,2.5,0.7
+Minnesota,Ramsey,1,2020-05-17,4.3,0.1
 Minnesota,Red Lake,-1,,,
 Minnesota,Redwood,-1,,,
 Minnesota,Renville,-1,,,
@@ -1416,7 +1416,7 @@ Minnesota,St. Louis,1,2020-04-20,1.0,1.0
 Minnesota,Scott,-1,,,
 Minnesota,Sherburne,-1,,,
 Minnesota,Sibley,-1,,,
-Minnesota,Stearns,-1,,,
+Minnesota,Stearns,1,2020-05-16,1.0,0.2
 Minnesota,Steele,-1,,,
 Minnesota,Stevens,-1,,,
 Minnesota,Swift,-1,,,
@@ -1425,43 +1425,43 @@ Minnesota,Traverse,-1,,,
 Minnesota,Wabasha,-1,,,
 Minnesota,Wadena,-1,,,
 Minnesota,Waseca,-1,,,
-Minnesota,Washington,1,2020-04-24,0.8,0.8
+Minnesota,Washington,1,2020-05-11,0.9,0.7
 Minnesota,Watonwan,-1,,,
 Minnesota,Wilkin,-1,,,
 Minnesota,Winona,1,2020-04-19,1.0,1.0
 Minnesota,Wright,-1,,,
 Minnesota,Yellow Medicine,-1,,,
 Minnesota,Out of MN,-1,,,
-Mississippi,Adams,-1,,,
+Mississippi,Adams,1,2020-04-18,1.2000000000000002,1.0
 Mississippi,Alcorn,-1,,,
 Mississippi,Amite,-1,,,
 Mississippi,Attala,-1,,,
 Mississippi,Benton,-1,,,
-Mississippi,Bolivar,-1,,,
+Mississippi,Bolivar,1,2020-04-16,0.6000000000000001,1.0
 Mississippi,Calhoun,-1,,,
 Mississippi,Carroll,-1,,,
-Mississippi,Chickasaw,-1,,,
+Mississippi,Chickasaw,1,2020-04-29,0.7000000000000001,1.0
 Mississippi,Choctaw,-1,,,
 Mississippi,Claiborne,-1,,,
-Mississippi,Clarke,-1,,,
+Mississippi,Clarke,1,2020-05-06,0.9,1.0
 Mississippi,Clay,-1,,,
 Mississippi,Coahoma,-1,,,
 Mississippi,Copiah,-1,,,
 Mississippi,Covington,-1,,,
 Mississippi,DeSoto,-1,,,
-Mississippi,Forrest,1,2020-04-30,1.2000000000000002,0.2
+Mississippi,Forrest,1,2020-05-09,1.7000000000000002,0.9
 Mississippi,Franklin,-1,,,
 Mississippi,George,-1,,,
 Mississippi,Greene,-1,,,
 Mississippi,Grenada,-1,,,
-Mississippi,Hancock,-1,,,
+Mississippi,Hancock,1,2020-05-09,1.4000000000000001,0.9
 Mississippi,Harrison,-1,,,
-Mississippi,Hinds,-1,,,
-Mississippi,Holmes,-1,,,
+Mississippi,Hinds,1,2020-05-17,1.4000000000000001,0.1
+Mississippi,Holmes,1,2020-05-09,2.1,0.9
 Mississippi,Humphreys,-1,,,
 Mississippi,Issaquena,-1,,,
 Mississippi,Itawamba,-1,,,
-Mississippi,Jackson,-1,,,
+Mississippi,Jackson,1,2020-04-07,1.2000000000000002,1.0
 Mississippi,Jasper,-1,,,
 Mississippi,Jefferson,-1,,,
 Mississippi,Jefferson Davis,-1,,,
@@ -1469,26 +1469,26 @@ Mississippi,Jones,-1,,,
 Mississippi,Kemper,-1,,,
 Mississippi,Lafayette,-1,,,
 Mississippi,Lamar,-1,,,
-Mississippi,Lauderdale,0,,,
+Mississippi,Lauderdale,1,2020-05-07,4.1000000000000005,1.0
 Mississippi,Lawrence,-1,,,
 Mississippi,Leake,-1,,,
 Mississippi,Lee,-1,,,
 Mississippi,Leflore,1,2020-04-22,1.7000000000000002,1.0
-Mississippi,Lincoln,1,2020-04-12,0.7000000000000001,1.0
+Mississippi,Lincoln,1,2020-05-16,1.0,0.2
 Mississippi,Lowndes,-1,,,
-Mississippi,Madison,-1,,,
+Mississippi,Madison,1,2020-05-15,1.2000000000000002,0.3
 Mississippi,Marion,-1,,,
 Mississippi,Marshall,-1,,,
-Mississippi,Monroe,1,2020-05-01,1.6,0.1
+Mississippi,Monroe,1,2020-05-01,1.6,1.0
 Mississippi,Montgomery,-1,,,
-Mississippi,Neshoba,-1,,,
+Mississippi,Neshoba,1,2020-05-07,2.1,1.0
 Mississippi,Newton,-1,,,
 Mississippi,Noxubee,-1,,,
 Mississippi,Oktibbeha,-1,,,
 Mississippi,Panola,-1,,,
-Mississippi,Pearl River,1,2020-05-01,1.6,0.1
+Mississippi,Pearl River,1,2020-05-01,1.6,1.0
 Mississippi,Perry,-1,,,
-Mississippi,Pike,-1,,,
+Mississippi,Pike,1,2020-04-26,0.6000000000000001,1.0
 Mississippi,Pontotoc,-1,,,
 Mississippi,Prentiss,-1,,,
 Mississippi,Quitman,-1,,,
@@ -1550,7 +1550,7 @@ Missouri,DeKalb,-1,,,
 Missouri,Dent,-1,,,
 Missouri,Douglas,-1,,,
 Missouri,Dunklin,-1,,,
-Missouri,Franklin,1,2020-04-30,1.2000000000000002,0.2
+Missouri,Franklin,1,2020-04-30,1.2000000000000002,1.0
 Missouri,Gasconade,-1,,,
 Missouri,Gentry,-1,,,
 Missouri,Greene,-1,,,
@@ -1564,14 +1564,14 @@ Missouri,Howell,-1,,,
 Missouri,Iron,-1,,,
 Missouri,Jackson,1,2020-04-17,0.9,1.0
 Missouri,Jasper,-1,,,
-Missouri,Jefferson,0,,,
+Missouri,Jefferson,1,2020-05-02,1.5999999999999999,1.0
 Missouri,Johnson,-1,,,
 Missouri,Knox,-1,,,
 Missouri,Laclede,-1,,,
 Missouri,Lafayette,-1,,,
 Missouri,Lawrence,-1,,,
 Missouri,Lewis,-1,,,
-Missouri,Lincoln,1,2020-04-27,8.0,0.5
+Missouri,Lincoln,1,2020-04-27,8.0,1.0
 Missouri,Linn,-1,,,
 Missouri,Livingston,-1,,,
 Missouri,McDonald,-1,,,
@@ -1606,11 +1606,11 @@ Missouri,Randolph,-1,,,
 Missouri,Ray,-1,,,
 Missouri,Reynolds,-1,,,
 Missouri,Ripley,-1,,,
-Missouri,St. Charles,0,,,
+Missouri,St. Charles,1,2020-05-02,2.1,1.0
 Missouri,St. Clair,-1,,,
 Missouri,Ste. Genevieve,-1,,,
 Missouri,St. Francois,-1,,,
-Missouri,St. Louis,1,2020-04-25,9.600000000000001,0.7
+Missouri,St. Louis,1,2020-05-09,17.400000000000002,0.9
 Missouri,Saline,-1,,,
 Missouri,Schuyler,-1,,,
 Missouri,Scotland,-1,,,
@@ -1629,7 +1629,7 @@ Missouri,Wayne,-1,,,
 Missouri,Webster,-1,,,
 Missouri,Worth,-1,,,
 Missouri,Wright,-1,,,
-Missouri,St. Louis City,1,2020-04-23,4.2,0.9
+Missouri,St. Louis City,1,2020-04-23,4.2,1.0
 Missouri,Kansas City,1,2020-04-10,1.8,1.0
 Missouri,Out of MO,-1,,,
 Montana,Beaverhead,-1,,,
@@ -1716,7 +1716,7 @@ Nebraska,Dawson,-1,,,
 Nebraska,Deuel,-1,,,
 Nebraska,Dixon,-1,,,
 Nebraska,Dodge,-1,,,
-Nebraska,Douglas,1,2020-05-01,1.2000000000000002,0.1
+Nebraska,Douglas,1,2020-05-01,1.2000000000000002,1.0
 Nebraska,Dundy,-1,,,
 Nebraska,Fillmore,-1,,,
 Nebraska,Franklin,-1,,,
@@ -1728,7 +1728,7 @@ Nebraska,Garfield,-1,,,
 Nebraska,Gosper,-1,,,
 Nebraska,Grant,-1,,,
 Nebraska,Greeley,-1,,,
-Nebraska,Hall,1,2020-05-01,4.800000000000001,0.1
+Nebraska,Hall,1,2020-05-01,4.800000000000001,1.0
 Nebraska,Hamilton,-1,,,
 Nebraska,Harlan,-1,,,
 Nebraska,Hayes,-1,,,
@@ -1797,7 +1797,7 @@ Nevada,Mineral,-1,,,
 Nevada,Nye,-1,,,
 Nevada,Pershing,-1,,,
 Nevada,Storey,-1,,,
-Nevada,Washoe,1,2020-04-26,2.3000000000000003,0.6
+Nevada,Washoe,1,2020-04-26,2.3000000000000003,1.0
 Nevada,White Pine,-1,,,
 Nevada,Carson City,-1,,,
 Nevada,Out of NV,-1,,,
@@ -1806,35 +1806,35 @@ New Hampshire,Carroll,-1,,,
 New Hampshire,Cheshire,-1,,,
 New Hampshire,Coos,-1,,,
 New Hampshire,Grafton,-1,,,
-New Hampshire,Hillsborough,1,2020-05-01,8.700000000000001,0.1
-New Hampshire,Merrimack,-1,,,
-New Hampshire,Rockingham,1,2020-05-01,4.5,0.1
-New Hampshire,Strafford,-1,,,
+New Hampshire,Hillsborough,1,2020-05-01,8.700000000000001,1.0
+New Hampshire,Merrimack,1,2020-05-15,1.2000000000000002,0.3
+New Hampshire,Rockingham,1,2020-05-15,7.5,0.3
+New Hampshire,Strafford,1,2020-05-15,0.9,0.3
 New Hampshire,Sullivan,-1,,,
 New Hampshire,Out of NH,-1,,,
-New Jersey,Atlantic,1,2020-05-01,3.6,0.1
-New Jersey,Bergen,1,2020-05-01,58.800000000000004,0.1
-New Jersey,Burlington,1,2020-05-01,11.600000000000001,0.1
-New Jersey,Camden,0,,,
-New Jersey,Cape May,1,2020-04-13,1.6,1.0
-New Jersey,Cumberland,0,,,
-New Jersey,Essex,1,2020-04-24,62.900000000000006,0.8
-New Jersey,Gloucester,1,2020-05-01,3.8000000000000003,0.1
+New Jersey,Atlantic,1,2020-05-16,8.1,0.2
+New Jersey,Bergen,1,2020-05-01,58.800000000000004,1.0
+New Jersey,Burlington,1,2020-05-01,11.600000000000001,1.0
+New Jersey,Camden,1,2020-05-10,9.600000000000001,0.8
+New Jersey,Cape May,1,2020-05-15,2.0,0.3
+New Jersey,Cumberland,1,2020-05-11,3.8000000000000003,0.7
+New Jersey,Essex,1,2020-04-24,62.900000000000006,1.0
+New Jersey,Gloucester,1,2020-05-17,6.300000000000001,0.1
 New Jersey,Hudson,1,2020-04-20,68.60000000000001,1.0
-New Jersey,Hunterdon,0,,,
-New Jersey,Mercer,1,2020-04-25,15.5,0.7
-New Jersey,Middlesex,1,2020-04-30,33.4,0.2
+New Jersey,Hunterdon,1,2020-05-03,3.2,1.0
+New Jersey,Mercer,1,2020-05-08,16.5,1.0
+New Jersey,Middlesex,1,2020-04-30,33.4,1.0
 New Jersey,Monmouth,1,2020-04-17,20.3,1.0
-New Jersey,Morris,1,2020-04-24,19.700000000000003,0.8
-New Jersey,Ocean,1,2020-05-01,23.5,0.1
-New Jersey,Passaic,1,2020-05-01,42.0,0.1
-New Jersey,Salem,1,2020-04-30,1.0,0.2
+New Jersey,Morris,1,2020-04-24,19.700000000000003,1.0
+New Jersey,Ocean,1,2020-05-01,23.5,1.0
+New Jersey,Passaic,1,2020-05-01,42.0,1.0
+New Jersey,Salem,1,2020-05-07,1.3,1.0
 New Jersey,Somerset,1,2020-04-18,14.4,1.0
-New Jersey,Sussex,1,2020-04-25,6.2,0.7
-New Jersey,Union,1,2020-04-24,43.800000000000004,0.8
-New Jersey,Warren,1,2020-04-30,4.800000000000001,0.2
+New Jersey,Sussex,1,2020-04-25,6.2,1.0
+New Jersey,Union,1,2020-04-24,43.800000000000004,1.0
+New Jersey,Warren,1,2020-04-30,4.800000000000001,1.0
 New Jersey,Out of NJ,-1,,,
-New Mexico,Bernalillo,1,2020-04-24,2.5,0.8
+New Mexico,Bernalillo,1,2020-04-24,2.5,1.0
 New Mexico,Catron,-1,,,
 New Mexico,Chaves,-1,,,
 New Mexico,Cibola,-1,,,
@@ -1851,14 +1851,14 @@ New Mexico,Lea,-1,,,
 New Mexico,Lincoln,-1,,,
 New Mexico,Los Alamos,-1,,,
 New Mexico,Luna,-1,,,
-New Mexico,McKinley,1,2020-05-01,2.0,0.1
+New Mexico,McKinley,1,2020-05-11,4.800000000000001,0.7
 New Mexico,Mora,-1,,,
 New Mexico,Otero,-1,,,
 New Mexico,Quay,-1,,,
 New Mexico,Rio Arriba,-1,,,
 New Mexico,Roosevelt,-1,,,
-New Mexico,Sandoval,0,,,
-New Mexico,San Juan,0,,,
+New Mexico,Sandoval,1,2020-05-03,1.6,1.0
+New Mexico,San Juan,1,2020-05-03,4.4,1.0
 New Mexico,San Miguel,-1,,,
 New Mexico,Santa Fe,-1,,,
 New Mexico,Sierra,-1,,,
@@ -1868,26 +1868,26 @@ New Mexico,Torrance,-1,,,
 New Mexico,Union,-1,,,
 New Mexico,Valencia,-1,,,
 New Mexico,Out of NM,-1,,,
-New York,Albany,1,2020-04-24,2.5,0.8
+New York,Albany,1,2020-05-03,2.9000000000000004,1.0
 New York,Allegany,-1,,,
 New York,Bronx,-1,,,
-New York,Broome,1,2020-04-24,1.8,0.8
+New York,Broome,1,2020-04-24,1.8,1.0
 New York,Cattaraugus,-1,,,
 New York,Cayuga,-1,,,
 New York,Chautauqua,-1,,,
 New York,Chemung,-1,,,
 New York,Chenango,-1,,,
 New York,Clinton,-1,,,
-New York,Columbia,1,2020-04-13,1.0,1.0
+New York,Columbia,1,2020-05-12,1.6,0.6
 New York,Cortland,-1,,,
 New York,Delaware,-1,,,
-New York,Dutchess,1,2020-04-19,2.7,1.0
-New York,Erie,1,2020-05-01,17.7,0.1
+New York,Dutchess,1,2020-05-10,17.400000000000002,0.8
+New York,Erie,1,2020-05-01,17.7,1.0
 New York,Essex,-1,,,
 New York,Franklin,-1,,,
 New York,Fulton,-1,,,
 New York,Genesee,-1,,,
-New York,Greene,-1,,,
+New York,Greene,1,2020-05-05,1.5,1.0
 New York,Hamilton,-1,,,
 New York,Herkimer,-1,,,
 New York,Jefferson,-1,,,
@@ -1895,43 +1895,43 @@ New York,Kings,-1,,,
 New York,Lewis,-1,,,
 New York,Livingston,-1,,,
 New York,Madison,-1,,,
-New York,Monroe,1,2020-04-24,6.0,0.8
+New York,Monroe,1,2020-04-24,6.0,1.0
 New York,Montgomery,-1,,,
 New York,Nassau,1,2020-04-09,128.0,1.0
 New York,New York,1,2020-04-08,772.2,1.0
-New York,Niagara,1,2020-04-22,2.1,1.0
-New York,Oneida,1,2020-04-26,1.2000000000000002,0.6
-New York,Onondaga,1,2020-05-01,2.0,0.1
+New York,Niagara,1,2020-05-10,4.2,0.8
+New York,Oneida,1,2020-05-17,2.4000000000000004,0.1
+New York,Onondaga,1,2020-05-09,8.8,0.9
 New York,Ontario,-1,,,
 New York,Orange,1,2020-04-08,17.400000000000002,1.0
-New York,Orleans,1,2020-04-25,1.8,0.7
+New York,Orleans,1,2020-04-25,1.8,1.0
 New York,Oswego,-1,,,
 New York,Otsego,-1,,,
-New York,Putnam,-1,,,
+New York,Putnam,1,2020-05-17,15.0,0.1
 New York,Queens,-1,,,
-New York,Rensselaer,1,2020-04-24,1.4000000000000001,0.8
+New York,Rensselaer,1,2020-05-05,3.6,1.0
 New York,Richmond,-1,,,
 New York,Rockland,1,2020-04-16,29.5,1.0
 New York,St. Lawrence,-1,,,
-New York,Saratoga,1,2020-04-25,1.2000000000000002,0.7
-New York,Schenectady,1,2020-04-28,2.1,0.4
+New York,Saratoga,1,2020-04-25,1.2000000000000002,1.0
+New York,Schenectady,1,2020-04-28,2.1,1.0
 New York,Schoharie,-1,,,
 New York,Schuyler,-1,,,
 New York,Seneca,-1,,,
 New York,Steuben,1,2020-04-15,2.6,1.0
-New York,Suffolk,1,2020-04-22,66.10000000000001,1.0
-New York,Sullivan,1,2020-04-29,1.4000000000000001,0.3
-New York,Tioga,1,2020-04-30,1.4000000000000001,0.2
+New York,Suffolk,1,2020-05-08,84.10000000000001,1.0
+New York,Sullivan,1,2020-04-29,1.4000000000000001,1.0
+New York,Tioga,1,2020-05-13,1.8,0.5
 New York,Tompkins,-1,,,
-New York,Ulster,0,,,
+New York,Ulster,1,2020-05-02,3.3000000000000003,1.0
 New York,Warren,-1,,,
-New York,Washington,-1,,,
+New York,Washington,1,2020-05-13,1.5,0.5
 New York,Wayne,-1,,,
 New York,Westchester,1,2020-04-09,65.60000000000001,1.0
 New York,Wyoming,-1,,,
 New York,Yates,-1,,,
 New York,Out of NY,-1,,,
-North Carolina,Alamance,-1,,,
+North Carolina,Alamance,1,2020-05-12,1.3,0.6
 North Carolina,Alexander,-1,,,
 North Carolina,Alleghany,-1,,,
 North Carolina,Anson,-1,,,
@@ -1942,40 +1942,40 @@ North Carolina,Bertie,-1,,,
 North Carolina,Bladen,-1,,,
 North Carolina,Brunswick,-1,,,
 North Carolina,Buncombe,-1,,,
-North Carolina,Burke,-1,,,
-North Carolina,Cabarrus,1,2020-04-21,0.9,1.0
+North Carolina,Burke,1,2020-05-15,0.9,0.3
+North Carolina,Cabarrus,1,2020-05-07,1.3,1.0
 North Carolina,Caldwell,-1,,,
 North Carolina,Camden,-1,,,
 North Carolina,Carteret,-1,,,
 North Carolina,Caswell,-1,,,
 North Carolina,Catawba,-1,,,
-North Carolina,Chatham,-1,,,
+North Carolina,Chatham,1,2020-05-16,3.9000000000000004,0.2
 North Carolina,Cherokee,-1,,,
 North Carolina,Chowan,-1,,,
 North Carolina,Clay,-1,,,
 North Carolina,Cleveland,-1,,,
-North Carolina,Columbus,1,2020-04-28,0.9,0.4
+North Carolina,Columbus,1,2020-05-11,1.1,0.7
 North Carolina,Craven,-1,,,
-North Carolina,Cumberland,-1,,,
+North Carolina,Cumberland,1,2020-04-18,1.2000000000000002,1.0
 North Carolina,Currituck,-1,,,
 North Carolina,Dare,-1,,,
-North Carolina,Davidson,-1,,,
+North Carolina,Davidson,1,2020-04-30,1.2000000000000002,1.0
 North Carolina,Davie,-1,,,
-North Carolina,Duplin,-1,,,
-North Carolina,Durham,1,2020-04-26,2.0,0.6
+North Carolina,Duplin,1,2020-05-16,1.9000000000000001,0.2
+North Carolina,Durham,1,2020-04-26,2.0,1.0
 North Carolina,Edgecombe,-1,,,
 North Carolina,Forsyth,-1,,,
-North Carolina,Franklin,1,2020-04-30,2.4000000000000004,0.2
+North Carolina,Franklin,1,2020-04-30,2.4000000000000004,1.0
 North Carolina,Gaston,-1,,,
 North Carolina,Gates,-1,,,
 North Carolina,Graham,-1,,,
 North Carolina,Granville,-1,,,
 North Carolina,Greene,-1,,,
-North Carolina,Guilford,1,2020-05-01,2.3000000000000003,0.1
+North Carolina,Guilford,1,2020-05-01,2.3000000000000003,1.0
 North Carolina,Halifax,-1,,,
-North Carolina,Harnett,-1,,,
+North Carolina,Harnett,1,2020-05-08,1.1,1.0
 North Carolina,Haywood,-1,,,
-North Carolina,Henderson,1,2020-05-01,1.8,0.1
+North Carolina,Henderson,1,2020-05-16,2.6,0.2
 North Carolina,Hertford,-1,,,
 North Carolina,Hoke,-1,,,
 North Carolina,Hyde,-1,,,
@@ -1993,12 +1993,12 @@ North Carolina,Martin,-1,,,
 North Carolina,Mecklenburg,1,2020-04-21,3.6,1.0
 North Carolina,Mitchell,-1,,,
 North Carolina,Montgomery,-1,,,
-North Carolina,Moore,-1,,,
+North Carolina,Moore,1,2020-05-09,0.9,0.9
 North Carolina,Nash,-1,,,
 North Carolina,New Hanover,-1,,,
-North Carolina,Northampton,-1,,,
+North Carolina,Northampton,1,2020-05-09,0.6000000000000001,0.9
 North Carolina,Onslow,-1,,,
-North Carolina,Orange,1,2020-04-25,1.5000000000000002,0.7
+North Carolina,Orange,1,2020-05-09,4.2,0.9
 North Carolina,Pamlico,-1,,,
 North Carolina,Pasquotank,-1,,,
 North Carolina,Pender,-1,,,
@@ -2008,7 +2008,7 @@ North Carolina,Pitt,-1,,,
 North Carolina,Polk,-1,,,
 North Carolina,Randolph,-1,,,
 North Carolina,Richmond,-1,,,
-North Carolina,Robeson,-1,,,
+North Carolina,Robeson,1,2020-05-15,1.5,0.3
 North Carolina,Rockingham,-1,,,
 North Carolina,Rowan,1,2020-04-17,2.3000000000000003,1.0
 North Carolina,Rutherford,-1,,,
@@ -2021,7 +2021,7 @@ North Carolina,Swain,-1,,,
 North Carolina,Transylvania,-1,,,
 North Carolina,Tyrrell,-1,,,
 North Carolina,Union,1,2020-04-21,0.9,1.0
-North Carolina,Vance,-1,,,
+North Carolina,Vance,1,2020-05-14,1.2000000000000002,0.4
 North Carolina,Wake,1,2020-04-21,1.6,1.0
 North Carolina,Warren,-1,,,
 North Carolina,Washington,-1,,,
@@ -2040,7 +2040,7 @@ North Dakota,Bottineau,-1,,,
 North Dakota,Bowman,-1,,,
 North Dakota,Burke,-1,,,
 North Dakota,Burleigh,-1,,,
-North Dakota,Cass,1,2020-04-23,1.7000000000000002,0.9
+North Dakota,Cass,1,2020-04-23,1.7000000000000002,1.0
 North Dakota,Cavalier,-1,,,
 North Dakota,Dickey,-1,,,
 North Dakota,Divide,-1,,,
@@ -2089,34 +2089,34 @@ North Dakota,Out of ND,-1,,,
 Ohio,Adams,-1,,,
 Ohio,Allen,1,2020-04-18,1.9000000000000001,1.0
 Ohio,Ashland,-1,,,
-Ohio,Ashtabula,1,2020-04-30,1.4000000000000001,0.2
+Ohio,Ashtabula,1,2020-05-14,2.3000000000000003,0.4
 Ohio,Athens,-1,,,
 Ohio,Auglaize,-1,,,
 Ohio,Belmont,-1,,,
 Ohio,Brown,-1,,,
-Ohio,Butler,-1,,,
+Ohio,Butler,1,2020-05-08,1.4000000000000001,1.0
 Ohio,Carroll,-1,,,
 Ohio,Champaign,-1,,,
 Ohio,Clark,-1,,,
 Ohio,Clermont,-1,,,
 Ohio,Clinton,-1,,,
-Ohio,Columbiana,1,2020-04-29,1.3,0.3
+Ohio,Columbiana,1,2020-05-07,2.0,1.0
 Ohio,Coshocton,-1,,,
 Ohio,Crawford,-1,,,
-Ohio,Cuyahoga,1,2020-04-24,9.1,0.8
+Ohio,Cuyahoga,1,2020-04-24,9.1,1.0
 Ohio,Darke,1,2020-04-07,1.4000000000000001,1.0
 Ohio,Defiance,-1,,,
 Ohio,Delaware,-1,,,
 Ohio,Erie,-1,,,
 Ohio,Fairfield,-1,,,
 Ohio,Fayette,-1,,,
-Ohio,Franklin,1,2020-04-30,5.4,0.2
+Ohio,Franklin,1,2020-05-13,8.700000000000001,0.5
 Ohio,Fulton,-1,,,
 Ohio,Gallia,-1,,,
 Ohio,Geauga,1,2020-04-21,1.5,1.0
 Ohio,Greene,-1,,,
 Ohio,Guernsey,-1,,,
-Ohio,Hamilton,1,2020-05-01,5.1000000000000005,0.1
+Ohio,Hamilton,1,2020-05-01,5.1000000000000005,1.0
 Ohio,Hancock,-1,,,
 Ohio,Hardin,-1,,,
 Ohio,Harrison,-1,,,
@@ -2132,11 +2132,11 @@ Ohio,Lake,-1,,,
 Ohio,Lawrence,-1,,,
 Ohio,Licking,-1,,,
 Ohio,Logan,-1,,,
-Ohio,Lorain,0,,,
-Ohio,Lucas,1,2020-04-30,16.900000000000002,0.2
+Ohio,Lorain,1,2020-05-02,3.6,1.0
+Ohio,Lucas,1,2020-04-30,16.900000000000002,1.0
 Ohio,Madison,-1,,,
-Ohio,Mahoning,1,2020-05-01,4.7,0.1
-Ohio,Marion,-1,,,
+Ohio,Mahoning,1,2020-05-08,9.5,1.0
+Ohio,Marion,1,2020-05-07,2.7,1.0
 Ohio,Medina,1,2020-04-11,0.9,1.0
 Ohio,Meigs,-1,,,
 Ohio,Mercer,-1,,,
@@ -2150,29 +2150,29 @@ Ohio,Noble,-1,,,
 Ohio,Ottawa,-1,,,
 Ohio,Paulding,-1,,,
 Ohio,Perry,-1,,,
-Ohio,Pickaway,1,2020-05-01,4.800000000000001,0.1
+Ohio,Pickaway,1,2020-05-01,4.800000000000001,1.0
 Ohio,Pike,-1,,,
 Ohio,Portage,1,2020-04-10,2.5,1.0
 Ohio,Preble,-1,,,
-Ohio,Putnam,-1,,,
+Ohio,Putnam,1,2020-05-08,1.0,1.0
 Ohio,Richland,-1,,,
 Ohio,Ross,-1,,,
 Ohio,Sandusky,-1,,,
 Ohio,Scioto,-1,,,
 Ohio,Seneca,-1,,,
 Ohio,Shelby,-1,,,
-Ohio,Stark,1,2020-05-01,4.6000000000000005,0.1
-Ohio,Summit,1,2020-04-29,3.3000000000000003,0.3
-Ohio,Trumbull,1,2020-04-29,1.7000000000000002,0.3
+Ohio,Stark,1,2020-05-01,4.6000000000000005,1.0
+Ohio,Summit,1,2020-05-15,6.7,0.3
+Ohio,Trumbull,1,2020-04-29,1.7000000000000002,1.0
 Ohio,Tuscarawas,-1,,,
 Ohio,Union,-1,,,
 Ohio,Van Wert,-1,,,
 Ohio,Vinton,-1,,,
 Ohio,Warren,1,2020-04-19,1.6,1.0
 Ohio,Washington,1,2020-04-16,1.1,1.0
-Ohio,Wayne,0,,,
+Ohio,Wayne,1,2020-05-08,2.6,1.0
 Ohio,Williams,-1,,,
-Ohio,Wood,1,2020-04-20,1.7000000000000002,1.0
+Ohio,Wood,1,2020-05-14,3.4000000000000004,0.4
 Ohio,Wyandot,-1,,,
 Ohio,Out of OH,-1,,,
 Oklahoma,Adair,-1,,,
@@ -2182,7 +2182,7 @@ Oklahoma,Beaver,-1,,,
 Oklahoma,Beckham,-1,,,
 Oklahoma,Blaine,-1,,,
 Oklahoma,Bryan,-1,,,
-Oklahoma,Caddo,-1,,,
+Oklahoma,Caddo,1,2020-04-24,0.8,1.0
 Oklahoma,Canadian,-1,,,
 Oklahoma,Carter,-1,,,
 Oklahoma,Cherokee,-1,,,
@@ -2229,7 +2229,7 @@ Oklahoma,Muskogee,-1,,,
 Oklahoma,Noble,-1,,,
 Oklahoma,Nowata,-1,,,
 Oklahoma,Okfuskee,-1,,,
-Oklahoma,Oklahoma,1,2020-04-02,1.8,1.0
+Oklahoma,Oklahoma,1,2020-05-07,2.1,1.0
 Oklahoma,Okmulgee,-1,,,
 Oklahoma,Osage,-1,,,
 Oklahoma,Ottawa,-1,,,
@@ -2248,7 +2248,7 @@ Oklahoma,Texas,-1,,,
 Oklahoma,Tillman,-1,,,
 Oklahoma,Tulsa,1,2020-04-09,2.4000000000000004,1.0
 Oklahoma,Wagoner,1,2020-04-22,1.4000000000000001,1.0
-Oklahoma,Washington,1,2020-04-23,1.9000000000000001,0.9
+Oklahoma,Washington,1,2020-04-23,1.9000000000000001,1.0
 Oklahoma,Washita,-1,,,
 Oklahoma,Woods,-1,,,
 Oklahoma,Woodward,-1,,,
@@ -2298,56 +2298,56 @@ Pennsylvania,Bedford,-1,,,
 Pennsylvania,Berks,1,2020-04-21,13.0,1.0
 Pennsylvania,Blair,-1,,,
 Pennsylvania,Bradford,-1,,,
-Pennsylvania,Bucks,1,2020-05-01,19.1,0.1
-Pennsylvania,Butler,-1,,,
+Pennsylvania,Bucks,1,2020-05-07,22.400000000000002,1.0
+Pennsylvania,Butler,0,,,
 Pennsylvania,Cambria,-1,,,
 Pennsylvania,Cameron,-1,,,
 Pennsylvania,Carbon,1,2020-04-17,1.1,1.0
 Pennsylvania,Centre,-1,,,
-Pennsylvania,Chester,1,2020-05-01,8.6,0.1
+Pennsylvania,Chester,1,2020-05-07,13.8,1.0
 Pennsylvania,Clarion,-1,,,
 Pennsylvania,Clearfield,-1,,,
 Pennsylvania,Clinton,-1,,,
-Pennsylvania,Columbia,1,2020-04-30,1.9000000000000001,0.2
+Pennsylvania,Columbia,1,2020-05-10,3.1,0.8
 Pennsylvania,Crawford,-1,,,
-Pennsylvania,Cumberland,1,2020-04-30,2.2,0.2
-Pennsylvania,Dauphin,1,2020-04-24,2.5,0.8
-Pennsylvania,Delaware,1,2020-04-30,27.0,0.2
+Pennsylvania,Cumberland,1,2020-05-17,3.7,0.1
+Pennsylvania,Dauphin,1,2020-04-24,2.5,1.0
+Pennsylvania,Delaware,1,2020-05-07,31.0,1.0
 Pennsylvania,Elk,-1,,,
 Pennsylvania,Erie,-1,,,
 Pennsylvania,Fayette,-1,,,
 Pennsylvania,Forest,-1,,,
-Pennsylvania,Franklin,1,2020-04-30,1.2000000000000002,0.2
+Pennsylvania,Franklin,0,,,
 Pennsylvania,Fulton,-1,,,
 Pennsylvania,Greene,-1,,,
 Pennsylvania,Huntingdon,-1,,,
 Pennsylvania,Indiana,-1,,,
 Pennsylvania,Jefferson,-1,,,
 Pennsylvania,Juniata,-1,,,
-Pennsylvania,Lackawanna,1,2020-04-22,5.6000000000000005,1.0
+Pennsylvania,Lackawanna,1,2020-05-07,7.1000000000000005,1.0
 Pennsylvania,Lancaster,1,2020-04-21,20.900000000000002,1.0
 Pennsylvania,Lawrence,-1,,,
-Pennsylvania,Lebanon,1,2020-04-21,1.3,1.0
-Pennsylvania,Lehigh,1,2020-04-30,6.2,0.2
-Pennsylvania,Luzerne,1,2020-04-23,7.6000000000000005,0.9
+Pennsylvania,Lebanon,1,2020-05-07,1.7000000000000002,1.0
+Pennsylvania,Lehigh,0,,,
+Pennsylvania,Luzerne,1,2020-04-23,7.6000000000000005,1.0
 Pennsylvania,Lycoming,-1,,,
 Pennsylvania,McKean,-1,,,
 Pennsylvania,Mercer,-1,,,
 Pennsylvania,Mifflin,-1,,,
 Pennsylvania,Monroe,1,2020-04-21,3.9000000000000004,1.0
-Pennsylvania,Montgomery,1,2020-04-30,36.5,0.2
+Pennsylvania,Montgomery,1,2020-04-30,36.5,1.0
 Pennsylvania,Montour,-1,,,
-Pennsylvania,Northampton,1,2020-05-01,12.9,0.1
+Pennsylvania,Northampton,1,2020-05-08,15.3,1.0
 Pennsylvania,Northumberland,-1,,,
 Pennsylvania,Perry,-1,,,
-Pennsylvania,Philadelphia,1,2020-04-19,36.4,1.0
+Pennsylvania,Philadelphia,1,2020-05-06,43.5,1.0
 Pennsylvania,Pike,1,2020-04-08,1.4000000000000001,1.0
 Pennsylvania,Potter,-1,,,
-Pennsylvania,Schuylkill,-1,,,
+Pennsylvania,Schuylkill,1,2020-05-09,1.6,0.9
 Pennsylvania,Snyder,-1,,,
 Pennsylvania,Somerset,-1,,,
 Pennsylvania,Sullivan,-1,,,
-Pennsylvania,Susquehanna,-1,,,
+Pennsylvania,Susquehanna,1,2020-04-30,1.2000000000000002,1.0
 Pennsylvania,Tioga,-1,,,
 Pennsylvania,Union,-1,,,
 Pennsylvania,Venango,-1,,,
@@ -2370,23 +2370,23 @@ South Carolina,Allendale,-1,,,
 South Carolina,Anderson,-1,,,
 South Carolina,Bamberg,-1,,,
 South Carolina,Barnwell,-1,,,
-South Carolina,Beaufort,1,2020-04-24,1.1,0.8
-South Carolina,Berkeley,1,2020-04-25,1.0,0.7
+South Carolina,Beaufort,1,2020-04-24,1.1,1.0
+South Carolina,Berkeley,1,2020-05-06,1.1,1.0
 South Carolina,Calhoun,-1,,,
-South Carolina,Charleston,-1,,,
+South Carolina,Charleston,1,2020-04-24,0.8,1.0
 South Carolina,Cherokee,-1,,,
 South Carolina,Chester,-1,,,
 South Carolina,Chesterfield,-1,,,
-South Carolina,Clarendon,1,2020-05-01,2.2,0.1
+South Carolina,Clarendon,1,2020-05-01,2.2,1.0
 South Carolina,Colleton,-1,,,
 South Carolina,Darlington,-1,,,
 South Carolina,Dillon,-1,,,
 South Carolina,Dorchester,-1,,,
 South Carolina,Edgefield,-1,,,
 South Carolina,Fairfield,-1,,,
-South Carolina,Florence,1,2020-05-01,1.4000000000000001,0.1
+South Carolina,Florence,1,2020-05-13,1.6,0.5
 South Carolina,Georgetown,-1,,,
-South Carolina,Greenville,1,2020-05-01,5.1000000000000005,0.1
+South Carolina,Greenville,1,2020-05-01,5.1000000000000005,1.0
 South Carolina,Greenwood,-1,,,
 South Carolina,Hampton,-1,,,
 South Carolina,Horry,1,2020-04-19,1.1,1.0
@@ -2394,8 +2394,8 @@ South Carolina,Jasper,-1,,,
 South Carolina,Kershaw,1,2020-04-16,1.1,1.0
 South Carolina,Lancaster,-1,,,
 South Carolina,Laurens,-1,,,
-South Carolina,Lee,-1,,,
-South Carolina,Lexington,1,2020-04-25,0.9,0.7
+South Carolina,Lee,1,2020-04-18,0.6000000000000001,1.0
+South Carolina,Lexington,1,2020-05-12,1.3,0.6
 South Carolina,McCormick,-1,,,
 South Carolina,Marion,-1,,,
 South Carolina,Marlboro,-1,,,
@@ -2403,12 +2403,12 @@ South Carolina,Newberry,-1,,,
 South Carolina,Oconee,-1,,,
 South Carolina,Orangeburg,-1,,,
 South Carolina,Pickens,-1,,,
-South Carolina,Richland,1,2020-05-01,4.2,0.1
+South Carolina,Richland,1,2020-05-01,4.2,1.0
 South Carolina,Saluda,-1,,,
 South Carolina,Spartanburg,1,2020-04-10,0.9,1.0
-South Carolina,Sumter,1,2020-04-30,1.5,0.2
+South Carolina,Sumter,1,2020-04-30,1.5,1.0
 South Carolina,Union,-1,,,
-South Carolina,Williamsburg,-1,,,
+South Carolina,Williamsburg,1,2020-05-08,1.1,1.0
 South Carolina,York,-1,,,
 South Carolina,Out of SC,-1,,,
 South Dakota,Aurora,-1,,,
@@ -2459,7 +2459,7 @@ South Dakota,Marshall,-1,,,
 South Dakota,Meade,-1,,,
 South Dakota,Mellette,-1,,,
 South Dakota,Miner,-1,,,
-South Dakota,Minnehaha,0,,,
+South Dakota,Minnehaha,1,2020-05-16,3.0,0.2
 South Dakota,Moody,-1,,,
 South Dakota,Oglala Lakota,-1,,,
 South Dakota,Pennington,-1,,,
@@ -2496,7 +2496,7 @@ Tennessee,Cocke,-1,,,
 Tennessee,Coffee,-1,,,
 Tennessee,Crockett,-1,,,
 Tennessee,Cumberland,-1,,,
-Tennessee,Davidson,1,2020-04-09,2.0,1.0
+Tennessee,Davidson,1,2020-05-15,2.5,0.3
 Tennessee,Decatur,-1,,,
 Tennessee,DeKalb,-1,,,
 Tennessee,Dickson,-1,,,
@@ -2531,7 +2531,7 @@ Tennessee,Lawrence,-1,,,
 Tennessee,Lewis,-1,,,
 Tennessee,Lincoln,-1,,,
 Tennessee,Loudon,-1,,,
-Tennessee,McMinn,-1,,,
+Tennessee,McMinn,1,2020-05-12,1.4000000000000001,0.6
 Tennessee,McNairy,-1,,,
 Tennessee,Macon,-1,,,
 Tennessee,Madison,-1,,,
@@ -2552,11 +2552,11 @@ Tennessee,Putnam,-1,,,
 Tennessee,Rhea,-1,,,
 Tennessee,Roane,-1,,,
 Tennessee,Robertson,-1,,,
-Tennessee,Rutherford,1,2020-04-10,0.9,1.0
+Tennessee,Rutherford,1,2020-05-13,1.6,0.5
 Tennessee,Scott,-1,,,
 Tennessee,Sequatchie,-1,,,
 Tennessee,Sevier,-1,,,
-Tennessee,Shelby,1,2020-04-17,3.0,1.0
+Tennessee,Shelby,1,2020-05-14,3.1,0.4
 Tennessee,Smith,-1,,,
 Tennessee,Stewart,-1,,,
 Tennessee,Sullivan,-1,,,
@@ -2571,7 +2571,7 @@ Tennessee,Washington,-1,,,
 Tennessee,Wayne,-1,,,
 Tennessee,Weakley,-1,,,
 Tennessee,White,-1,,,
-Tennessee,Williamson,-1,,,
+Tennessee,Williamson,1,2020-04-30,0.6000000000000001,1.0
 Tennessee,Wilson,-1,,,
 Tennessee,Out of TN,-1,,,
 Texas,Anderson,-1,,,
@@ -2593,7 +2593,7 @@ Texas,Blanco,-1,,,
 Texas,Borden,-1,,,
 Texas,Bosque,-1,,,
 Texas,Bowie,-1,,,
-Texas,Brazoria,-1,,,
+Texas,Brazoria,1,2020-04-30,0.9,1.0
 Texas,Brazos,1,2020-04-18,1.0,1.0
 Texas,Brewster,-1,,,
 Texas,Briscoe,-1,,,
@@ -2604,7 +2604,7 @@ Texas,Burnet,-1,,,
 Texas,Caldwell,-1,,,
 Texas,Calhoun,-1,,,
 Texas,Callahan,-1,,,
-Texas,Cameron,1,2020-04-24,2.1,0.8
+Texas,Cameron,1,2020-04-24,2.1,1.0
 Texas,Camp,-1,,,
 Texas,Carson,-1,,,
 Texas,Cass,-1,,,
@@ -2616,7 +2616,7 @@ Texas,Clay,-1,,,
 Texas,Cochran,-1,,,
 Texas,Coke,-1,,,
 Texas,Coleman,-1,,,
-Texas,Collin,1,2020-04-14,1.1,1.0
+Texas,Collin,1,2020-05-10,1.7000000000000002,0.8
 Texas,Collingsworth,-1,,,
 Texas,Colorado,-1,,,
 Texas,Comal,-1,,,
@@ -2630,7 +2630,7 @@ Texas,Crockett,-1,,,
 Texas,Crosby,-1,,,
 Texas,Culberson,-1,,,
 Texas,Dallam,-1,,,
-Texas,Dallas,1,2020-05-01,5.800000000000001,0.1
+Texas,Dallas,1,2020-05-16,6.1000000000000005,0.2
 Texas,Dawson,-1,,,
 Texas,Deaf Smith,-1,,,
 Texas,Delta,-1,,,
@@ -2643,8 +2643,8 @@ Texas,Duval,-1,,,
 Texas,Eastland,-1,,,
 Texas,Ector,-1,,,
 Texas,Edwards,-1,,,
-Texas,Ellis,-1,,,
-Texas,El Paso,0,,,
+Texas,Ellis,1,2020-05-08,1.4000000000000001,1.0
+Texas,El Paso,1,2020-05-16,3.4000000000000004,0.2
 Texas,Erath,-1,,,
 Texas,Falls,-1,,,
 Texas,Fannin,-1,,,
@@ -2652,7 +2652,7 @@ Texas,Fayette,-1,,,
 Texas,Fisher,-1,,,
 Texas,Floyd,-1,,,
 Texas,Foard,-1,,,
-Texas,Fort Bend,1,2020-04-11,1.4000000000000001,1.0
+Texas,Fort Bend,1,2020-05-09,1.9000000000000001,0.9
 Texas,Franklin,-1,,,
 Texas,Freestone,-1,,,
 Texas,Frio,-1,,,
@@ -2674,14 +2674,14 @@ Texas,Hamilton,-1,,,
 Texas,Hansford,-1,,,
 Texas,Hardeman,-1,,,
 Texas,Hardin,-1,,,
-Texas,Harris,1,2020-05-01,9.200000000000001,0.1
-Texas,Harrison,-1,,,
+Texas,Harris,1,2020-05-01,9.200000000000001,1.0
+Texas,Harrison,1,2020-05-16,3.0,0.2
 Texas,Hartley,-1,,,
 Texas,Haskell,-1,,,
 Texas,Hays,-1,,,
 Texas,Hemphill,-1,,,
 Texas,Henderson,-1,,,
-Texas,Hidalgo,-1,,,
+Texas,Hidalgo,1,2020-04-18,0.6000000000000001,1.0
 Texas,Hill,-1,,,
 Texas,Hockley,-1,,,
 Texas,Hood,-1,,,
@@ -2696,7 +2696,7 @@ Texas,Jack,-1,,,
 Texas,Jackson,-1,,,
 Texas,Jasper,-1,,,
 Texas,Jeff Davis,-1,,,
-Texas,Jefferson,1,2020-04-25,1.9000000000000001,0.7
+Texas,Jefferson,1,2020-04-25,1.9000000000000001,1.0
 Texas,Jim Hogg,-1,,,
 Texas,Jim Wells,-1,,,
 Texas,Johnson,-1,,,
@@ -2738,16 +2738,16 @@ Texas,Matagorda,-1,,,
 Texas,Maverick,-1,,,
 Texas,Medina,-1,,,
 Texas,Menard,-1,,,
-Texas,Midland,-1,,,
+Texas,Midland,1,2020-05-09,0.8,0.9
 Texas,Milam,-1,,,
 Texas,Mills,-1,,,
 Texas,Mitchell,-1,,,
 Texas,Montague,-1,,,
-Texas,Montgomery,1,2020-04-29,0.9,0.3
-Texas,Moore,-1,,,
+Texas,Montgomery,1,2020-04-29,0.9,1.0
+Texas,Moore,1,2020-05-03,0.8,1.0
 Texas,Morris,-1,,,
 Texas,Motley,-1,,,
-Texas,Nacogdoches,-1,,,
+Texas,Nacogdoches,1,2020-05-16,2.4000000000000004,0.2
 Texas,Navarro,-1,,,
 Texas,Newton,-1,,,
 Texas,Nolan,-1,,,
@@ -2756,12 +2756,12 @@ Texas,Ochiltree,-1,,,
 Texas,Oldham,-1,,,
 Texas,Orange,-1,,,
 Texas,Palo Pinto,-1,,,
-Texas,Panola,-1,,,
+Texas,Panola,1,2020-05-16,2.1,0.2
 Texas,Parker,-1,,,
 Texas,Parmer,-1,,,
 Texas,Pecos,-1,,,
 Texas,Polk,-1,,,
-Texas,Potter,-1,,,
+Texas,Potter,1,2020-05-15,2.0,0.3
 Texas,Presidio,-1,,,
 Texas,Rains,-1,,,
 Texas,Randall,-1,,,
@@ -2793,14 +2793,14 @@ Texas,Sterling,-1,,,
 Texas,Stonewall,-1,,,
 Texas,Sutton,-1,,,
 Texas,Swisher,-1,,,
-Texas,Tarrant,1,2020-05-01,4.5,0.1
+Texas,Tarrant,1,2020-05-07,4.6000000000000005,1.0
 Texas,Taylor,-1,,,
 Texas,Terrell,-1,,,
 Texas,Terry,-1,,,
 Texas,Throckmorton,-1,,,
 Texas,Titus,-1,,,
 Texas,Tom Green,-1,,,
-Texas,Travis,1,2020-04-17,3.0,1.0
+Texas,Travis,1,2020-05-13,3.5,0.5
 Texas,Trinity,-1,,,
 Texas,Tyler,-1,,,
 Texas,Upshur,-1,,,
@@ -2809,17 +2809,17 @@ Texas,Uvalde,-1,,,
 Texas,Val Verde,-1,,,
 Texas,Van Zandt,-1,,,
 Texas,Victoria,-1,,,
-Texas,Walker,-1,,,
+Texas,Walker,1,2020-05-15,5.1000000000000005,0.3
 Texas,Waller,-1,,,
 Texas,Ward,-1,,,
-Texas,Washington,1,2020-04-24,1.9000000000000001,0.8
+Texas,Washington,1,2020-04-24,1.9000000000000001,1.0
 Texas,Webb,1,2020-04-03,1.0,1.0
 Texas,Wharton,-1,,,
 Texas,Wheeler,-1,,,
 Texas,Wichita,-1,,,
 Texas,Wilbarger,-1,,,
 Texas,Willacy,-1,,,
-Texas,Williamson,1,2020-05-01,1.1,0.1
+Texas,Williamson,1,2020-05-14,1.4000000000000001,0.4
 Texas,Wilson,-1,,,
 Texas,Winkler,-1,,,
 Texas,Wise,-1,,,
@@ -2853,7 +2853,7 @@ Utah,Sevier,-1,,,
 Utah,Summit,-1,,,
 Utah,Tooele,-1,,,
 Utah,Uintah,-1,,,
-Utah,Utah,-1,,,
+Utah,Utah,1,2020-04-19,0.9,1.0
 Utah,Wasatch,-1,,,
 Utah,Washington,-1,,,
 Utah,Wayne,-1,,,
@@ -2900,7 +2900,7 @@ Virginia,Caroline,-1,,,
 Virginia,Carroll,-1,,,
 Virginia,Charles City,-1,,,
 Virginia,Charlotte,-1,,,
-Virginia,Chesterfield,1,2020-04-26,3.3000000000000003,0.6
+Virginia,Chesterfield,1,2020-04-26,3.3000000000000003,1.0
 Virginia,Clarke,-1,,,
 Virginia,Craig,-1,,,
 Virginia,Culpeper,-1,,,
@@ -2908,7 +2908,7 @@ Virginia,Cumberland,-1,,,
 Virginia,Dickenson,-1,,,
 Virginia,Dinwiddie,-1,,,
 Virginia,Essex,-1,,,
-Virginia,Fairfax,1,2020-04-24,13.5,0.8
+Virginia,Fairfax,1,2020-05-04,17.5,1.0
 Virginia,Fauquier,-1,,,
 Virginia,Floyd,-1,,,
 Virginia,Fluvanna,-1,,,
@@ -2921,23 +2921,23 @@ Virginia,Grayson,-1,,,
 Virginia,Greene,-1,,,
 Virginia,Greensville,-1,,,
 Virginia,Halifax,-1,,,
-Virginia,Hanover,1,2020-05-01,1.0,0.1
+Virginia,Hanover,1,2020-05-01,1.0,1.0
 Virginia,Henrico,1,2020-04-13,12.0,1.0
 Virginia,Henry,-1,,,
 Virginia,Highland,-1,,,
 Virginia,Isle of Wight,-1,,,
-Virginia,James City,1,2020-04-23,3.0,0.9
+Virginia,James City,1,2020-04-23,3.0,1.0
 Virginia,King and Queen,-1,,,
 Virginia,King George,-1,,,
 Virginia,King William,-1,,,
 Virginia,Lancaster,-1,,,
 Virginia,Lee,-1,,,
-Virginia,Loudoun,1,2020-04-11,1.2000000000000002,1.0
+Virginia,Loudoun,1,2020-05-15,4.5,0.3
 Virginia,Louisa,-1,,,
 Virginia,Lunenburg,-1,,,
 Virginia,Madison,-1,,,
 Virginia,Mathews,-1,,,
-Virginia,Mecklenburg,1,2020-04-26,2.4000000000000004,0.6
+Virginia,Mecklenburg,1,2020-04-26,2.4000000000000004,1.0
 Virginia,Middlesex,-1,,,
 Virginia,Montgomery,-1,,,
 Virginia,Nelson,-1,,,
@@ -2946,13 +2946,13 @@ Virginia,Northampton,-1,,,
 Virginia,Northumberland,-1,,,
 Virginia,Nottoway,-1,,,
 Virginia,Orange,-1,,,
-Virginia,Page,-1,,,
+Virginia,Page,1,2020-05-08,2.4000000000000004,1.0
 Virginia,Patrick,-1,,,
 Virginia,Pittsylvania,-1,,,
 Virginia,Powhatan,-1,,,
 Virginia,Prince Edward,-1,,,
 Virginia,Prince George,-1,,,
-Virginia,Prince William,1,2020-04-24,5.1000000000000005,0.8
+Virginia,Prince William,1,2020-04-24,5.1000000000000005,1.0
 Virginia,Pulaski,-1,,,
 Virginia,Rappahannock,-1,,,
 Virginia,Richmond,-1,,,
@@ -2961,7 +2961,7 @@ Virginia,Rockbridge,-1,,,
 Virginia,Rockingham,-1,,,
 Virginia,Russell,-1,,,
 Virginia,Scott,-1,,,
-Virginia,Shenandoah,-1,,,
+Virginia,Shenandoah,1,2020-05-15,1.0,0.3
 Virginia,Smyth,-1,,,
 Virginia,Southampton,-1,,,
 Virginia,Spotsylvania,-1,,,
@@ -2975,11 +2975,11 @@ Virginia,Westmoreland,-1,,,
 Virginia,Wise,-1,,,
 Virginia,Wythe,-1,,,
 Virginia,York,-1,,,
-Virginia,Alexandria,1,2020-04-25,2.3000000000000003,0.7
+Virginia,Alexandria,1,2020-04-25,2.3000000000000003,1.0
 Virginia,Bristol,-1,,,
 Virginia,Buena Vista,-1,,,
 Virginia,Charlottesville,-1,,,
-Virginia,Chesapeake,-1,,,
+Virginia,Chesapeake,1,2020-05-04,0.8,1.0
 Virginia,Colonial Heights,-1,,,
 Virginia,Covington,-1,,,
 Virginia,Danville,-1,,,
@@ -2990,25 +2990,25 @@ Virginia,Franklin City,-1,,,
 Virginia,Fredericksburg,-1,,,
 Virginia,Galax,-1,,,
 Virginia,Hampton,-1,,,
-Virginia,Harrisonburg,0,,,
+Virginia,Harrisonburg,1,2020-05-05,1.7000000000000002,1.0
 Virginia,Hopewell,-1,,,
 Virginia,Lexington,-1,,,
 Virginia,Lynchburg,-1,,,
 Virginia,Manassas,-1,,,
 Virginia,Manassas Park,-1,,,
 Virginia,Martinsville,-1,,,
-Virginia,Newport News,-1,,,
+Virginia,Newport News,1,2020-04-23,1.5,1.0
 Virginia,Norfolk,-1,,,
 Virginia,Norton,-1,,,
 Virginia,Petersburg,-1,,,
 Virginia,Poquoson,-1,,,
-Virginia,Portsmouth,-1,,,
+Virginia,Portsmouth,1,2020-05-03,0.9,1.0
 Virginia,Radford,-1,,,
-Virginia,Richmond City,1,2020-04-25,1.2000000000000002,0.7
+Virginia,Richmond City,1,2020-04-25,1.2000000000000002,1.0
 Virginia,Roanoke City,-1,,,
 Virginia,Salem,-1,,,
 Virginia,Staunton,-1,,,
-Virginia,Suffolk,1,2020-04-30,2.1,0.2
+Virginia,Suffolk,1,2020-04-30,2.1,1.0
 Virginia,Virginia Beach,1,2020-04-18,1.5,1.0
 Virginia,Waynesboro,-1,,,
 Virginia,Williamsburg,-1,,,
@@ -3024,11 +3024,11 @@ Washington,Columbia,-1,,,
 Washington,Cowlitz,-1,,,
 Washington,Douglas,-1,,,
 Washington,Ferry,-1,,,
-Washington,Franklin,1,2020-05-01,1.4000000000000001,0.1
+Washington,Franklin,1,2020-05-01,1.4000000000000001,1.0
 Washington,Garfield,-1,,,
 Washington,Grant,-1,,,
 Washington,Grays Harbor,-1,,,
-Washington,Island,-1,,,
+Washington,Island,1,2020-04-09,0.7000000000000001,1.0
 Washington,Jefferson,-1,,,
 Washington,King,1,2020-04-05,14.100000000000001,1.0
 Washington,Kitsap,-1,,,
@@ -3040,7 +3040,7 @@ Washington,Mason,-1,,,
 Washington,Okanogan,-1,,,
 Washington,Pacific,-1,,,
 Washington,Pend Oreille,-1,,,
-Washington,Pierce,1,2020-04-23,3.0,0.9
+Washington,Pierce,1,2020-04-23,3.0,1.0
 Washington,San Juan,-1,,,
 Washington,Skagit,1,2020-04-22,0.7000000000000001,1.0
 Washington,Skamania,-1,,,
@@ -3052,7 +3052,7 @@ Washington,Wahkiakum,-1,,,
 Washington,Walla Walla,-1,,,
 Washington,Whatcom,1,2020-04-07,3.0,1.0
 Washington,Whitman,-1,,,
-Washington,Yakima,1,2020-04-16,2.4000000000000004,1.0
+Washington,Yakima,1,2020-05-14,3.0,0.4
 Washington,Out of WA,-1,,,
 West Virginia,Barbour,-1,,,
 West Virginia,Berkeley,-1,,,
@@ -3071,9 +3071,9 @@ West Virginia,Hampshire,-1,,,
 West Virginia,Hancock,-1,,,
 West Virginia,Hardy,-1,,,
 West Virginia,Harrison,-1,,,
-West Virginia,Jackson,1,2020-04-25,2.1,0.7
+West Virginia,Jackson,1,2020-04-25,2.1,1.0
 West Virginia,Jefferson,-1,,,
-West Virginia,Kanawha,-1,,,
+West Virginia,Kanawha,1,2020-05-03,1.4000000000000001,1.0
 West Virginia,Lewis,-1,,,
 West Virginia,Lincoln,-1,,,
 West Virginia,Logan,-1,,,
@@ -3114,7 +3114,7 @@ Wisconsin,Adams,-1,,,
 Wisconsin,Ashland,-1,,,
 Wisconsin,Barron,-1,,,
 Wisconsin,Bayfield,-1,,,
-Wisconsin,Brown,-1,,,
+Wisconsin,Brown,1,2020-05-09,2.0,0.9
 Wisconsin,Buffalo,-1,,,
 Wisconsin,Burnett,-1,,,
 Wisconsin,Calumet,-1,,,
@@ -3131,7 +3131,7 @@ Wisconsin,Eau Claire,-1,,,
 Wisconsin,Florence,-1,,,
 Wisconsin,Fond du Lac,-1,,,
 Wisconsin,Forest,-1,,,
-Wisconsin,Grant,-1,,,
+Wisconsin,Grant,1,2020-04-29,0.8,1.0
 Wisconsin,Green,-1,,,
 Wisconsin,Green Lake,-1,,,
 Wisconsin,Iowa,-1,,,
@@ -3139,7 +3139,7 @@ Wisconsin,Iron,-1,,,
 Wisconsin,Jackson,-1,,,
 Wisconsin,Jefferson,-1,,,
 Wisconsin,Juneau,-1,,,
-Wisconsin,Kenosha,1,2020-05-01,1.5,0.1
+Wisconsin,Kenosha,1,2020-05-01,1.5,1.0
 Wisconsin,Kewaunee,-1,,,
 Wisconsin,La Crosse,-1,,,
 Wisconsin,Lafayette,-1,,,
@@ -3155,7 +3155,7 @@ Wisconsin,Monroe,-1,,,
 Wisconsin,Oconto,-1,,,
 Wisconsin,Oneida,-1,,,
 Wisconsin,Outagamie,-1,,,
-Wisconsin,Ozaukee,-1,,,
+Wisconsin,Ozaukee,1,2020-04-10,0.7000000000000001,1.0
 Wisconsin,Pepin,-1,,,
 Wisconsin,Pierce,-1,,,
 Wisconsin,Polk,-1,,,
@@ -3163,7 +3163,7 @@ Wisconsin,Portage,-1,,,
 Wisconsin,Price,-1,,,
 Wisconsin,Racine,1,2020-04-17,0.9,1.0
 Wisconsin,Richland,-1,,,
-Wisconsin,Rock,-1,,,
+Wisconsin,Rock,1,2020-05-07,1.3,1.0
 Wisconsin,Rusk,-1,,,
 Wisconsin,St. Croix,-1,,,
 Wisconsin,Sauk,-1,,,
@@ -3174,10 +3174,10 @@ Wisconsin,Taylor,-1,,,
 Wisconsin,Trempealeau,-1,,,
 Wisconsin,Vernon,-1,,,
 Wisconsin,Vilas,-1,,,
-Wisconsin,Walworth,-1,,,
+Wisconsin,Walworth,1,2020-04-21,1.0,1.0
 Wisconsin,Washburn,-1,,,
 Wisconsin,Washington,-1,,,
-Wisconsin,Waukesha,1,2020-05-01,1.3,0.1
+Wisconsin,Waukesha,1,2020-05-01,1.3,1.0
 Wisconsin,Waupaca,-1,,,
 Wisconsin,Waushara,-1,,,
 Wisconsin,Winnebago,-1,,,

@@ -69,6 +69,6 @@ if __name__ == "__main__":
     # reports_combiner('2020-04-25')
 
     import numpy as np
-    dates = np.arange('2020-01-22','2020-05-03',dtype='datetime64[D]')
+    dates = np.arange('2020-05-03','2020-05-19',dtype='datetime64[D]')
     for date in dates:
         reports_combiner(date)

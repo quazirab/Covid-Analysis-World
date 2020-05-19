@@ -1,0 +1,328 @@
+country_region,province_state,inflection_result,inflection_date,slope_max,trust_index
+Afghanistan,,1,2020-05-17,10.600000000000001,0.1
+Albania,,1,2020-04-02,1.6,1.0
+Algeria,,1,2020-04-05,23.200000000000003,1.0
+Andorra,,1,2020-04-01,2.8000000000000003,1.0
+Angola,,-1,,,
+Antigua and Barbuda,,-1,,,
+Argentina,,1,2020-05-15,11.8,0.3
+Armenia,,0,,,
+Australia,Australian Capital Territory,-1,,,
+Australia,New South Wales,1,2020-04-07,2.4000000000000004,1.0
+Australia,Northern Territory,-1,,,
+Australia,Queensland,-1,,,
+Australia,South Australia,-1,,,
+Australia,Tasmania,1,2020-04-26,1.0,1.0
+Australia,Victoria,1,2020-04-04,1.1,1.0
+Australia,Western Australia,-1,,,
+Australia,,1,2020-04-08,5.0,1.0
+Austria,,1,2020-04-10,25.0,1.0
+Azerbaijan,,1,2020-04-19,1.5,1.0
+Bahamas,,1,2020-04-06,1.1,1.0
+Bahrain,,1,2020-05-15,0.9,0.3
+Bangladesh,,0,,,
+Barbados,,-1,,,
+Belarus,,1,2020-05-12,5.1000000000000005,0.6
+Belgium,,1,2020-04-12,354.3,1.0
+Benin,,-1,,,
+Bhutan,,-1,,,
+Bolivia,,1,2020-05-15,10.8,0.3
+Bosnia and Herzegovina,,1,2020-05-09,5.800000000000001,0.9
+Brazil,,1,2020-05-15,815.6,0.3
+Brunei,,-1,,,
+Bulgaria,,1,2020-05-02,3.2,1.0
+Burkina Faso,,1,2020-03-29,2.0,1.0
+Cabo Verde,,-1,,,
+Cambodia,,-1,,,
+Cameroon,,1,2020-05-07,13.200000000000001,1.0
+Canada,Alberta,1,2020-05-06,4.7,1.0
+Canada,British Columbia,1,2020-04-13,5.0,1.0
+Canada,Grand Princess,-1,,,
+Canada,Manitoba,-1,,,
+Canada,New Brunswick,-1,,,
+Canada,Newfoundland and Labrador,-1,,,
+Canada,Nova Scotia,1,2020-05-05,3.1,1.0
+Canada,Ontario,1,2020-05-06,71.5,1.0
+Canada,Prince Edward Island,-1,,,
+Canada,Quebec,1,2020-05-02,116.60000000000001,1.0
+Canada,Saskatchewan,-1,,,
+Canada,Diamond Princess,-1,,,
+Canada,Northwest Territories,-1,,,
+Canada,Yukon,-1,,,
+Canada,,1,2020-05-07,185.5,1.0
+Central African Republic,,-1,,,
+Chad,,1,2020-05-08,4.6000000000000005,1.0
+Chile,,0,,,
+China,Anhui,-1,,,
+China,Beijing,-1,,,
+China,Chongqing,-1,,,
+China,Fujian,-1,,,
+China,Gansu,-1,,,
+China,Guangdong,-1,,,
+China,Guangxi,-1,,,
+China,Guizhou,-1,,,
+China,Hainan,-1,,,
+China,Hebei,-1,,,
+China,Heilongjiang,1,2020-02-11,1.2000000000000002,1.0
+China,Henan,1,2020-02-18,1.9000000000000001,1.0
+China,Hong Kong,-1,,,
+China,Hubei,1,2020-04-18,387.20000000000005,1.0
+China,Hunan,-1,,,
+China,Inner Mongolia,-1,,,
+China,Jiangsu,-1,,,
+China,Jiangxi,-1,,,
+China,Jilin,-1,,,
+China,Liaoning,-1,,,
+China,Macau,-1,,,
+China,Ningxia,-1,,,
+China,Qinghai,-1,,,
+China,Shaanxi,-1,,,
+China,Shandong,-1,,,
+China,Shanghai,-1,,,
+China,Shanxi,-1,,,
+China,Sichuan,-1,,,
+China,Tianjin,-1,,,
+China,Tibet,-1,,,
+China,Xinjiang,-1,,,
+China,Yunnan,-1,,,
+China,Zhejiang,-1,,,
+China,,1,2020-04-18,387.20000000000005,1.0
+Colombia,,1,2020-05-06,18.400000000000002,1.0
+Congo (Brazzaville),,1,2020-05-15,1.2000000000000002,0.3
+Congo (Kinshasa),,1,2020-05-16,3.4000000000000004,0.2
+Costa Rica,,1,2020-05-16,0.7000000000000001,0.2
+Cote d'Ivoire,,1,2020-04-22,1.6,1.0
+Croatia,,1,2020-05-01,3.8000000000000003,1.0
+Diamond Princess,,1,2020-02-29,0.8,1.0
+Cuba,,1,2020-04-26,3.6,1.0
+Cyprus,,1,2020-04-02,1.2000000000000002,1.0
+Czechia,,1,2020-04-09,11.100000000000001,1.0
+Denmark,Faroe Islands,-1,,,
+Denmark,Greenland,-1,,,
+Denmark,,1,2020-03-24,0.8303030303030301,1.0
+Djibouti,,-1,,,
+Dominican Republic,,1,2020-04-13,16.5,1.0
+Ecuador,,1,2020-05-04,183.9,1.0
+Egypt,,1,2020-04-30,19.3,1.0
+El Salvador,,1,2020-05-17,2.3000000000000003,0.1
+Equatorial Guinea,,-1,,,
+Eritrea,,-1,,,
+Estonia,,1,2020-04-16,2.9000000000000004,1.0
+Eswatini,,-1,,,
+Ethiopia,,-1,,,
+Fiji,,-1,,,
+Finland,,1,2020-04-23,20.700000000000003,1.0
+France,French Guiana,-1,,,
+France,French Polynesia,-1,,,
+France,Guadeloupe,1,2020-04-22,1.2000000000000002,1.0
+France,Mayotte,1,2020-05-15,1.4000000000000001,0.3
+France,New Caledonia,-1,,,
+France,Reunion,-1,,,
+France,Saint Barthelemy,-1,,,
+France,St Martin,-1,,,
+France,Martinique,1,2020-04-21,1.6,1.0
+France,,1,2020-04-10,1045.4,1.0
+France,Saint Pierre and Miquelon,-1,,,
+Gabon,,1,2020-05-04,0.8,1.0
+Gambia,,-1,,,
+Georgia,,1,2020-05-03,0.8,1.0
+Germany,,1,2020-04-17,307.40000000000003,1.0
+Ghana,,1,2020-05-16,1.8,0.2
+Greece,,1,2020-04-06,6.2,1.0
+Guatemala,,1,2020-04-26,1.6,1.0
+Guinea,,1,2020-05-15,1.2000000000000002,0.3
+Guyana,,1,2020-04-03,0.8,1.0
+Haiti,,1,2020-05-13,1.3,0.5
+Holy See,,-1,,,
+Honduras,,1,2020-05-07,6.2,1.0
+Hungary,,1,2020-04-24,15.200000000000001,1.0
+Iceland,,1,2020-04-03,0.6000000000000001,1.0
+India,,0,,,
+Indonesia,,1,2020-04-14,37.800000000000004,1.0
+Iran,,1,2020-03-28,146.70000000000002,1.0
+Iraq,,1,2020-03-27,4.3,1.0
+Ireland,,1,2020-04-25,91.10000000000001,1.0
+Israel,,1,2020-04-19,10.600000000000001,1.0
+Italy,,1,2020-03-30,839.7,1.0
+Jamaica,,-1,,,
+Japan,,1,2020-04-24,28.3,1.0
+Jordan,,-1,,,
+Kazakhstan,,1,2020-04-16,1.8,1.0
+Kenya,,1,2020-05-16,3.3000000000000003,0.2
+"Korea, South",,1,2020-03-27,6.7,1.0
+Kuwait,,1,2020-05-13,8.3,0.5
+Kyrgyzstan,,1,2020-04-07,0.9,1.0
+Latvia,,1,2020-04-23,1.8,1.0
+Lebanon,,1,2020-04-03,1.6,1.0
+Liberia,,1,2020-04-28,1.7000000000000002,1.0
+Liechtenstein,,-1,,,
+Lithuania,,1,2020-04-16,2.4000000000000004,1.0
+Luxembourg,,1,2020-04-12,5.0,1.0
+Madagascar,,-1,,,
+Malaysia,,1,2020-03-31,4.4,1.0
+Maldives,,-1,,,
+Malta,,-1,,,
+Mauritania,,-1,,,
+Mauritius,,1,2020-04-02,1.1,1.0
+Mexico,,1,2020-05-15,293.90000000000003,0.3
+Moldova,,1,2020-05-11,7.9,0.7
+Monaco,,-1,,,
+Mongolia,,-1,,,
+Montenegro,,-1,,,
+Morocco,,1,2020-04-07,10.5,1.0
+Namibia,,-1,,,
+Nepal,,-1,,,
+Netherlands,Aruba,-1,,,
+Netherlands,Curacao,-1,,,
+Netherlands,Sint Maarten,1,2020-04-06,1.2000000000000002,1.0
+Netherlands,,1,2020-04-17,164.20000000000002,1.0
+Netherlands,"Bonaire, Sint Eustatius and Saba",-1,,,
+New Zealand,,1,2020-04-24,1.6,1.0
+Nicaragua,,-1,,,
+Niger,,1,2020-05-09,2.0,0.9
+Nigeria,,1,2020-05-11,11.200000000000001,0.7
+North Macedonia,,1,2020-04-30,4.0,1.0
+Norway,,1,2020-04-09,9.9,1.0
+Oman,,0,,,
+Pakistan,,1,2020-05-12,34.6,0.6
+Panama,,1,2020-05-08,7.7,1.0
+Papua New Guinea,,-1,,,
+Paraguay,,1,2020-03-26,0.6000000000000001,1.0
+Peru,,0,,,
+Philippines,,1,2020-04-13,30.0,1.0
+Poland,,1,2020-04-25,31.400000000000002,1.0
+Portugal,,1,2020-04-14,32.9,1.0
+Qatar,,1,2020-04-08,0.8,1.0
+Romania,,1,2020-05-02,26.700000000000003,1.0
+Russia,,1,2020-05-17,107.0,0.1
+Rwanda,,-1,,,
+Saint Lucia,,-1,,,
+Saint Vincent and the Grenadines,,-1,,,
+San Marino,,1,2020-03-21,2.9000000000000004,1.0
+Saudi Arabia,,1,2020-05-09,9.8,0.9
+Senegal,,1,2020-05-10,1.8,0.8
+Serbia,,1,2020-04-04,6.7,1.0
+Seychelles,,-1,,,
+Singapore,,1,2020-05-03,1.0,1.0
+Slovakia,,1,2020-04-18,2.1,1.0
+Slovenia,,1,2020-04-08,4.4,1.0
+Somalia,,1,2020-04-26,3.2,1.0
+South Africa,,1,2020-05-16,13.8,0.2
+Spain,,1,2020-04-03,884.8000000000001,1.0
+Sri Lanka,,-1,,,
+Sudan,,1,2020-05-13,6.2,0.5
+Suriname,,-1,,,
+Sweden,,1,2020-04-24,140.0,1.0
+Switzerland,,1,2020-04-02,60.1,1.0
+Taiwan*,,-1,,,
+Tanzania,,1,2020-04-30,1.8,1.0
+Thailand,,1,2020-04-04,2.7,1.0
+Togo,,1,2020-05-01,0.9,1.0
+Trinidad and Tobago,,-1,,,
+Tunisia,,1,2020-04-03,2.4000000000000004,1.0
+Turkey,,1,2020-04-19,124.5,1.0
+Uganda,,-1,,,
+Ukraine,,0,,,
+United Arab Emirates,,1,2020-05-10,10.200000000000001,0.8
+United Kingdom,Bermuda,-1,,,
+United Kingdom,Cayman Islands,-1,,,
+United Kingdom,Channel Islands,1,2020-04-17,2.8000000000000003,1.0
+United Kingdom,Gibraltar,-1,,,
+United Kingdom,Isle of Man,1,2020-04-23,2.6,1.0
+United Kingdom,Montserrat,-1,,,
+United Kingdom,,1,2020-04-10,1079.1000000000001,1.0
+United Kingdom,Anguilla,-1,,,
+United Kingdom,British Virgin Islands,-1,,,
+United Kingdom,Turks and Caicos Islands,-1,,,
+United Kingdom,Falkland Islands (Malvinas),-1,,,
+Uruguay,,1,2020-04-04,1.0,1.0
+US,,1,2020-04-18,2365.9,1.0
+US,Alabama,1,2020-05-08,22.400000000000002,1.0
+US,Alaska,1,2020-04-06,0.9,1.0
+US,American Samoa,-1,,,
+US,Arizona,1,2020-05-08,36.5,1.0
+US,Arkansas,1,2020-05-04,5.0,1.0
+US,California,1,2020-04-24,104.30000000000001,1.0
+US,Colorado,1,2020-04-24,57.7,1.0
+US,Connecticut,1,2020-04-23,123.7,1.0
+US,Delaware,1,2020-05-16,12.200000000000001,0.2
+US,Diamond Princess,-1,,,
+US,District of Columbia,1,2020-04-25,13.200000000000001,1.0
+US,Florida,1,2020-05-08,66.9,1.0
+US,Georgia,1,2020-04-30,53.800000000000004,1.0
+US,Grand Princess,-1,,,
+US,Guam,-1,,,
+US,Hawaii,1,2020-04-12,1.0,1.0
+US,Idaho,1,2020-04-16,4.0,1.0
+US,Illinois,1,2020-05-15,152.70000000000002,0.3
+US,Indiana,1,2020-05-01,87.5,1.0
+US,Iowa,1,2020-05-15,15.9,0.3
+US,Kansas,1,2020-04-21,7.1000000000000005,1.0
+US,Kentucky,1,2020-04-23,12.100000000000001,1.0
+US,Louisiana,1,2020-04-24,85.80000000000001,1.0
+US,Maine,1,2020-04-24,3.2,1.0
+US,Maryland,1,2020-04-21,79.7,1.0
+US,Massachusetts,1,2020-04-24,209.9,1.0
+US,Michigan,1,2020-04-24,163.60000000000002,1.0
+US,Minnesota,1,2020-05-08,26.700000000000003,1.0
+US,Mississippi,1,2020-05-08,25.200000000000003,1.0
+US,Missouri,1,2020-05-08,23.400000000000002,1.0
+US,Montana,1,2020-04-01,1.4000000000000001,1.0
+US,Nebraska,1,2020-05-17,6.0,0.1
+US,Nevada,1,2020-04-25,10.9,1.0
+US,New Hampshire,1,2020-05-09,10.700000000000001,0.9
+US,New Jersey,1,2020-05-01,377.40000000000003,1.0
+US,New Mexico,1,2020-05-15,11.3,0.3
+US,New York,1,2020-04-09,1001.1,1.0
+US,North Carolina,1,2020-05-15,22.5,0.3
+US,North Dakota,1,2020-05-08,2.2,1.0
+US,Northern Mariana Islands,-1,,,
+US,Ohio,1,2020-04-30,68.0,1.0
+US,Oklahoma,1,2020-04-23,10.5,1.0
+US,Oregon,1,2020-04-10,4.9,1.0
+US,Pennsylvania,1,2020-05-07,224.5,1.0
+US,Puerto Rico,1,2020-04-26,5.6000000000000005,1.0
+US,Rhode Island,1,2020-05-05,19.700000000000003,1.0
+US,South Carolina,1,2020-05-01,21.0,1.0
+US,South Dakota,1,2020-05-02,2.8000000000000003,1.0
+US,Tennessee,1,2020-05-14,11.0,0.4
+US,Texas,1,2020-05-16,45.2,0.2
+US,Utah,1,2020-05-07,3.0,1.0
+US,Vermont,1,2020-04-18,2.4000000000000004,1.0
+US,Virgin Islands,-1,,,
+US,Virginia,1,2020-05-04,34.300000000000004,1.0
+US,Washington,1,2020-04-08,28.6,1.0
+US,West Virginia,1,2020-04-22,3.0,1.0
+US,Wisconsin,1,2020-04-16,13.5,1.0
+US,Wyoming,1,2020-04-24,1.5,1.0
+Uzbekistan,,1,2020-04-24,0.7000000000000001,1.0
+Venezuela,,1,2020-04-04,1.2000000000000002,1.0
+Vietnam,,-1,,,
+Zambia,,-1,,,
+Zimbabwe,,-1,,,
+Dominica,,-1,,,
+Grenada,,-1,,,
+Mozambique,,-1,,,
+Syria,,-1,,,
+Timor-Leste,,-1,,,
+Belize,,-1,,,
+Laos,,-1,,,
+Libya,,-1,,,
+West Bank and Gaza,,-1,,,
+Guinea-Bissau,,-1,,,
+Mali,,1,2020-04-24,2.1,1.0
+Saint Kitts and Nevis,,-1,,,
+Kosovo,,1,2020-04-22,1.8,1.0
+Burma,,-1,,,
+MS Zaandam,,-1,,,
+Botswana,,-1,,,
+Burundi,,-1,,,
+Sierra Leone,,1,2020-05-14,2.3000000000000003,0.4
+Malawi,,-1,,,
+South Sudan,,-1,,,
+Western Sahara,,-1,,,
+Sao Tome and Principe,,-1,,,
+Yemen,,1,2020-05-17,2.2,0.1
+Comoros,,-1,,,
+Tajikistan,,1,2020-05-16,4.0,0.2
+Lesotho,,-1,,,
